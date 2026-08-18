@@ -1,4 +1,4 @@
-def publish_post(service, blog_id, title, content, image_url=None, labels=[]):  # noqa: B006
+def publish_post(service, blog_id, title, content, image_url=None, labels=[]):
     """
     Blogger API v3 ব্যবহার করে ব্লগে নতুন পোস্ট পাবলিশ করার ফাংশন।
     """
@@ -10,9 +10,11 @@ def publish_post(service, blog_id, title, content, image_url=None, labels=[]):  
             f'</div>'
         )
     
-    body_html += f'<div>{content.replace("\n", "<br>")}</div>'
+    # f-string এর বাইরে \n কে <br> তে রূপান্তর করা হয়েছে
+    formatted_content = content.replace("\n", "<br>")
+    body_html += f'<div>{formatted_content}</div>'
 
-    # Blogger API-এর জন্য ট্যাগগুলো পরিশোধন করা (ফাঁকা বা স্পেশাল ক্যারেক্টার রিমুভ)
+    # Blogger API-এর জন্য ট্যাগ পরিশোধন
     clean_labels = []
     if isinstance(labels, list):
         for label in labels:
