@@ -4,18 +4,21 @@ import time
 
 def rewrite_article(ai_client, title, text):
     prompt = f"""
-    You are an expert news editor. Rewrite the following news in standard fluent Bengali for a professional news portal.
+    You are an expert news editor for a leading Bengali news portal. 
+    Rewrite or translate the following news article into fluent, standard Bengali.
     
-    Structure:
-    - Create an engaging Bengali headline.
-    - Write a detailed article (minimum 250-300 words).
-    - Provide 3-5 short tags in Bengali/English.
+    Instructions:
+    - If the input is in English, translate and rewrite it into compelling standard Bengali.
+    - If the input is already in Bengali, rewrite it to make it unique and engaging.
+    - Create an attractive Bengali headline (title).
+    - Provide a detailed news article in Bengali (minimum 250-300 words).
+    - Include 3-5 relevant Bengali/English tags.
 
     Return the output ONLY in JSON format like this:
     {{
         "title": "আপনার বাংলা শিরোনাম",
         "content": "বাংলা বিস্তারিত খবর...",
-        "tags": ["জাতীয়", "সংবাদ"]
+        "tags": ["জাতীয়", "আন্তর্জাতিক", "খবর"]
     }}
 
     Original Title: {title}
@@ -33,7 +36,6 @@ def rewrite_article(ai_client, title, text):
             clean_json = response.text.strip().replace('```json', '').replace('```', '')
             data = json.loads(clean_json)
 
-            # নিশ্চিত করা যেন tags সর্বদা লিস্ট হয়
             if not isinstance(data.get('tags'), list):
                 data['tags'] = ["News"]
 
@@ -47,6 +49,6 @@ def rewrite_article(ai_client, title, text):
                 print("⚠️ AI Rewrite ত্রুটি:", e)
                 return {
                     "title": title, 
-                    "content": text, 
+                    "content": text,
                     "tags": ["News"]
                 }

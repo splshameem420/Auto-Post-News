@@ -11,13 +11,14 @@ from Publisher.blogger_publisher import publish_post
 from Rewrite.ai_rewriter import rewrite_article
 
 # আপনার প্রজেক্ট স্ট্রাকচার অনুযায়ী মডিউল ইম্পোর্ট
+from Website.aljazeera import scrape_aljazeera
 from Website.bd_pratidin import scrape_bd_pratidin
 from Website.prothomalo import scrape_prothomalo
 
 # ==================== ১. কনফিগারেশন ====================
 # লোকাল টেস্টের জন্য কোটেশনের ভেতরে আপনার Key ও Blog ID সরাসরি বসান
-GEMINI_API_KEY = os.environ.get("GEMINI_API_KEY", "YOUR_GEMINI_API_KEY_HERE")
-BLOG_ID = os.environ.get("BLOG_ID", "YOUR_BLOGGER_BLOG_ID_HERE")
+GEMINI_API_KEY = os.environ.get("GEMINI_API_KEY")
+BLOG_ID = os.environ.get("BLOG_ID")
 
 VISITED_LOG = 'visited_urls.json'
 SCOPES = ['https://www.googleapis.com/auth/blogger']
@@ -74,7 +75,8 @@ if __name__ == '__main__':
 
     scrapers = [
         ("BD Pratidin", scrape_bd_pratidin),
-        ("Prothom Alo", scrape_prothomalo)  # 👈 নতুন সাইট লিস্টে যুক্ত করা হলো
+        ("Prothom Alo", scrape_prothomalo),
+        ("aljazeera", scrape_aljazeera)
     ]
 
     for site_name, scrape_func in scrapers:
