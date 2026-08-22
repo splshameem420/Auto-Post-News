@@ -12,8 +12,13 @@ from Rewrite.ai_rewriter import rewrite_article
 
 # আপনার প্রজেক্ট স্ট্রাকচার অনুযায়ী মডিউল ইম্পোর্ট
 from Website.aljazeera import scrape_aljazeera
+from Website.bbc import scrape_bbc
 from Website.bd_pratidin import scrape_bd_pratidin
+from Website.jagonews import scrape_jagonews
+from Website.jamuna import scrape_jamuna
 from Website.prothomalo import scrape_prothomalo
+from Website.somoy import scrape_somoy
+from Website.tsports import scrape_tsports
 
 # ==================== ১. কনফিগারেশন ====================
 # লোকাল টেস্টের জন্য কোটেশনের ভেতরে আপনার Key ও Blog ID সরাসরি বসান
@@ -76,7 +81,12 @@ if __name__ == '__main__':
     scrapers = [
         ("BD Pratidin", scrape_bd_pratidin),
         ("Prothom Alo", scrape_prothomalo),
-        ("aljazeera", scrape_aljazeera)
+        ("Aljazeera", scrape_aljazeera),
+        ("Somoy", scrape_somoy),
+        ("Tsports", scrape_tsports),
+        ("Jagonews", scrape_jagonews),
+        ("Jamuna", scrape_jamuna),
+        ("BBC Bangla", scrape_bbc)
     ]
 
     for site_name, scrape_func in scrapers:
