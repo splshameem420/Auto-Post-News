@@ -8,7 +8,6 @@ def scrape_jagonews(visited_urls, config):
     feed = feedparser.parse(feed_url)
     news_items = []
     
-    # ক্লাউডফ্লায়ার বাইপাস করার জন্য স্ক্র্যাপার তৈরি করা হলো
     scraper = cloudscraper.create_scraper()
 
     for entry in feed.entries[:5]:
@@ -16,12 +15,14 @@ def scrape_jagonews(visited_urls, config):
             continue
 
         try:
-            # সরাসরি article.download() না করে cloudscraper দিয়ে HTML ফেচ করা হচ্ছে
-            response = scraper.get(entry.link, headers=config.browser_user_agent, timeout=15)
+            # headers কে ডিকশনারি আকারে দেওয়া হয়েছে
+            headers = {
+                'User-Agent': config.browser_user_agent
+            }
+            response = scraper.get(entry.link, headers=headers, timeout=15)
             
             if response.status_code == 200:
                 article = newspaper.Article(entry.link, config=config)
-                # ফেচ করা HTML সরাসরি newspaper-এ ইনপুট দেওয়া হচ্ছে
                 article.download(input_html=response.text)
                 article.parse()
 
