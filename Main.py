@@ -1,16 +1,18 @@
+import io
 import json
 import os
+import sys
 import time
 
+sys.stdout = io.TextIOWrapper(sys.stdout.buffer, encoding='utf-8')
 import newspaper
 from google import genai
 from google.oauth2.credentials import Credentials
 from googleapiclient.discovery import build
+from groq import Groq
 
 from Publisher.blogger_publisher import publish_post
 from Rewrite.ai_rewriter import rewrite_article
-
-# আপনার প্রজেক্ট স্ট্রাকচার অনুযায়ী মডিউল ইম্পোর্ট
 from Website.aljazeera import scrape_aljazeera
 from Website.bbc import scrape_bbc
 from Website.bd_pratidin import scrape_bd_pratidin
@@ -20,18 +22,18 @@ from Website.prothomalo import scrape_prothomalo
 from Website.somoy import scrape_somoy
 from Website.tsports import scrape_tsports
 
-# ==================== ১. কনফিগারেশন ====================
-# লোকাল টেস্টের জন্য কোটেশনের ভেতরে আপনার Key ও Blog ID সরাসরি বসান
 GEMINI_API_KEY = os.environ.get("GEMINI_API_KEY")
+GROQ_API_KEY = os.environ.get("GROQ_API_KEY")
 BLOG_ID = os.environ.get("BLOG_ID")
 
 VISITED_LOG = 'visited_urls.json'
 SCOPES = ['https://www.googleapis.com/auth/blogger']
 
-# Gemini Client ইনিশিয়ালাইজেশন
-ai_client = genai.Client(api_key=GEMINI_API_KEY)
 
-# Newspaper ব্রাউজার কনফিগারেশন (403 Error এড়ানোর জন্য)
+gemini_client = genai.Client(api_key=GEMINI_API_KEY)
+groq_client = Groq(api_key=GROQ_API_KEY)
+
+
 config = newspaper.Config()
 config.browser_user_agent = (
     'Mozilla/5.0 (Windows NT 10.0; Win64; x64) '
@@ -58,11 +60,6 @@ def save_visited_url(url):
         json.dump(urls, f)
 
 def get_blogger_service():
-    """
-    Blogger API সার্ভিস কানেক্ট করার ফাংশন।
-    - GitHub Actions environment থাকলে BLOGGER_TOKEN ব্যবহার করবে।
-    - লোকাল এনভায়রনমেন্টে token.json ব্যবহার করবে।
-    """
     creds = None
     if os.environ.get('BLOGGER_TOKEN'):
         token_data = json.loads(os.environ.get('BLOGGER_TOKEN'))
@@ -72,9 +69,9 @@ def get_blogger_service():
 
     return build('blogger', 'v3', credentials=creds)
 
-# ==================== ৩. মূল এক্সিকিউশন ====================
+
 if __name__ == '__main__':
-    print("🚀 [Auto News Poster] রান হচ্ছে...")
+    print("🚀 [Auto News Poster] Running...")
     service = get_blogger_service()
     visited = get_visited_urls()
 
@@ -90,20 +87,21 @@ if __name__ == '__main__':
     ]
 
     for site_name, scrape_func in scrapers:
-        print(f"\n🔍 [{site_name}] RSS ফিড থেকে খবর স্ক্র্যাপ করা হচ্ছে...")
+        print(f"\n🔍 [{site_name}] Post Scraping...")
         news_list = scrape_func(visited, config)
 
         if not news_list:
-            print(f"⚠️ [{site_name}] কোনো নতুন খবর পাওয়া যায়নি।")
+            print(f"⚠️ [{site_name}] No New Post Found")
             continue
 
         for news in news_list:
             print(f"\n📰 New Post Found {news['title']}")
-            print("🤖 Gemini AI Will Rewriting...")
+            print("🤖 AI Will Rewriting...")
             
-            ai_data = rewrite_article(ai_client, news['title'], news['text'])
+            ai_data = rewrite_article(gemini_client, groq_client, news['title'], news['text'])
 
             print("📤 Posting On Blogger...")
+            
             response = publish_post(
                 service, 
                 BLOG_ID, 
@@ -114,7 +112,7 @@ if __name__ == '__main__':
             )
             
             post_url = response.get('url', 'N/A')
-            print(f"✅ Sucsess To Post On Blogger {post_url}")
+            print(f"✅ Success To Post {post_url}")
             
             save_visited_url(news['url'])
             time.sleep(10)

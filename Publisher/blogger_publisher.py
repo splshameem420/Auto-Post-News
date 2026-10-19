@@ -1,4 +1,7 @@
-def publish_post(service, blog_id, title, content, image_url=None, labels=[]):
+from googleapiclient.errors import HttpError
+
+
+def publish_post(service, blog_id, title, content, image_url=None, labels=[]):  # noqa: B006
     """
     Blogger API v3 ব্যবহার করে ব্লগে নতুন পোস্ট পাবলিশ করার ফাংশন।
     """
@@ -30,6 +33,14 @@ def publish_post(service, blog_id, title, content, image_url=None, labels=[]):
         'content': body_html,
         'labels': clean_labels
     }
+    try:
+        request = service.posts().insert(blogId=blog_id, body=post_body)
+        response = request.execute()
+        return response
+    except HttpError as e:
+        print(f"An error occurred: {e}")
+        return None
     
-    request = service.posts().insert(blogId=blog_id, body=post_body)
-    return request.execute()
+    except Exception as e:  # noqa: BLE001
+        print(f"An unexpected error occurred: {e}")
+        return None
