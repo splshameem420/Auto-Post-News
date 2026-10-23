@@ -10,8 +10,8 @@ from google import genai
 from google.oauth2.credentials import Credentials
 from googleapiclient.discovery import build
 from groq import Groq
-from Publisher.blogger_publisher import publish_post
 
+from Publisher.blogger_publisher import publish_post
 from Rewrite.ai_rewriter import rewrite_article
 from Website.aljazeera import scrape_aljazeera
 from Website.bbc import scrape_bbc
@@ -42,9 +42,7 @@ config.browser_user_agent = (
 )
 config.request_timeout = 15
 
-# ==================== ২. হেলপার ফাংশন ====================
 def get_visited_urls():
-    """পূর্বে ভিজিট করা খবরগুলোর URL তালিকা রিড করার ফাংশন"""
     if os.path.exists(VISITED_LOG):
         try:
             with open(VISITED_LOG, 'r') as f:
