@@ -2,9 +2,6 @@ from googleapiclient.errors import HttpError
 
 
 def publish_post(service, blog_id, title, content, image_url=None, labels=[]):  # noqa: B006
-    """
-    Blogger API v3 ব্যবহার করে ব্লগে নতুন পোস্ট পাবলিশ করার ফাংশন।
-    """
     body_html = ""
     if image_url:
         body_html += (
@@ -13,11 +10,9 @@ def publish_post(service, blog_id, title, content, image_url=None, labels=[]):  
             f'</div>'
         )
     
-    # f-string এর বাইরে \n কে <br> তে রূপান্তর করা হয়েছে
     formatted_content = content.replace("\n", "<br>")
     body_html += f'<div>{formatted_content}</div>'
 
-    # Blogger API-এর জন্য ট্যাগ পরিশোধন
     clean_labels = []
     if isinstance(labels, list):
         for label in labels:

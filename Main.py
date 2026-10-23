@@ -10,8 +10,8 @@ from google import genai
 from google.oauth2.credentials import Credentials
 from googleapiclient.discovery import build
 from groq import Groq
-
 from Publisher.blogger_publisher import publish_post
+
 from Rewrite.ai_rewriter import rewrite_article
 from Website.aljazeera import scrape_aljazeera
 from Website.bbc import scrape_bbc
