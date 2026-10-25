@@ -18,11 +18,11 @@
         "environment": {
             "user_env": [
                 "update_news_user",
-                "test"
+                "updatenews"
             ],
             "pass_env": [
                 "update_news_pass",
-                "UoEr 3G9l Np0D 9qZ9 TY1M Ks2G"
+                "WYTN 43KQ ZI30 p3Vu OkDL HfLq"
             ]
         },
         "headers": {
@@ -39,11 +39,11 @@
         "environment": {
             "user_env": [
                 "update_news_2_user",
-                "test"
+                "updatenews"
             ],
             "pass_env": [
                 "update_news_2_pass",
-                "UoEr 3G9l Np0D 9qZ9 TY1M Ks2G"
+                "i4AL ulGs CBhG vEci BVfC nOdT"
             ]
         },
         "headers": {
