@@ -9,13 +9,19 @@
             "INDIA",
             "BANGLADEH",
             "PROTESTS",
-            "TERRORISM"
+            "TERRORISM",
+            "HUMAN RIGHTS",
+            "CONFLICT"
         ],
         "ID": 48,
         "Sub Categories": [
             {
                 "Name": "TERRORISM",
                 "ID": 49
+            },
+            {
+                "Name": "CONFLICT",
+                "ID": 66
             }
         ]
     },
@@ -114,16 +120,23 @@
     {
         "Category Name": "SPORTS",
         "Filter": [
-            "Cricket",
-            "Football",
-            "Fotball",
-            "Tenis",
-            "Hocky",
-            "Basketball",
-            "Icc",
-            "Asia Cup",
-            "Sports",
-            "Game"
+            "CRICKET",
+            "FOOTBALL",
+            "FOTBALL",
+            "TENIS",
+            "HOCKY",
+            "BASKETBALL",
+            "ICC",
+            "ASIA CUP",
+            "SPORTS",
+            "GAME"
+        ],
+        "ID": 59,
+        "Sub Categories": [
+            {
+                "Name": "FOOTBALL",
+                "ID": 60
+            }
         ]
     },
     {

@@ -64,7 +64,15 @@
             "RECIPE",
             "SHOPING",
             "PUBLIC HEALTH",
-            "CELEBRITY LIFESTYLE"
+            "CELEBRITY LIFESTYLE",
+            "EBOLA OUTBREAK"
+        ],
+        "ID": 8,
+        "Sub Categories": [
+            {
+                "Name": "EBOLA OUTBREAK",
+                "ID": 61
+            }
         ]
     },
     {
