@@ -18,8 +18,11 @@ GEMINI_MODELS = [
     "gemini-3.5-flash"
 ]
 
+<<<<<<< HEAD
 
 DEFAULT_CATEGORY = "News"
+=======
+>>>>>>> 5c231fe2bf12305690971b12b75f5eea6afac0cd
 MAX_RETRIES = 2
 MAX_INPUT_CHARS = 6000
 GROQ_MAX_TOKENS = 4096
@@ -35,6 +38,7 @@ def is_retryable(error):
     return any(hint in msg for hint in RETRYABLE_HINTS)
 
 
+<<<<<<< HEAD
 def clean_text(value):
     if isinstance(value, list):
         value = value[0] if value else ""
@@ -52,6 +56,8 @@ def category_instruction():
     )
 
 
+=======
+>>>>>>> 5c231fe2bf12305690971b12b75f5eea6afac0cd
 def parse_ai_json(raw):
     if not raw:
         raise ValueError("empty response")
@@ -74,14 +80,18 @@ def parse_ai_json(raw):
     content = str(data.get("content", "")).strip()
     if not title or not content:
         raise ValueError("title/content missing")
+<<<<<<< HEAD
     
     category = clean_text(data.get("category")) or DEFAULT_CATEGORY
     sub_category = clean_text(data.get("sub_category"))
+=======
+>>>>>>> 5c231fe2bf12305690971b12b75f5eea6afac0cd
 
     tags = data.get("tags")
     if not isinstance(tags, list) or not tags:
         tags = ["News"]
     tags = [str(t).strip() for t in tags if str(t).strip()]
+<<<<<<< HEAD
     
     if not tags:
         tags = ["News"]
@@ -93,14 +103,21 @@ def parse_ai_json(raw):
         "sub_category": sub_category,
         "tags": tags
     }
+=======
+
+    return {"title": title, "content": content, "tags": tags}
+>>>>>>> 5c231fe2bf12305690971b12b75f5eea6afac0cd
 
 
 def failed_result(title, text):
     return {
         "title": title,
         "content": text,
+<<<<<<< HEAD
         "category": DEFAULT_CATEGORY,
         "sub_category": "",
+=======
+>>>>>>> 5c231fe2bf12305690971b12b75f5eea6afac0cd
         "tags": ["News"],
         "failed": True,
     }
@@ -119,6 +136,7 @@ def rewrite_with_groq(groq_client, title, text):
     text = text[:MAX_INPUT_CHARS]
 
     system_prompt = (
+<<<<<<< HEAD
         "You are an expert news editor for a leading Bengali news portal. "
         "Rewrite or translate the following news article into fluent, standard Bengali. "
         "Do not add any information, numbers, or names on your own. "
@@ -127,6 +145,14 @@ def rewrite_with_groq(groq_client, title, text):
         "Also decide 3-5 relevant Bengali/English tags based on the article content. "
         "Respond only in JSON format; do not write anything outside the JSON: "
         '{"title": "...", "content": "...", "category": "...", "sub_category": "...", "tags": ["...", "..."]}'
+=======
+        "You are an expert news editor for a leading Bengali news portal."
+        "Rewrite or translate the following news article into fluent, standard Bengali. "
+        "Do not add any information, numbers, or names on your own. "
+        "Create an engaging Bengali headline and a detailed news report."
+        "Respond only in JSON format; do not write anything outside the JSON: "
+        '{"title": "...", "content": "...", "tags": ["...", "..."]}'
+>>>>>>> 5c231fe2bf12305690971b12b75f5eea6afac0cd
     )
     user_prompt = f"Main Title: {title}\n\nNews:\n{text}"
 
@@ -175,15 +201,22 @@ def rewrite_article(gemini_client, groq_client, title, text):
     - Do not add any fact, number or name that is not in the original.
     - Create an attractive Bengali headline (title).
     - Provide a detailed news article in Bengali (minimum 250-300 words).
+<<<<<<< HEAD
     - {category_instruction()}
     - Analyze the article and decide 3-5 relevant Bengali/English tags yourself.
+=======
+    - Include 3-5 relevant Bengali/English tags.
+>>>>>>> 5c231fe2bf12305690971b12b75f5eea6afac0cd
 
     Return the output ONLY in JSON format like this:
     {{
         "title": "...",
         "content": "...",
+<<<<<<< HEAD
         "category": "...",
         "sub_category": "...",
+=======
+>>>>>>> 5c231fe2bf12305690971b12b75f5eea6afac0cd
         "tags": ["...", "..."]
     }}
 
@@ -232,4 +265,8 @@ def rewrite_article(gemini_client, groq_client, title, text):
 
     print(f"{ai_name} all models failed: {summarize_errors(all_errors)}\n")
 
+<<<<<<< HEAD
     return rewrite_with_groq(groq_client, title, text)
+=======
+    return rewrite_with_groq(groq_client, title, text)
+>>>>>>> 5c231fe2bf12305690971b12b75f5eea6afac0cd

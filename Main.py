@@ -37,9 +37,13 @@ config.browser_user_agent = (
 )
 config.request_timeout = 15
 
+<<<<<<< HEAD
 
 def get_visited_urls():
     """Older Visited Urls Logs"""
+=======
+def get_visited_urls():
+>>>>>>> 5c231fe2bf12305690971b12b75f5eea6afac0cd
     if os.path.exists(VISITED_LOG):
         try:
             with open(VISITED_LOG, 'r') as f:
