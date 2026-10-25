@@ -140,5 +140,18 @@
                 "ID": 15
             }
         ]
+    },
+    {
+        "Category Name": "ECONOMY",
+        "ID": 34,
+        "Filter": [
+            "LABOR MIGRATION"
+        ],
+        "Sub Categories": [
+            {
+                "Name": "LABOR MIGRATION",
+                "ID": 35
+            }
+        ]
     }
 ]
