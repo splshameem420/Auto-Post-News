@@ -2,9 +2,15 @@ name: Auto News Publisher Bot
 
 on:
   schedule:
-    # প্রতি ৫ মিনিট পর পর চলবে
     - cron: '*/10 * * * *'
-  workflow_dispatch: 
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: news-bot
+  cancel-in-progress: false
 
 jobs:
   run-bot:
@@ -12,17 +18,18 @@ jobs:
 
     steps:
     - name: Checkout Code
-      uses: actions/checkout@v3
+      uses: actions/checkout@v4
 
     - name: Set up Python
-      uses: actions/setup-python@v4
+      uses: actions/setup-python@v5
       with:
         python-version: '3.11'
+        cache: 'pip'
 
     - name: Install Dependencies
       run: |
         python -m pip install --upgrade pip
-        pip install feedparser "newspaper4k[bn]" indic-nlp-library google-genai google-api-python-client google-auth-oauthlib lxml_html_clean groq nltk cloudscraper
+        pip install -r requirements.txt
 
     - name: Run News Bot
       env:
@@ -30,14 +37,25 @@ jobs:
         GROQ_API_KEY: ${{ secrets.GROQ_API_KEY }}
         BLOG_ID: ${{ secrets.BLOG_ID }}
         BLOGGER_TOKEN: ${{ secrets.BLOGGER_TOKEN }}
+        
+        UPDATE_NEWS_USER: ${{ secrets.UPDATE_NEWS_USER }}
+        UPDATE_NEWS_PASS: ${{ secrets.UPDATE_NEWS_PASS }}
+        UPDATE_NEWS_2_USER: ${{ secrets.UPDATE_NEWS_2_USER }}
+        UPDATE_NEWS_2_PASS: ${{ secrets.UPDATE_NEWS_2_PASS }}
       run: python Main.py
 
-    - name: Commit and Push Visited Log
+    # if: always()
+    - name: Commit and Push State Files
+      if: always()
       run: |
         git config --local user.email "action@github.com"
         git config --local user.name "GitHub Action Bot"
-        git add visited_urls.json
-        git diff-index --quiet HEAD || git commit -m "Update visited URLs log [skip ci]"
-        git push
-
-        
+        git add visited_urls.json rotation_state.json || true
+        git add Categories_*.json tags_map_*.json || true
+        if git diff --cached --quiet; then
+          echo "No changes to commit"
+        else
+          git commit -m "Update bot state [skip ci]"
+          git pull --rebase
+          git push
+        fi
