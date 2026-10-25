@@ -13,7 +13,9 @@
             "POLICE VIOLENCE",
             "GAZA CONFLICT",
             "GEOPOLITICS",
-            "ROAD SAFETY"
+            "ROAD SAFETY",
+            "POLITICS",
+            "PRESIDENTIAL CAMPAIGN"
         ],
         "ID": 6,
         "Sub Categories": [
@@ -28,6 +30,14 @@
             {
                 "Name": "ROAD SAFETY",
                 "ID": 80
+            },
+            {
+                "Name": "POLITICS",
+                "ID": 92
+            },
+            {
+                "Name": "PRESIDENTIAL CAMPAIGN",
+                "ID": 98
             }
         ]
     },
@@ -145,6 +155,10 @@
             {
                 "Name": "CRICKET",
                 "ID": 25
+            },
+            {
+                "Name": "FOOTBALL",
+                "ID": 86
             }
         ]
     },

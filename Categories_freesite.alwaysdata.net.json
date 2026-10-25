@@ -197,5 +197,18 @@
                 "ID": 73
             }
         ]
+    },
+    {
+        "Category Name": "CULTURE",
+        "ID": 89,
+        "Filter": [
+            "ARTS"
+        ],
+        "Sub Categories": [
+            {
+                "Name": "ARTS",
+                "ID": 90
+            }
+        ]
     }
 ]
