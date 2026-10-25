@@ -20,8 +20,8 @@ from Website.prothomalo import scrape_prothomalo
 from Website.somoy import scrape_somoy
 from Website.tsports import scrape_tsports
 
-GEMINI_API_KEY = os.environ.get("GEMINI_API_KEY", "AQ.Ab8RN6LjYAPGMMdhQbpaWFWgGG1yFsUMotzLOmK6qIcljLm-0Q")
-GROQ_API_KEY = os.environ.get("GROQ_API_KEY", "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")
+GEMINI_API_KEY = os.environ.get("GEMINI_API_KEY",)
+GROQ_API_KEY = os.environ.get("GROQ_API_KEY",)
 
 VISITED_LOG = 'visited_urls.json'
 
