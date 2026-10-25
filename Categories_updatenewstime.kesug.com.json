@@ -73,7 +73,15 @@
             "ZELA",
             "UPZELA",
             "ELECTION PROTEST",
-            "PUBLIC OFFICIALS"
+            "PUBLIC OFFICIALS",
+            "WAR CRIMES"
+        ],
+        "ID": 31,
+        "Sub Categories": [
+            {
+                "Name": "WAR CRIMES",
+                "ID": 32
+            }
         ]
     },
     {
@@ -92,31 +100,59 @@
     {
         "Category Name": "SPORTS",
         "Filter": [
-            "Cricket",
-            "Football",
-            "Fotball",
-            "Tenis",
-            "Hocky",
-            "Basketball",
-            "Icc",
-            "Asia Cup",
-            "Sports",
-            "Game"
+            "CRICKET",
+            "FOOTBALL",
+            "FOTBALL",
+            "TENIS",
+            "HOCKY",
+            "BASKETBALL",
+            "ICC",
+            "ASIA CUP",
+            "SPORTS",
+            "GAME"
+        ],
+        "ID": 10,
+        "Sub Categories": [
+            {
+                "Name": "CRICKET",
+                "ID": 25
+            }
         ]
     },
     {
-        "Category Name": "Education",
+        "Category Name": "EDUCATION",
         "Filter": [
-            "education",
-            "school",
-            "university",
-            "exam",
-            "student",
+            "EDUCATION",
+            "SCHOOL",
+            "UNIVERSITY",
+            "EXAM",
+            "STUDENT",
             "শিক্ষা",
             "স্কুল",
             "বিশ্ববিদ্যালয়",
             "পরীক্ষা",
-            "শিক্ষার্থী"
+            "শিক্ষার্থী",
+            "STUDENT DEATH"
+        ],
+        "ID": 11,
+        "Sub Categories": [
+            {
+                "Name": "STUDENT DEATH",
+                "ID": 12
+            }
+        ]
+    },
+    {
+        "Category Name": "ENTERTAINMENT",
+        "ID": 18,
+        "Filter": [
+            "TELEVISION DRAMA"
+        ],
+        "Sub Categories": [
+            {
+                "Name": "TELEVISION DRAMA",
+                "ID": 19
+            }
         ]
     }
 ]
