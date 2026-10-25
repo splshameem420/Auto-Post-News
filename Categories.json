@@ -1,0 +1,118 @@
+[
+    {
+        "Category Name": "INTERNATIONAL",
+        "Filter": [
+            "INTERNATIONAL",
+            "ANTORJARTIC",
+            "GLOBAL",
+            "WORLD",
+            "INDIA",
+            "BANGLADEH",
+            "PROTESTS"
+        ]
+    },
+    {
+        "Category Name": "BUSINES",
+        "Filter": [
+            "business",
+            "bussiness",
+            "market",
+            "bank",
+            "industry",
+            "economics",
+            "world-business",
+            "world business",
+            "analysis",
+            "finace",
+            "personal finance",
+            "corporate",
+            "budget",
+            "budget bangladesh",
+            "hat bazar",
+            "hat"
+        ]
+    },
+    {
+        "Category Name": "HEALTH",
+        "Filter": [
+            "LIFESTYLE",
+            "LIFE STYLE",
+            "TRAVEL",
+            "RELETION",
+            "HEALTH",
+            "HEALTHY",
+            "HOROSCOPE",
+            "FASHION",
+            "STYLE",
+            "BEUTY",
+            "INTERRIOR",
+            "RECIPE",
+            "SHOPING",
+            "PUBLIC HEALTH",
+            "CELEBRITY LIFESTYLE"
+        ]
+    },
+    {
+        "Category Name": "POLITICS",
+        "Filter": [
+            "POLITICS",
+            "POLITICAL",
+            "VOTE",
+            "JAMYAT",
+            "BNP",
+            "AWAMILEAG",
+            "JATIO",
+            "GOVERMENT",
+            "BANGLADESH",
+            "DISTRICT",
+            "JELA",
+            "ZELA",
+            "UPZELA",
+            "ELECTION PROTEST",
+            "PUBLIC OFFICIALS"
+        ]
+    },
+    {
+        "Category Name": "TECHNOLIGY",
+        "Filter": [
+            "technoligy",
+            "tech",
+            "tec",
+            "telecom",
+            "computer",
+            "mobile",
+            "smartphone",
+            "gadgets"
+        ]
+    },
+    {
+        "Category Name": "SPORTS",
+        "Filter": [
+            "Cricket",
+            "Football",
+            "Fotball",
+            "Tenis",
+            "Hocky",
+            "Basketball",
+            "Icc",
+            "Asia Cup",
+            "Sports",
+            "Game"
+        ]
+    },
+    {
+        "Category Name": "Education",
+        "Filter": [
+            "education",
+            "school",
+            "university",
+            "exam",
+            "student",
+            "শিক্ষা",
+            "স্কুল",
+            "বিশ্ববিদ্যালয়",
+            "পরীক্ষা",
+            "শিক্ষার্থী"
+        ]
+    }
+]

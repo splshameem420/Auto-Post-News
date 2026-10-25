@@ -3,6 +3,10 @@
         "Name": "Update News",
         "Platform": "Blogger",
         "Url": "https://www.blogger.com",
+        "environment": {
+            "blog_id_env": "BLOG_ID",
+            "token_env": "BLOGGER_TOKEN"
+        },
         "headers": {
             "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.3"
         }
@@ -10,29 +14,43 @@
     {
         "Name": "Update News",
         "Platform": "WordPress",
-        "Url": "https://updatenewstime.com",
-        "headers": {
-            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.3"
-        }
-    },
-    {
-        "Name": "Update News",
-        "Platform": "WordPress",
-        "Url": "https://updatenewstime.kesug.com",
+        "Site_Url": "https://updatenewstime.kesug.com",
+        "environment": {
+            "user_env": [
+                "update_news_user",
+                "test"
+            ],
+            "pass_env": [
+                "update_news_pass",
+                "UoEr 3G9l Np0D 9qZ9 TY1M Ks2G"
+            ]
+        },
         "headers": {
             "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36",
             "Accept": "application/json, text/plain, */*",
             "Accept-Language": "en-US,en;q=0.9",
-            "Referer": "https://updatenewstime.kesug.com/",
             "Content-Type": "application/json"
-        }   
+        }
     },
     {
-        "Name": "Update News",
+        "Name": "Update News 2",
         "Platform": "WordPress",
-        "Url": "https://updatenewstime.allwayesdata.net",
+        "Site_Url": "https://freesite.alwaysdata.net",
+        "environment": {
+            "user_env": [
+                "update_news_2_user",
+                "test"
+            ],
+            "pass_env": [
+                "update_news_2_pass",
+                "UoEr 3G9l Np0D 9qZ9 TY1M Ks2G"
+            ]
+        },
         "headers": {
-            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36"
-        }   
+            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36",
+            "Accept": "application/json, text/plain, */*",
+            "Accept-Language": "en-US,en;q=0.9",
+            "Content-Type": "application/json"
+        }
     }
 ]

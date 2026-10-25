@@ -7,12 +7,10 @@ import time
 sys.stdout = io.TextIOWrapper(sys.stdout.buffer, encoding='utf-8')
 import newspaper
 from google import genai
-from google.oauth2.credentials import Credentials
-from googleapiclient.discovery import build
 from groq import Groq
 
-from Publisher.blogger_publisher import publish_post
-from Rewrite.ai_rewriter import rewrite_article
+from Publisher.universal_publisher import publish_final_post
+from Rewrite.ai_rewriter_2 import rewrite_article
 from Website.aljazeera import scrape_aljazeera
 from Website.bbc import scrape_bbc
 from Website.bd_pratidin import scrape_bd_pratidin
@@ -22,13 +20,10 @@ from Website.prothomalo import scrape_prothomalo
 from Website.somoy import scrape_somoy
 from Website.tsports import scrape_tsports
 
-GEMINI_API_KEY = os.environ.get("GEMINI_API_KEY")
-GROQ_API_KEY = os.environ.get("GROQ_API_KEY")
-BLOG_ID = os.environ.get("BLOG_ID")
+GEMINI_API_KEY = os.environ.get("GEMINI_API_KEY", "AQ.Ab8RN6LjYAPGMMdhQbpaWFWgGG1yFsUMotzLOmK6qIcljLm-0Q")
+GROQ_API_KEY = os.environ.get("GROQ_API_KEY", "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")
 
 VISITED_LOG = 'visited_urls.json'
-SCOPES = ['https://www.googleapis.com/auth/blogger']
-
 
 gemini_client = genai.Client(api_key=GEMINI_API_KEY)
 groq_client = Groq(api_key=GROQ_API_KEY)
@@ -42,9 +37,9 @@ config.browser_user_agent = (
 )
 config.request_timeout = 15
 
-# ==================== ২. হেলপার ফাংশন ====================
+
 def get_visited_urls():
-    """পূর্বে ভিজিট করা খবরগুলোর URL তালিকা রিড করার ফাংশন"""
+    """Older Visited Urls Logs"""
     if os.path.exists(VISITED_LOG):
         try:
             with open(VISITED_LOG, 'r') as f:
@@ -59,20 +54,10 @@ def save_visited_url(url):
     with open(VISITED_LOG, 'w') as f:
         json.dump(urls, f)
 
-def get_blogger_service():
-    creds = None
-    if os.environ.get('BLOGGER_TOKEN'):
-        token_data = json.loads(os.environ.get('BLOGGER_TOKEN'))
-        creds = Credentials.from_authorized_user_info(token_data, SCOPES)
-    elif os.path.exists('token.json'):
-        creds = Credentials.from_authorized_user_file('token.json', SCOPES)
-
-    return build('blogger', 'v3', credentials=creds)
 
 
 if __name__ == '__main__':
     print("🚀 [Auto News Poster] Running...")
-    service = get_blogger_service()
     visited = get_visited_urls()
 
     scrapers = [
@@ -99,19 +84,20 @@ if __name__ == '__main__':
             print("🤖 AI Will Rewriting...")
             
             ai_data = rewrite_article(gemini_client, groq_client, news['title'], news['text'])
-
-            print("📤 Posting On Blogger...")
             
-            response = publish_post(
-                service, 
-                BLOG_ID, 
-                ai_data['title'], 
-                ai_data['content'], 
-                news['image'], 
-                ai_data.get('tags', [])
-            )
+            if ai_data.get('failed'):
+                print("⚠️ Ai Rewrite Failed Skipping Post")
+                time.sleep(10)
+                continue
             
-            post_url = response.get('url', 'N/A')
+            print("📤 Posting On...")
+            
+            ok, target_name, post_url = publish_final_post(ai_data, news['image'])
+            
+            if not ok:
+                print("All Post Fail Skip")
+                continue
+            
             print(f"✅ Success To Post {post_url}")
             
             save_visited_url(news['url'])

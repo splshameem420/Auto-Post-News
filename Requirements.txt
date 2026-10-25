@@ -1,0 +1,12 @@
+feedparser
+newspaper4k[bn]
+indic-nlp-library
+google-genai
+google-api-python-client
+google-auth-oauthlib
+lxml_html_clean
+groq
+nltk
+cloudscraper
+requests
+python-slugify
