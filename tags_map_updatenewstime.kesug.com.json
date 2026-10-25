@@ -78,5 +78,65 @@
     {
         "Tag Name": "মানিক পশারী",
         "ID": 37
+    },
+    {
+        "Tag Name": "এনসিটিবি",
+        "ID": 39
+    },
+    {
+        "Tag Name": "পাঠ্যবই",
+        "ID": 40
+    },
+    {
+        "Tag Name": "শিক্ষা মন্ত্রণালয়",
+        "ID": 41
+    },
+    {
+        "Tag Name": "জাতীয় শিক্ষাক্রম",
+        "ID": 42
+    },
+    {
+        "Tag Name": "নতুন বই",
+        "ID": 43
+    },
+    {
+        "Tag Name": "গাজা",
+        "ID": 45
+    },
+    {
+        "Tag Name": "ইসরাইল",
+        "ID": 46
+    },
+    {
+        "Tag Name": "ইসলামিক বিশ্ববিদ্যালয়",
+        "ID": 47
+    },
+    {
+        "Tag Name": "মানবিক সংকট",
+        "ID": 48
+    },
+    {
+        "Tag Name": "UNESCO",
+        "ID": 49
+    },
+    {
+        "Tag Name": "US-Israel",
+        "ID": 51
+    },
+    {
+        "Tag Name": "Iran",
+        "ID": 52
+    },
+    {
+        "Tag Name": "Europe",
+        "ID": 53
+    },
+    {
+        "Tag Name": "energy crisis",
+        "ID": 54
+    },
+    {
+        "Tag Name": "oil prices",
+        "ID": 55
     }
 ]

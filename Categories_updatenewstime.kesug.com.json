@@ -10,10 +10,21 @@
             "BANGLADEH",
             "PROTESTS",
             "MIDDLE EAST",
-            "POLICE VIOLENCE"
+            "POLICE VIOLENCE",
+            "GAZA CONFLICT",
+            "GEOPOLITICS"
         ],
         "ID": 6,
-        "Sub Categories": []
+        "Sub Categories": [
+            {
+                "Name": "GAZA CONFLICT",
+                "ID": 44
+            },
+            {
+                "Name": "GEOPOLITICS",
+                "ID": 50
+            }
+        ]
     },
     {
         "Category Name": "BUSINES",
@@ -132,13 +143,18 @@
             "বিশ্ববিদ্যালয়",
             "পরীক্ষা",
             "শিক্ষার্থী",
-            "STUDENT DEATH"
+            "STUDENT DEATH",
+            "TEXTBOOK CURRICULUM"
         ],
         "ID": 11,
         "Sub Categories": [
             {
                 "Name": "STUDENT DEATH",
                 "ID": 12
+            },
+            {
+                "Name": "TEXTBOOK CURRICULUM",
+                "ID": 38
             }
         ]
     },

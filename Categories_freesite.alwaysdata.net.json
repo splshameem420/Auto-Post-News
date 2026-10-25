@@ -8,7 +8,15 @@
             "WORLD",
             "INDIA",
             "BANGLADEH",
-            "PROTESTS"
+            "PROTESTS",
+            "TERRORISM"
+        ],
+        "ID": 48,
+        "Sub Categories": [
+            {
+                "Name": "TERRORISM",
+                "ID": 49
+            }
         ]
     },
     {
@@ -71,7 +79,8 @@
             "ELECTION PROTEST",
             "PUBLIC OFFICIALS",
             "MILITARY",
-            "LAW AND ORDER"
+            "LAW AND ORDER",
+            "DRUGS AND LAW ENFORCEMENT"
         ],
         "ID": 21,
         "Sub Categories": [
@@ -82,6 +91,10 @@
             {
                 "Name": "LAW AND ORDER",
                 "ID": 28
+            },
+            {
+                "Name": "DRUGS AND LAW ENFORCEMENT",
+                "ID": 41
             }
         ]
     },

@@ -78,5 +78,49 @@
     {
         "Tag Name": "বাংলাদেশ",
         "ID": 40
+    },
+    {
+        "Tag Name": "বাগেরহাট",
+        "ID": 42
+    },
+    {
+        "Tag Name": "কমিউনিটি পুলিশিং",
+        "ID": 43
+    },
+    {
+        "Tag Name": "মাদক",
+        "ID": 44
+    },
+    {
+        "Tag Name": "আইজিপি",
+        "ID": 45
+    },
+    {
+        "Tag Name": "পিসি কলেজ",
+        "ID": 46
+    },
+    {
+        "Tag Name": "অপরাধ",
+        "ID": 47
+    },
+    {
+        "Tag Name": "Jordan",
+        "ID": 50
+    },
+    {
+        "Tag Name": "church attack",
+        "ID": 51
+    },
+    {
+        "Tag Name": "funeral",
+        "ID": 52
+    },
+    {
+        "Tag Name": "religious harmony",
+        "ID": 53
+    },
+    {
+        "Tag Name": "terrorism",
+        "ID": 54
     }
 ]
