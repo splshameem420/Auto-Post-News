@@ -12,7 +12,8 @@
             "MIDDLE EAST",
             "POLICE VIOLENCE",
             "GAZA CONFLICT",
-            "GEOPOLITICS"
+            "GEOPOLITICS",
+            "ROAD SAFETY"
         ],
         "ID": 6,
         "Sub Categories": [
@@ -23,6 +24,10 @@
             {
                 "Name": "GEOPOLITICS",
                 "ID": 50
+            },
+            {
+                "Name": "ROAD SAFETY",
+                "ID": 80
             }
         ]
     },
@@ -93,13 +98,18 @@
             "UPZELA",
             "ELECTION PROTEST",
             "PUBLIC OFFICIALS",
-            "WAR CRIMES"
+            "WAR CRIMES",
+            "ELECTION LAW"
         ],
         "ID": 31,
         "Sub Categories": [
             {
                 "Name": "WAR CRIMES",
                 "ID": 32
+            },
+            {
+                "Name": "ELECTION LAW",
+                "ID": 74
             }
         ]
     },
@@ -176,6 +186,19 @@
             {
                 "Name": "TELEVISION DRAMA",
                 "ID": 19
+            }
+        ]
+    },
+    {
+        "Category Name": "CULTURE",
+        "ID": 67,
+        "Filter": [
+            "PERFORMING ARTS"
+        ],
+        "Sub Categories": [
+            {
+                "Name": "PERFORMING ARTS",
+                "ID": 68
             }
         ]
     }

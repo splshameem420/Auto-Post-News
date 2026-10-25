@@ -178,5 +178,65 @@
     {
         "Tag Name": "WHO",
         "ID": 66
+    },
+    {
+        "Tag Name": "সিডনি অপেরা হাউস",
+        "ID": 69
+    },
+    {
+        "Tag Name": "বিশ্ব অপেরা দিবস",
+        "ID": 70
+    },
+    {
+        "Tag Name": "মাই ফেয়ার লেডি",
+        "ID": 71
+    },
+    {
+        "Tag Name": "World Opera Day",
+        "ID": 72
+    },
+    {
+        "Tag Name": "Sydney Opera House",
+        "ID": 73
+    },
+    {
+        "Tag Name": "US",
+        "ID": 75
+    },
+    {
+        "Tag Name": "Attorney General",
+        "ID": 76
+    },
+    {
+        "Tag Name": "Alaska Senate",
+        "ID": 77
+    },
+    {
+        "Tag Name": "DOJ lawsuit",
+        "ID": 78
+    },
+    {
+        "Tag Name": "Trump",
+        "ID": 79
+    },
+    {
+        "Tag Name": "Kenya",
+        "ID": 81
+    },
+    {
+        "Tag Name": "bus crash",
+        "ID": 82
+    },
+    {
+        "Tag Name": "road safety",
+        "ID": 83
+    },
+    {
+        "Tag Name": "NTSA",
+        "ID": 84
+    },
+    {
+        "Tag Name": "transport",
+        "ID": 85
     }
 ]

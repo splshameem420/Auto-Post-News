@@ -86,7 +86,8 @@
             "PUBLIC OFFICIALS",
             "MILITARY",
             "LAW AND ORDER",
-            "DRUGS AND LAW ENFORCEMENT"
+            "DRUGS AND LAW ENFORCEMENT",
+            "ELECTIONS"
         ],
         "ID": 21,
         "Sub Categories": [
@@ -101,6 +102,10 @@
             {
                 "Name": "DRUGS AND LAW ENFORCEMENT",
                 "ID": 41
+            },
+            {
+                "Name": "ELECTIONS",
+                "ID": 78
             }
         ]
     },
@@ -177,6 +182,19 @@
             {
                 "Name": "LABOR MIGRATION",
                 "ID": 35
+            }
+        ]
+    },
+    {
+        "Category Name": "CRIME",
+        "ID": 72,
+        "Filter": [
+            "EXTORTION"
+        ],
+        "Sub Categories": [
+            {
+                "Name": "EXTORTION",
+                "ID": 73
             }
         ]
     }
