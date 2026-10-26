@@ -18,7 +18,10 @@
             "PRESIDENTIAL CAMPAIGN",
             "ELECTIONS",
             "SERBIA ELECTION",
-            "WILDLIFE CONSERVATION"
+            "WILDLIFE CONSERVATION",
+            "TERRORISM",
+            "US ELECTIONS",
+            "DIPLOMACY"
         ],
         "ID": 6,
         "Sub Categories": [
@@ -53,6 +56,18 @@
             {
                 "Name": "WILDLIFE CONSERVATION",
                 "ID": 133
+            },
+            {
+                "Name": "TERRORISM",
+                "ID": 151
+            },
+            {
+                "Name": "US ELECTIONS",
+                "ID": 157
+            },
+            {
+                "Name": "DIPLOMACY",
+                "ID": 163
             }
         ]
     },
@@ -134,7 +149,8 @@
             "ELECTION PROTEST",
             "PUBLIC OFFICIALS",
             "WAR CRIMES",
-            "ELECTION LAW"
+            "ELECTION LAW",
+            "COURT NEWS"
         ],
         "ID": 31,
         "Sub Categories": [
@@ -145,6 +161,10 @@
             {
                 "Name": "ELECTION LAW",
                 "ID": 74
+            },
+            {
+                "Name": "COURT NEWS",
+                "ID": 145
             }
         ]
     },

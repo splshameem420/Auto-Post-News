@@ -115,7 +115,9 @@
             "LAW AND ORDER",
             "DRUGS AND LAW ENFORCEMENT",
             "ELECTIONS",
-            "ELECTION"
+            "ELECTION",
+            "PRESS FREEDOM",
+            "LAW ENFORCEMENT"
         ],
         "ID": 21,
         "Sub Categories": [
@@ -138,20 +140,36 @@
             {
                 "Name": "ELECTION",
                 "ID": 113
+            },
+            {
+                "Name": "PRESS FREEDOM",
+                "ID": 155
+            },
+            {
+                "Name": "LAW ENFORCEMENT",
+                "ID": 160
             }
         ]
     },
     {
         "Category Name": "TECHNOLIGY",
         "Filter": [
-            "technoligy",
-            "tech",
-            "tec",
-            "telecom",
-            "computer",
-            "mobile",
-            "smartphone",
-            "gadgets"
+            "TECHNOLIGY",
+            "TECH",
+            "TEC",
+            "TELECOM",
+            "COMPUTER",
+            "MOBILE",
+            "SMARTPHONE",
+            "GADGETS",
+            "RIVER PROTECTION"
+        ],
+        "ID": 148,
+        "Sub Categories": [
+            {
+                "Name": "RIVER PROTECTION",
+                "ID": 149
+            }
         ]
     },
     {
@@ -253,6 +271,19 @@
             {
                 "Name": "ARTS",
                 "ID": 90
+            }
+        ]
+    },
+    {
+        "Category Name": "SOCIETY",
+        "ID": 165,
+        "Filter": [
+            "CHILD ABUSE"
+        ],
+        "Sub Categories": [
+            {
+                "Name": "CHILD ABUSE",
+                "ID": 166
             }
         ]
     }
