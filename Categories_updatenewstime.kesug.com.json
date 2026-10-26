@@ -16,7 +16,9 @@
             "ROAD SAFETY",
             "POLITICS",
             "PRESIDENTIAL CAMPAIGN",
-            "ELECTIONS"
+            "ELECTIONS",
+            "SERBIA ELECTION",
+            "WILDLIFE CONSERVATION"
         ],
         "ID": 6,
         "Sub Categories": [
@@ -43,6 +45,14 @@
             {
                 "Name": "ELECTIONS",
                 "ID": 110
+            },
+            {
+                "Name": "SERBIA ELECTION",
+                "ID": 128
+            },
+            {
+                "Name": "WILDLIFE CONSERVATION",
+                "ID": 133
             }
         ]
     },
@@ -85,13 +95,23 @@
             "SHOPING",
             "PUBLIC HEALTH",
             "CELEBRITY LIFESTYLE",
-            "EBOLA OUTBREAK"
+            "EBOLA OUTBREAK",
+            "ISLAMIC LIFESTYLE",
+            "MEDICAL RESEARCH"
         ],
         "ID": 8,
         "Sub Categories": [
             {
                 "Name": "EBOLA OUTBREAK",
                 "ID": 61
+            },
+            {
+                "Name": "ISLAMIC LIFESTYLE",
+                "ID": 116
+            },
+            {
+                "Name": "MEDICAL RESEARCH",
+                "ID": 139
             }
         ]
     },
@@ -153,7 +173,8 @@
             "ICC",
             "ASIA CUP",
             "SPORTS",
-            "GAME"
+            "GAME",
+            "MOTORSPORT"
         ],
         "ID": 10,
         "Sub Categories": [
@@ -164,6 +185,10 @@
             {
                 "Name": "FOOTBALL",
                 "ID": 86
+            },
+            {
+                "Name": "MOTORSPORT",
+                "ID": 122
             }
         ]
     },

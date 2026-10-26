@@ -12,7 +12,9 @@
             "TERRORISM",
             "HUMAN RIGHTS",
             "CONFLICT",
-            "MIDDLE EAST"
+            "MIDDLE EAST",
+            "DISABILITY RIGHTS",
+            "INTERNATIONAL POLITICS"
         ],
         "ID": 48,
         "Sub Categories": [
@@ -27,6 +29,18 @@
             {
                 "Name": "MIDDLE EAST",
                 "ID": 101
+            },
+            {
+                "Name": "PROTESTS",
+                "ID": 123
+            },
+            {
+                "Name": "DISABILITY RIGHTS",
+                "ID": 129
+            },
+            {
+                "Name": "INTERNATIONAL POLITICS",
+                "ID": 135
             }
         ]
     },
@@ -207,12 +221,17 @@
         "Category Name": "CRIME",
         "ID": 72,
         "Filter": [
-            "EXTORTION"
+            "EXTORTION",
+            "FAMILY DISPUTE"
         ],
         "Sub Categories": [
             {
                 "Name": "EXTORTION",
                 "ID": 73
+            },
+            {
+                "Name": "FAMILY DISPUTE",
+                "ID": 118
             }
         ]
     },
