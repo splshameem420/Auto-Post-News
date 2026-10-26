@@ -14,7 +14,8 @@
             "CONFLICT",
             "MIDDLE EAST",
             "DISABILITY RIGHTS",
-            "INTERNATIONAL POLITICS"
+            "INTERNATIONAL POLITICS",
+            "FOOD SECURITY"
         ],
         "ID": 48,
         "Sub Categories": [
@@ -41,6 +42,10 @@
             {
                 "Name": "INTERNATIONAL POLITICS",
                 "ID": 135
+            },
+            {
+                "Name": "FOOD SECURITY",
+                "ID": 176
             }
         ]
     },
@@ -248,7 +253,8 @@
         "ID": 72,
         "Filter": [
             "EXTORTION",
-            "FAMILY DISPUTE"
+            "FAMILY DISPUTE",
+            "TAX EVASION"
         ],
         "Sub Categories": [
             {
@@ -258,6 +264,10 @@
             {
                 "Name": "FAMILY DISPUTE",
                 "ID": 118
+            },
+            {
+                "Name": "TAX EVASION",
+                "ID": 170
             }
         ]
     },

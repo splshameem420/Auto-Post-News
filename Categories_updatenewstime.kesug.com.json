@@ -21,7 +21,9 @@
             "WILDLIFE CONSERVATION",
             "TERRORISM",
             "US ELECTIONS",
-            "DIPLOMACY"
+            "DIPLOMACY",
+            "US POLITICS",
+            "US COURT"
         ],
         "ID": 6,
         "Sub Categories": [
@@ -68,28 +70,44 @@
             {
                 "Name": "DIPLOMACY",
                 "ID": 163
+            },
+            {
+                "Name": "US POLITICS",
+                "ID": 176
+            },
+            {
+                "Name": "US COURT",
+                "ID": 182
             }
         ]
     },
     {
         "Category Name": "BUSINES",
         "Filter": [
-            "business",
-            "bussiness",
-            "market",
-            "bank",
-            "industry",
-            "economics",
-            "world-business",
-            "world business",
-            "analysis",
-            "finace",
-            "personal finance",
-            "corporate",
-            "budget",
-            "budget bangladesh",
-            "hat bazar",
-            "hat"
+            "BUSINESS",
+            "BUSSINESS",
+            "MARKET",
+            "BANK",
+            "INDUSTRY",
+            "ECONOMICS",
+            "WORLD-BUSINESS",
+            "WORLD BUSINESS",
+            "ANALYSIS",
+            "FINACE",
+            "PERSONAL FINANCE",
+            "CORPORATE",
+            "BUDGET",
+            "BUDGET BANGLADESH",
+            "HAT BAZAR",
+            "HAT",
+            "ISLAMIC ECONOMICS"
+        ],
+        "ID": 169,
+        "Sub Categories": [
+            {
+                "Name": "ISLAMIC ECONOMICS",
+                "ID": 170
+            }
         ]
     },
     {
