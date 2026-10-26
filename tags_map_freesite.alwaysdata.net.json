@@ -274,5 +274,61 @@
     {
         "Tag Name": "গ্যুরভ",
         "ID": 100
+    },
+    {
+        "Tag Name": "ইরান",
+        "ID": 102
+    },
+    {
+        "Tag Name": "যুক্তরাষ্ট্র",
+        "ID": 103
+    },
+    {
+        "Tag Name": "ইসরায়েল",
+        "ID": 68
+    },
+    {
+        "Tag Name": "জানফাদা",
+        "ID": 104
+    },
+    {
+        "Tag Name": "আইআরজিসি",
+        "ID": 105
+    },
+    {
+        "Tag Name": "খেজুর",
+        "ID": 108
+    },
+    {
+        "Tag Name": "কুমড়ার বীজ",
+        "ID": 109
+    },
+    {
+        "Tag Name": "পুষ্টিগুণ",
+        "ID": 110
+    },
+    {
+        "Tag Name": "স্বাস্থ্যকর খাবার",
+        "ID": 111
+    },
+    {
+        "Tag Name": "nutrition",
+        "ID": 112
+    },
+    {
+        "Tag Name": "Brazil",
+        "ID": 114
+    },
+    {
+        "Tag Name": "Lula",
+        "ID": 115
+    },
+    {
+        "Tag Name": "Bolsonaro",
+        "ID": 116
+    },
+    {
+        "Tag Name": "democracy",
+        "ID": 117
     }
 ]

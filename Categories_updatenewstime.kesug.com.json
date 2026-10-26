@@ -15,7 +15,8 @@
             "GEOPOLITICS",
             "ROAD SAFETY",
             "POLITICS",
-            "PRESIDENTIAL CAMPAIGN"
+            "PRESIDENTIAL CAMPAIGN",
+            "ELECTIONS"
         ],
         "ID": 6,
         "Sub Categories": [
@@ -38,6 +39,10 @@
             {
                 "Name": "PRESIDENTIAL CAMPAIGN",
                 "ID": 98
+            },
+            {
+                "Name": "ELECTIONS",
+                "ID": 110
             }
         ]
     },
@@ -207,12 +212,17 @@
         "Category Name": "CULTURE",
         "ID": 67,
         "Filter": [
-            "PERFORMING ARTS"
+            "PERFORMING ARTS",
+            "THEATRE"
         ],
         "Sub Categories": [
             {
                 "Name": "PERFORMING ARTS",
                 "ID": 68
+            },
+            {
+                "Name": "THEATRE",
+                "ID": 104
             }
         ]
     }

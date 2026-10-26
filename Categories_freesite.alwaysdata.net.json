@@ -11,7 +11,8 @@
             "PROTESTS",
             "TERRORISM",
             "HUMAN RIGHTS",
-            "CONFLICT"
+            "CONFLICT",
+            "MIDDLE EAST"
         ],
         "ID": 48,
         "Sub Categories": [
@@ -22,6 +23,10 @@
             {
                 "Name": "CONFLICT",
                 "ID": 66
+            },
+            {
+                "Name": "MIDDLE EAST",
+                "ID": 101
             }
         ]
     },
@@ -63,7 +68,15 @@
             "RECIPE",
             "SHOPING",
             "PUBLIC HEALTH",
-            "CELEBRITY LIFESTYLE"
+            "CELEBRITY LIFESTYLE",
+            "NUTRITION"
+        ],
+        "ID": 106,
+        "Sub Categories": [
+            {
+                "Name": "NUTRITION",
+                "ID": 107
+            }
         ]
     },
     {
@@ -87,7 +100,8 @@
             "MILITARY",
             "LAW AND ORDER",
             "DRUGS AND LAW ENFORCEMENT",
-            "ELECTIONS"
+            "ELECTIONS",
+            "ELECTION"
         ],
         "ID": 21,
         "Sub Categories": [
@@ -106,6 +120,10 @@
             {
                 "Name": "ELECTIONS",
                 "ID": 78
+            },
+            {
+                "Name": "ELECTION",
+                "ID": 113
             }
         ]
     },

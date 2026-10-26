@@ -298,5 +298,45 @@
     {
         "Tag Name": "অরলিয়াঁস",
         "ID": 103
+    },
+    {
+        "Tag Name": "মিখাইল বুলগাকভ",
+        "ID": 105
+    },
+    {
+        "Tag Name": "দ্য ডেজ অব দ্য টারবিনস",
+        "ID": 106
+    },
+    {
+        "Tag Name": "সোভিয়েত থিয়েটার",
+        "ID": 107
+    },
+    {
+        "Tag Name": "স্তালিন",
+        "ID": 108
+    },
+    {
+        "Tag Name": "সেন্সরশিপ",
+        "ID": 109
+    },
+    {
+        "Tag Name": "Serbia",
+        "ID": 111
+    },
+    {
+        "Tag Name": "student movement",
+        "ID": 112
+    },
+    {
+        "Tag Name": "protests",
+        "ID": 113
+    },
+    {
+        "Tag Name": "Belgrade",
+        "ID": 114
+    },
+    {
+        "Tag Name": "Aleksandar Vucic",
+        "ID": 115
     }
 ]
