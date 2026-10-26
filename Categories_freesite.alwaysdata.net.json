@@ -177,18 +177,26 @@
         ]
     },
     {
-        "Category Name": "Education",
+        "Category Name": "EDUCATION",
         "Filter": [
-            "education",
-            "school",
-            "university",
-            "exam",
-            "student",
+            "EDUCATION",
+            "SCHOOL",
+            "UNIVERSITY",
+            "EXAM",
+            "STUDENT",
             "শিক্ষা",
             "স্কুল",
             "বিশ্ববিদ্যালয়",
             "পরীক্ষা",
-            "শিক্ষার্থী"
+            "শিক্ষার্থী",
+            "EDUCATION MINISTRY"
+        ],
+        "ID": 141,
+        "Sub Categories": [
+            {
+                "Name": "EDUCATION MINISTRY",
+                "ID": 142
+            }
         ]
     },
     {
