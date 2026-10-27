@@ -23,7 +23,10 @@
             "US ELECTIONS",
             "DIPLOMACY",
             "US POLITICS",
-            "US COURT"
+            "US COURT",
+            "DEFENCE STRATEGY",
+            "HUMANITARIAN CRISIS",
+            "ISRAEL ELECTION"
         ],
         "ID": 6,
         "Sub Categories": [
@@ -78,6 +81,18 @@
             {
                 "Name": "US COURT",
                 "ID": 182
+            },
+            {
+                "Name": "DEFENCE STRATEGY",
+                "ID": 201
+            },
+            {
+                "Name": "HUMANITARIAN CRISIS",
+                "ID": 207
+            },
+            {
+                "Name": "ISRAEL ELECTION",
+                "ID": 213
             }
         ]
     },

@@ -16,7 +16,8 @@
             "DISABILITY RIGHTS",
             "INTERNATIONAL POLITICS",
             "FOOD SECURITY",
-            "SECURITY"
+            "SECURITY",
+            "PRESS REVIEW"
         ],
         "ID": 48,
         "Sub Categories": [
@@ -51,28 +52,40 @@
             {
                 "Name": "SECURITY",
                 "ID": 188
+            },
+            {
+                "Name": "PRESS REVIEW",
+                "ID": 212
             }
         ]
     },
     {
         "Category Name": "BUSINES",
         "Filter": [
-            "business",
-            "bussiness",
-            "market",
-            "bank",
-            "industry",
-            "economics",
-            "world-business",
-            "world business",
-            "analysis",
-            "finace",
-            "personal finance",
-            "corporate",
-            "budget",
-            "budget bangladesh",
-            "hat bazar",
-            "hat"
+            "BUSINESS",
+            "BUSSINESS",
+            "MARKET",
+            "BANK",
+            "INDUSTRY",
+            "ECONOMICS",
+            "WORLD-BUSINESS",
+            "WORLD BUSINESS",
+            "ANALYSIS",
+            "FINACE",
+            "PERSONAL FINANCE",
+            "CORPORATE",
+            "BUDGET",
+            "BUDGET BANGLADESH",
+            "HAT BAZAR",
+            "HAT",
+            "GLOBAL ECONOMY"
+        ],
+        "ID": 205,
+        "Sub Categories": [
+            {
+                "Name": "GLOBAL ECONOMY",
+                "ID": 206
+            }
         ]
     },
     {
@@ -172,13 +185,18 @@
             "MOBILE",
             "SMARTPHONE",
             "GADGETS",
-            "RIVER PROTECTION"
+            "RIVER PROTECTION",
+            "AI AND CAREER"
         ],
         "ID": 148,
         "Sub Categories": [
             {
                 "Name": "RIVER PROTECTION",
                 "ID": 149
+            },
+            {
+                "Name": "AI AND CAREER",
+                "ID": 194
             }
         ]
     },
