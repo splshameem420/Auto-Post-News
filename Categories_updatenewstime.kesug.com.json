@@ -26,7 +26,11 @@
             "US COURT",
             "DEFENCE STRATEGY",
             "HUMANITARIAN CRISIS",
-            "ISRAEL ELECTION"
+            "ISRAEL ELECTION",
+            "RUSSIA-UKRAINE",
+            "UKRAINE CONFLICT",
+            "LAW ENFORCEMENT",
+            "ISRAELI ELECTIONS"
         ],
         "ID": 6,
         "Sub Categories": [
@@ -93,6 +97,22 @@
             {
                 "Name": "ISRAEL ELECTION",
                 "ID": 213
+            },
+            {
+                "Name": "RUSSIA-UKRAINE",
+                "ID": 226
+            },
+            {
+                "Name": "UKRAINE CONFLICT",
+                "ID": 233
+            },
+            {
+                "Name": "LAW ENFORCEMENT",
+                "ID": 238
+            },
+            {
+                "Name": "ISRAELI ELECTIONS",
+                "ID": 244
             }
         ]
     },
@@ -301,6 +321,19 @@
             {
                 "Name": "THEATRE",
                 "ID": 104
+            }
+        ]
+    },
+    {
+        "Category Name": "SOCIETY",
+        "ID": 219,
+        "Filter": [
+            "SOCIAL WELFARE"
+        ],
+        "Sub Categories": [
+            {
+                "Name": "SOCIAL WELFARE",
+                "ID": 220
             }
         ]
     }

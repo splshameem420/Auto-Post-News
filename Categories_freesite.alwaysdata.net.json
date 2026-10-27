@@ -140,7 +140,9 @@
             "ELECTIONS",
             "ELECTION",
             "PRESS FREEDOM",
-            "LAW ENFORCEMENT"
+            "LAW ENFORCEMENT",
+            "ELECTION LAW",
+            "POLICE ENCOUNTERS"
         ],
         "ID": 21,
         "Sub Categories": [
@@ -171,6 +173,14 @@
             {
                 "Name": "LAW ENFORCEMENT",
                 "ID": 160
+            },
+            {
+                "Name": "ELECTION LAW",
+                "ID": 229
+            },
+            {
+                "Name": "POLICE ENCOUNTERS",
+                "ID": 235
             }
         ]
     },
@@ -317,6 +327,19 @@
             {
                 "Name": "CHILD ABUSE",
                 "ID": 166
+            }
+        ]
+    },
+    {
+        "Category Name": "ENTERTAINMENT",
+        "ID": 217,
+        "Filter": [
+            "TELEVISION"
+        ],
+        "Sub Categories": [
+            {
+                "Name": "TELEVISION",
+                "ID": 218
             }
         ]
     }
