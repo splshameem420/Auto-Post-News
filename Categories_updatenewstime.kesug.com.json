@@ -31,7 +31,8 @@
             "UKRAINE CONFLICT",
             "LAW ENFORCEMENT",
             "ISRAELI ELECTIONS",
-            "PRESS REVIEW"
+            "PRESS REVIEW",
+            "INTERNATIONAL POLITICS"
         ],
         "ID": 6,
         "Sub Categories": [
@@ -118,6 +119,10 @@
             {
                 "Name": "PRESS REVIEW",
                 "ID": 291
+            },
+            {
+                "Name": "INTERNATIONAL POLITICS",
+                "ID": 297
             }
         ]
     },

@@ -18,7 +18,8 @@
             "FOOD SECURITY",
             "SECURITY",
             "PRESS REVIEW",
-            "WORLD POLITICS"
+            "WORLD POLITICS",
+            "SOCIAL WORK"
         ],
         "ID": 48,
         "Sub Categories": [
@@ -61,6 +62,10 @@
             {
                 "Name": "WORLD POLITICS",
                 "ID": 283
+            },
+            {
+                "Name": "SOCIAL WORK",
+                "ID": 295
             }
         ]
     },
@@ -83,13 +88,18 @@
             "BUDGET BANGLADESH",
             "HAT BAZAR",
             "HAT",
-            "GLOBAL ECONOMY"
+            "GLOBAL ECONOMY",
+            "BANKING"
         ],
         "ID": 205,
         "Sub Categories": [
             {
                 "Name": "GLOBAL ECONOMY",
                 "ID": 206
+            },
+            {
+                "Name": "BANKING",
+                "ID": 289
             }
         ]
     },
