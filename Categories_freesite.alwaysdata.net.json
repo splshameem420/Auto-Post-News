@@ -142,7 +142,10 @@
             "PRESS FREEDOM",
             "LAW ENFORCEMENT",
             "ELECTION LAW",
-            "POLICE ENCOUNTERS"
+            "POLICE ENCOUNTERS",
+            "ISRAEL ELECTION",
+            "DIPLOMACY",
+            "INTERNATIONAL"
         ],
         "ID": 21,
         "Sub Categories": [
@@ -181,6 +184,18 @@
             {
                 "Name": "POLICE ENCOUNTERS",
                 "ID": 235
+            },
+            {
+                "Name": "ISRAEL ELECTION",
+                "ID": 247
+            },
+            {
+                "Name": "DIPLOMACY",
+                "ID": 253
+            },
+            {
+                "Name": "INTERNATIONAL",
+                "ID": 263
             }
         ]
     },
@@ -196,7 +211,8 @@
             "SMARTPHONE",
             "GADGETS",
             "RIVER PROTECTION",
-            "AI AND CAREER"
+            "AI AND CAREER",
+            "CYBERSECURITY"
         ],
         "ID": 148,
         "Sub Categories": [
@@ -207,6 +223,10 @@
             {
                 "Name": "AI AND CAREER",
                 "ID": 194
+            },
+            {
+                "Name": "CYBERSECURITY",
+                "ID": 241
             }
         ]
     },
@@ -308,12 +328,17 @@
         "Category Name": "CULTURE",
         "ID": 89,
         "Filter": [
-            "ARTS"
+            "ARTS",
+            "MUSHROOM FARMING"
         ],
         "Sub Categories": [
             {
                 "Name": "ARTS",
                 "ID": 90
+            },
+            {
+                "Name": "MUSHROOM FARMING",
+                "ID": 258
             }
         ]
     },
