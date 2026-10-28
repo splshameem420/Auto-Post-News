@@ -30,7 +30,8 @@
             "RUSSIA-UKRAINE",
             "UKRAINE CONFLICT",
             "LAW ENFORCEMENT",
-            "ISRAELI ELECTIONS"
+            "ISRAELI ELECTIONS",
+            "PRESS REVIEW"
         ],
         "ID": 6,
         "Sub Categories": [
@@ -113,6 +114,10 @@
             {
                 "Name": "ISRAELI ELECTIONS",
                 "ID": 244
+            },
+            {
+                "Name": "PRESS REVIEW",
+                "ID": 291
             }
         ]
     },
@@ -229,14 +234,22 @@
     {
         "Category Name": "TECHNOLIGY",
         "Filter": [
-            "technoligy",
-            "tech",
-            "tec",
-            "telecom",
-            "computer",
-            "mobile",
-            "smartphone",
-            "gadgets"
+            "TECHNOLIGY",
+            "TECH",
+            "TEC",
+            "TELECOM",
+            "COMPUTER",
+            "MOBILE",
+            "SMARTPHONE",
+            "GADGETS",
+            "SOCIAL MEDIA"
+        ],
+        "ID": 9,
+        "Sub Categories": [
+            {
+                "Name": "SOCIAL MEDIA",
+                "ID": 276
+            }
         ]
     },
     {

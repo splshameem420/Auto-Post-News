@@ -17,7 +17,8 @@
             "INTERNATIONAL POLITICS",
             "FOOD SECURITY",
             "SECURITY",
-            "PRESS REVIEW"
+            "PRESS REVIEW",
+            "WORLD POLITICS"
         ],
         "ID": 48,
         "Sub Categories": [
@@ -56,6 +57,10 @@
             {
                 "Name": "PRESS REVIEW",
                 "ID": 212
+            },
+            {
+                "Name": "WORLD POLITICS",
+                "ID": 283
             }
         ]
     },
@@ -146,7 +151,8 @@
             "ISRAEL ELECTION",
             "DIPLOMACY",
             "INTERNATIONAL",
-            "FOREIGN POLICY"
+            "FOREIGN POLICY",
+            "FREEDOM OF SPEECH"
         ],
         "ID": 21,
         "Sub Categories": [
@@ -201,6 +207,10 @@
             {
                 "Name": "FOREIGN POLICY",
                 "ID": 266
+            },
+            {
+                "Name": "FREEDOM OF SPEECH",
+                "ID": 271
             }
         ]
     },
@@ -247,13 +257,18 @@
             "ICC",
             "ASIA CUP",
             "SPORTS",
-            "GAME"
+            "GAME",
+            "TENNIS"
         ],
         "ID": 59,
         "Sub Categories": [
             {
                 "Name": "FOOTBALL",
                 "ID": 60
+            },
+            {
+                "Name": "TENNIS",
+                "ID": 277
             }
         ]
     },
