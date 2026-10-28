@@ -145,7 +145,8 @@
             "POLICE ENCOUNTERS",
             "ISRAEL ELECTION",
             "DIPLOMACY",
-            "INTERNATIONAL"
+            "INTERNATIONAL",
+            "FOREIGN POLICY"
         ],
         "ID": 21,
         "Sub Categories": [
@@ -196,6 +197,10 @@
             {
                 "Name": "INTERNATIONAL",
                 "ID": 263
+            },
+            {
+                "Name": "FOREIGN POLICY",
+                "ID": 266
             }
         ]
     },

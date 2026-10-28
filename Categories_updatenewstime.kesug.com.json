@@ -135,13 +135,18 @@
             "BUDGET BANGLADESH",
             "HAT BAZAR",
             "HAT",
-            "ISLAMIC ECONOMICS"
+            "ISLAMIC ECONOMICS",
+            "TAX"
         ],
         "ID": 169,
         "Sub Categories": [
             {
                 "Name": "ISLAMIC ECONOMICS",
                 "ID": 170
+            },
+            {
+                "Name": "TAX",
+                "ID": 270
             }
         ]
     },

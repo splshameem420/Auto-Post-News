@@ -810,5 +810,21 @@
     {
         "Tag Name": "Middle East",
         "ID": 265
+    },
+    {
+        "Tag Name": "US midterms",
+        "ID": 267
+    },
+    {
+        "Tag Name": "geopolitics",
+        "ID": 268
+    },
+    {
+        "Tag Name": "Russia",
+        "ID": 269
+    },
+    {
+        "Tag Name": "China",
+        "ID": 270
     }
 ]
