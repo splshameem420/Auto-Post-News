@@ -387,5 +387,18 @@
                 "ID": 264
             }
         ]
+    },
+    {
+        "Category Name": "ENVIRONMENT",
+        "ID": 327,
+        "Filter": [
+            "FOREST FIRE"
+        ],
+        "Sub Categories": [
+            {
+                "Name": "FOREST FIRE",
+                "ID": 328
+            }
+        ]
     }
 ]

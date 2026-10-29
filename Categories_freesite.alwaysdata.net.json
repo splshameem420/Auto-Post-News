@@ -268,7 +268,9 @@
             "ASIA CUP",
             "SPORTS",
             "GAME",
-            "TENNIS"
+            "TENNIS",
+            "BADMINTON",
+            "BOXING"
         ],
         "ID": 59,
         "Sub Categories": [
@@ -279,6 +281,14 @@
             {
                 "Name": "TENNIS",
                 "ID": 277
+            },
+            {
+                "Name": "BADMINTON",
+                "ID": 314
+            },
+            {
+                "Name": "BOXING",
+                "ID": 320
             }
         ]
     },

@@ -990,5 +990,45 @@
     {
         "Tag Name": "মডেলিং",
         "ID": 306
+    },
+    {
+        "Tag Name": "যুক্তরাষ্ট্র মধ্যবর্তী নির্বাচন",
+        "ID": 322
+    },
+    {
+        "Tag Name": "মার্কিন রাজনীতি",
+        "ID": 323
+    },
+    {
+        "Tag Name": "কৃষি সংকট",
+        "ID": 324
+    },
+    {
+        "Tag Name": "US Farmers",
+        "ID": 325
+    },
+    {
+        "Tag Name": "US Midterm Elections",
+        "ID": 326
+    },
+    {
+        "Tag Name": "ইন্দোনেশিয়া",
+        "ID": 329
+    },
+    {
+        "Tag Name": "দাবানল",
+        "ID": 330
+    },
+    {
+        "Tag Name": "বিষাক্ত ধোঁয়াশা",
+        "ID": 331
+    },
+    {
+        "Tag Name": "Indonesia Haze",
+        "ID": 332
+    },
+    {
+        "Tag Name": "Air Pollution",
+        "ID": 333
     }
 ]
