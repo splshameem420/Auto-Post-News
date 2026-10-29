@@ -321,7 +321,8 @@
         "ID": 18,
         "Filter": [
             "TELEVISION DRAMA",
-            "TRUE CRIME"
+            "TRUE CRIME",
+            "CELEBRITY FASHION"
         ],
         "Sub Categories": [
             {
@@ -331,6 +332,10 @@
             {
                 "Name": "TRUE CRIME",
                 "ID": 248
+            },
+            {
+                "Name": "CELEBRITY FASHION",
+                "ID": 301
             }
         ]
     },
