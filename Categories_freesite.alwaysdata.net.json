@@ -22,7 +22,8 @@
             "SOCIAL WORK",
             "US POLITICS",
             "US HEALTHCARE",
-            "MYSTERIOUS DEATH"
+            "MYSTERIOUS DEATH",
+            "EUROPE PROTESTS"
         ],
         "ID": 48,
         "Sub Categories": [
@@ -81,6 +82,10 @@
             {
                 "Name": "MYSTERIOUS DEATH",
                 "ID": 358
+            },
+            {
+                "Name": "EUROPE PROTESTS",
+                "ID": 375
             }
         ]
     },

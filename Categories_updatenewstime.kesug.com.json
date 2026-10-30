@@ -36,7 +36,8 @@
             "RAIL ACCIDENT",
             "VENEZUELA POLITICS",
             "MIDDLE EAST POLITICS",
-            "NEWSPAPER REVIEW"
+            "NEWSPAPER REVIEW",
+            "NATIONAL POLITICS"
         ],
         "ID": 6,
         "Sub Categories": [
@@ -143,6 +144,10 @@
             {
                 "Name": "NEWSPAPER REVIEW",
                 "ID": 351
+            },
+            {
+                "Name": "NATIONAL POLITICS",
+                "ID": 366
             }
         ]
     },
