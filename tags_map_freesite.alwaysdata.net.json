@@ -1158,5 +1158,49 @@
     {
         "Tag Name": "Port Sudan",
         "ID": 385
+    },
+    {
+        "Tag Name": "G20",
+        "ID": 387
+    },
+    {
+        "Tag Name": "Lavrov",
+        "ID": 388
+    },
+    {
+        "Tag Name": "Diplomacy",
+        "ID": 389
+    },
+    {
+        "Tag Name": "California",
+        "ID": 391
+    },
+    {
+        "Tag Name": "midterm elections",
+        "ID": 392
+    },
+    {
+        "Tag Name": "redistricting",
+        "ID": 393
+    },
+    {
+        "Tag Name": "ballot initiatives",
+        "ID": 394
+    },
+    {
+        "Tag Name": "US House",
+        "ID": 395
+    },
+    {
+        "Tag Name": "midterm election",
+        "ID": 396
+    },
+    {
+        "Tag Name": "Congress",
+        "ID": 397
+    },
+    {
+        "Tag Name": "politics",
+        "ID": 398
     }
 ]

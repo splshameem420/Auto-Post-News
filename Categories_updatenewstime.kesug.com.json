@@ -38,7 +38,8 @@
             "MIDDLE EAST POLITICS",
             "NEWSPAPER REVIEW",
             "NATIONAL POLITICS",
-            "RELIGIOUS HARMONY"
+            "RELIGIOUS HARMONY",
+            "REGIONAL CONFLICT"
         ],
         "ID": 6,
         "Sub Categories": [
@@ -153,6 +154,10 @@
             {
                 "Name": "RELIGIOUS HARMONY",
                 "ID": 372
+            },
+            {
+                "Name": "REGIONAL CONFLICT",
+                "ID": 388
             }
         ]
     },
@@ -253,7 +258,8 @@
             "PUBLIC OFFICIALS",
             "WAR CRIMES",
             "ELECTION LAW",
-            "COURT NEWS"
+            "COURT NEWS",
+            "POLICE INVESTIGATION"
         ],
         "ID": 31,
         "Sub Categories": [
@@ -268,6 +274,10 @@
             {
                 "Name": "COURT NEWS",
                 "ID": 145
+            },
+            {
+                "Name": "POLICE INVESTIGATION",
+                "ID": 378
             }
         ]
     },

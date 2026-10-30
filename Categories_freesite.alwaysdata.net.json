@@ -189,7 +189,9 @@
             "FOREIGN POLICY",
             "FREEDOM OF SPEECH",
             "GOVERNMENT POLICY",
-            "ISLAMIC LAW"
+            "ISLAMIC LAW",
+            "INTERNATIONAL RELATIONS",
+            "US ELECTIONS"
         ],
         "ID": 21,
         "Sub Categories": [
@@ -256,6 +258,14 @@
             {
                 "Name": "ISLAMIC LAW",
                 "ID": 364
+            },
+            {
+                "Name": "INTERNATIONAL RELATIONS",
+                "ID": 386
+            },
+            {
+                "Name": "US ELECTIONS",
+                "ID": 390
             }
         ]
     },
