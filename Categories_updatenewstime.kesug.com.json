@@ -166,7 +166,8 @@
             "HAT BAZAR",
             "HAT",
             "ISLAMIC ECONOMICS",
-            "TAX"
+            "TAX",
+            "OIL MARKET"
         ],
         "ID": 169,
         "Sub Categories": [
@@ -177,6 +178,10 @@
             {
                 "Name": "TAX",
                 "ID": 270
+            },
+            {
+                "Name": "OIL MARKET",
+                "ID": 360
             }
         ]
     },

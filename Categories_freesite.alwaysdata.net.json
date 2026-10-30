@@ -178,7 +178,8 @@
             "INTERNATIONAL",
             "FOREIGN POLICY",
             "FREEDOM OF SPEECH",
-            "GOVERNMENT POLICY"
+            "GOVERNMENT POLICY",
+            "ISLAMIC LAW"
         ],
         "ID": 21,
         "Sub Categories": [
@@ -241,6 +242,10 @@
             {
                 "Name": "GOVERNMENT POLICY",
                 "ID": 335
+            },
+            {
+                "Name": "ISLAMIC LAW",
+                "ID": 364
             }
         ]
     },
