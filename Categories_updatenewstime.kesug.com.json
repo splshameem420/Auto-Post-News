@@ -32,7 +32,11 @@
             "LAW ENFORCEMENT",
             "ISRAELI ELECTIONS",
             "PRESS REVIEW",
-            "INTERNATIONAL POLITICS"
+            "INTERNATIONAL POLITICS",
+            "RAIL ACCIDENT",
+            "VENEZUELA POLITICS",
+            "MIDDLE EAST POLITICS",
+            "NEWSPAPER REVIEW"
         ],
         "ID": 6,
         "Sub Categories": [
@@ -123,6 +127,22 @@
             {
                 "Name": "INTERNATIONAL POLITICS",
                 "ID": 297
+            },
+            {
+                "Name": "RAIL ACCIDENT",
+                "ID": 340
+            },
+            {
+                "Name": "VENEZUELA POLITICS",
+                "ID": 346
+            },
+            {
+                "Name": "MIDDLE EAST POLITICS",
+                "ID": 349
+            },
+            {
+                "Name": "NEWSPAPER REVIEW",
+                "ID": 351
             }
         ]
     },
@@ -398,6 +418,19 @@
             {
                 "Name": "FOREST FIRE",
                 "ID": 328
+            }
+        ]
+    },
+    {
+        "Category Name": "LITERATURE",
+        "ID": 334,
+        "Filter": [
+            "SHORT STORY"
+        ],
+        "Sub Categories": [
+            {
+                "Name": "SHORT STORY",
+                "ID": 335
             }
         ]
     }

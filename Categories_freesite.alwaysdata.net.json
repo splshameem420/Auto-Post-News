@@ -19,7 +19,10 @@
             "SECURITY",
             "PRESS REVIEW",
             "WORLD POLITICS",
-            "SOCIAL WORK"
+            "SOCIAL WORK",
+            "US POLITICS",
+            "US HEALTHCARE",
+            "MYSTERIOUS DEATH"
         ],
         "ID": 48,
         "Sub Categories": [
@@ -66,6 +69,18 @@
             {
                 "Name": "SOCIAL WORK",
                 "ID": 295
+            },
+            {
+                "Name": "US POLITICS",
+                "ID": 341
+            },
+            {
+                "Name": "US HEALTHCARE",
+                "ID": 347
+            },
+            {
+                "Name": "MYSTERIOUS DEATH",
+                "ID": 358
             }
         ]
     },
@@ -162,7 +177,8 @@
             "DIPLOMACY",
             "INTERNATIONAL",
             "FOREIGN POLICY",
-            "FREEDOM OF SPEECH"
+            "FREEDOM OF SPEECH",
+            "GOVERNMENT POLICY"
         ],
         "ID": 21,
         "Sub Categories": [
@@ -221,6 +237,10 @@
             {
                 "Name": "FREEDOM OF SPEECH",
                 "ID": 271
+            },
+            {
+                "Name": "GOVERNMENT POLICY",
+                "ID": 335
             }
         ]
     },
@@ -400,7 +420,8 @@
         "ID": 217,
         "Filter": [
             "TELEVISION",
-            "CINEMA"
+            "CINEMA",
+            "CELEBRITY NEWS"
         ],
         "Sub Categories": [
             {
@@ -410,6 +431,10 @@
             {
                 "Name": "CINEMA",
                 "ID": 326
+            },
+            {
+                "Name": "CELEBRITY NEWS",
+                "ID": 352
             }
         ]
     }
