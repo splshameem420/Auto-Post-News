@@ -399,12 +399,17 @@
         "Category Name": "ENTERTAINMENT",
         "ID": 217,
         "Filter": [
-            "TELEVISION"
+            "TELEVISION",
+            "CINEMA"
         ],
         "Sub Categories": [
             {
                 "Name": "TELEVISION",
                 "ID": 218
+            },
+            {
+                "Name": "CINEMA",
+                "ID": 326
             }
         ]
     }
