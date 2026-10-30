@@ -37,7 +37,8 @@
             "VENEZUELA POLITICS",
             "MIDDLE EAST POLITICS",
             "NEWSPAPER REVIEW",
-            "NATIONAL POLITICS"
+            "NATIONAL POLITICS",
+            "RELIGIOUS HARMONY"
         ],
         "ID": 6,
         "Sub Categories": [
@@ -148,6 +149,10 @@
             {
                 "Name": "NATIONAL POLITICS",
                 "ID": 366
+            },
+            {
+                "Name": "RELIGIOUS HARMONY",
+                "ID": 372
             }
         ]
     },

@@ -23,7 +23,8 @@
             "US POLITICS",
             "US HEALTHCARE",
             "MYSTERIOUS DEATH",
-            "EUROPE PROTESTS"
+            "EUROPE PROTESTS",
+            "SUDAN CRISIS"
         ],
         "ID": 48,
         "Sub Categories": [
@@ -86,6 +87,10 @@
             {
                 "Name": "EUROPE PROTESTS",
                 "ID": 375
+            },
+            {
+                "Name": "SUDAN CRISIS",
+                "ID": 381
             }
         ]
     },
