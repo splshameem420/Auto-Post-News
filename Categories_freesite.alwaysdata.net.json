@@ -27,7 +27,9 @@
             "SUDAN CRISIS",
             "WAR CRIMES",
             "DEFENCE",
-            "DEFENSE"
+            "DEFENSE",
+            "MIDDLE EAST CRISIS",
+            "MIGRATION"
         ],
         "ID": 48,
         "Sub Categories": [
@@ -110,6 +112,14 @@
             {
                 "Name": "DEFENSE",
                 "ID": 426
+            },
+            {
+                "Name": "MIDDLE EAST CRISIS",
+                "ID": 473
+            },
+            {
+                "Name": "MIGRATION",
+                "ID": 476
             }
         ]
     },

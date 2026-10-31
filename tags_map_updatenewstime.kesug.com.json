@@ -1506,5 +1506,37 @@
     {
         "Tag Name": "US-backed",
         "ID": 474
+    },
+    {
+        "Tag Name": "World Bank",
+        "ID": 476
+    },
+    {
+        "Tag Name": "Financial sector reform",
+        "ID": 477
+    },
+    {
+        "Tag Name": "Loan",
+        "ID": 478
+    },
+    {
+        "Tag Name": "Economy",
+        "ID": 479
+    },
+    {
+        "Tag Name": "Palestine Action",
+        "ID": 480
+    },
+    {
+        "Tag Name": "US Embassy",
+        "ID": 481
+    },
+    {
+        "Tag Name": "London",
+        "ID": 482
+    },
+    {
+        "Tag Name": "UK ban",
+        "ID": 483
     }
 ]

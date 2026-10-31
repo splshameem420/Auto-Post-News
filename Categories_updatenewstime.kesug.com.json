@@ -483,12 +483,17 @@
         "Category Name": "ECONOMY",
         "ID": 263,
         "Filter": [
-            "INFRASTRUCTURE"
+            "INFRASTRUCTURE",
+            "FINANCIAL SECTOR"
         ],
         "Sub Categories": [
             {
                 "Name": "INFRASTRUCTURE",
                 "ID": 264
+            },
+            {
+                "Name": "FINANCIAL SECTOR",
+                "ID": 475
             }
         ]
     },
