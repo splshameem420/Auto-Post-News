@@ -1202,5 +1202,65 @@
     {
         "Tag Name": "politics",
         "ID": 398
+    },
+    {
+        "Tag Name": "কুকুর",
+        "ID": 400
+    },
+    {
+        "Tag Name": "বিড়াল",
+        "ID": 401
+    },
+    {
+        "Tag Name": "ইসলাম",
+        "ID": 402
+    },
+    {
+        "Tag Name": "সুন্নত",
+        "ID": 403
+    },
+    {
+        "Tag Name": "হাদিস",
+        "ID": 404
+    },
+    {
+        "Tag Name": "Poland",
+        "ID": 406
+    },
+    {
+        "Tag Name": "Constitutional Tribunal",
+        "ID": 407
+    },
+    {
+        "Tag Name": "protest",
+        "ID": 408
+    },
+    {
+        "Tag Name": "Bogdan Swieczkowski",
+        "ID": 409
+    },
+    {
+        "Tag Name": "Donald Tusk",
+        "ID": 410
+    },
+    {
+        "Tag Name": "Switzerland",
+        "ID": 412
+    },
+    {
+        "Tag Name": "Liberia",
+        "ID": 413
+    },
+    {
+        "Tag Name": "war crimes",
+        "ID": 414
+    },
+    {
+        "Tag Name": "human rights",
+        "ID": 237
+    },
+    {
+        "Tag Name": "international justice",
+        "ID": 415
     }
 ]

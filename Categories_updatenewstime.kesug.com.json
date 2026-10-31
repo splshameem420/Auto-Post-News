@@ -39,7 +39,8 @@
             "NEWSPAPER REVIEW",
             "NATIONAL POLITICS",
             "RELIGIOUS HARMONY",
-            "REGIONAL CONFLICT"
+            "REGIONAL CONFLICT",
+            "LEGAL CASE"
         ],
         "ID": 6,
         "Sub Categories": [
@@ -158,6 +159,10 @@
             {
                 "Name": "REGIONAL CONFLICT",
                 "ID": 388
+            },
+            {
+                "Name": "LEGAL CASE",
+                "ID": 404
             }
         ]
     },
@@ -367,7 +372,8 @@
         "Filter": [
             "TELEVISION DRAMA",
             "TRUE CRIME",
-            "CELEBRITY FASHION"
+            "CELEBRITY FASHION",
+            "MUSIC"
         ],
         "Sub Categories": [
             {
@@ -381,6 +387,10 @@
             {
                 "Name": "CELEBRITY FASHION",
                 "ID": 301
+            },
+            {
+                "Name": "MUSIC",
+                "ID": 398
             }
         ]
     },

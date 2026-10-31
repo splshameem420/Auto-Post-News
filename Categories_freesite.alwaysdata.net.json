@@ -24,7 +24,8 @@
             "US HEALTHCARE",
             "MYSTERIOUS DEATH",
             "EUROPE PROTESTS",
-            "SUDAN CRISIS"
+            "SUDAN CRISIS",
+            "WAR CRIMES"
         ],
         "ID": 48,
         "Sub Categories": [
@@ -91,6 +92,10 @@
             {
                 "Name": "SUDAN CRISIS",
                 "ID": 381
+            },
+            {
+                "Name": "WAR CRIMES",
+                "ID": 411
             }
         ]
     },
@@ -191,7 +196,9 @@
             "GOVERNMENT POLICY",
             "ISLAMIC LAW",
             "INTERNATIONAL RELATIONS",
-            "US ELECTIONS"
+            "US ELECTIONS",
+            "ISLAM",
+            "JUDICIARY"
         ],
         "ID": 21,
         "Sub Categories": [
@@ -266,6 +273,14 @@
             {
                 "Name": "US ELECTIONS",
                 "ID": 390
+            },
+            {
+                "Name": "ISLAM",
+                "ID": 399
+            },
+            {
+                "Name": "JUDICIARY",
+                "ID": 405
             }
         ]
     },
