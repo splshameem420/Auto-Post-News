@@ -163,6 +163,10 @@
             {
                 "Name": "LEGAL CASE",
                 "ID": 404
+            },
+            {
+                "Name": "MIDDLE EAST",
+                "ID": 415
             }
         ]
     },
@@ -264,7 +268,8 @@
             "WAR CRIMES",
             "ELECTION LAW",
             "COURT NEWS",
-            "POLICE INVESTIGATION"
+            "POLICE INVESTIGATION",
+            "INVESTIGATION"
         ],
         "ID": 31,
         "Sub Categories": [
@@ -283,6 +288,10 @@
             {
                 "Name": "POLICE INVESTIGATION",
                 "ID": 378
+            },
+            {
+                "Name": "INVESTIGATION",
+                "ID": 425
             }
         ]
     },
@@ -297,13 +306,18 @@
             "MOBILE",
             "SMARTPHONE",
             "GADGETS",
-            "SOCIAL MEDIA"
+            "SOCIAL MEDIA",
+            "CYBERSECURITY"
         ],
         "ID": 9,
         "Sub Categories": [
             {
                 "Name": "SOCIAL MEDIA",
                 "ID": 276
+            },
+            {
+                "Name": "CYBERSECURITY",
+                "ID": 420
             }
         ]
     },
@@ -352,7 +366,8 @@
             "পরীক্ষা",
             "শিক্ষার্থী",
             "STUDENT DEATH",
-            "TEXTBOOK CURRICULUM"
+            "TEXTBOOK CURRICULUM",
+            "HSC RESULTS"
         ],
         "ID": 11,
         "Sub Categories": [
@@ -363,6 +378,10 @@
             {
                 "Name": "TEXTBOOK CURRICULUM",
                 "ID": 38
+            },
+            {
+                "Name": "HSC RESULTS",
+                "ID": 409
             }
         ]
     },

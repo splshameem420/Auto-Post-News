@@ -25,7 +25,9 @@
             "MYSTERIOUS DEATH",
             "EUROPE PROTESTS",
             "SUDAN CRISIS",
-            "WAR CRIMES"
+            "WAR CRIMES",
+            "DEFENCE",
+            "DEFENSE"
         ],
         "ID": 48,
         "Sub Categories": [
@@ -96,6 +98,18 @@
             {
                 "Name": "WAR CRIMES",
                 "ID": 411
+            },
+            {
+                "Name": "DEFENCE",
+                "ID": 416
+            },
+            {
+                "Name": "HUMAN RIGHTS",
+                "ID": 421
+            },
+            {
+                "Name": "DEFENSE",
+                "ID": 426
             }
         ]
     },
