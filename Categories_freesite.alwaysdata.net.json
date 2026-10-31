@@ -368,6 +368,10 @@
             {
                 "Name": "BOXING",
                 "ID": 320
+            },
+            {
+                "Name": "CRICKET",
+                "ID": 467
             }
         ]
     },
@@ -475,12 +479,17 @@
         "Category Name": "SOCIETY",
         "ID": 165,
         "Filter": [
-            "CHILD ABUSE"
+            "CHILD ABUSE",
+            "ELDERLY WELFARE"
         ],
         "Sub Categories": [
             {
                 "Name": "CHILD ABUSE",
                 "ID": 166
+            },
+            {
+                "Name": "ELDERLY WELFARE",
+                "ID": 461
             }
         ]
     },
@@ -490,7 +499,8 @@
         "Filter": [
             "TELEVISION",
             "CINEMA",
-            "CELEBRITY NEWS"
+            "CELEBRITY NEWS",
+            "BOLLYWOOD"
         ],
         "Sub Categories": [
             {
@@ -504,6 +514,10 @@
             {
                 "Name": "CELEBRITY NEWS",
                 "ID": 352
+            },
+            {
+                "Name": "BOLLYWOOD",
+                "ID": 455
             }
         ]
     }

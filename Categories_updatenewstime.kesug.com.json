@@ -41,7 +41,10 @@
             "RELIGIOUS HARMONY",
             "REGIONAL CONFLICT",
             "LEGAL CASE",
-            "REGIONAL SECURITY"
+            "REGIONAL SECURITY",
+            "PROTEST",
+            "ISRAEL-PALESTINE CONFLICT",
+            "CONFLICT"
         ],
         "ID": 6,
         "Sub Categories": [
@@ -172,6 +175,18 @@
             {
                 "Name": "REGIONAL SECURITY",
                 "ID": 449
+            },
+            {
+                "Name": "PROTEST",
+                "ID": 460
+            },
+            {
+                "Name": "ISRAEL-PALESTINE CONFLICT",
+                "ID": 466
+            },
+            {
+                "Name": "CONFLICT",
+                "ID": 471
             }
         ]
     },
