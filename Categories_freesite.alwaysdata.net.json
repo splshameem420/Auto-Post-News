@@ -165,13 +165,18 @@
             "SHOPING",
             "PUBLIC HEALTH",
             "CELEBRITY LIFESTYLE",
-            "NUTRITION"
+            "NUTRITION",
+            "VIRAL FEVER"
         ],
         "ID": 106,
         "Sub Categories": [
             {
                 "Name": "NUTRITION",
                 "ID": 107
+            },
+            {
+                "Name": "VIRAL FEVER",
+                "ID": 438
             }
         ]
     },
@@ -379,13 +384,18 @@
             "বিশ্ববিদ্যালয়",
             "পরীক্ষা",
             "শিক্ষার্থী",
-            "EDUCATION MINISTRY"
+            "EDUCATION MINISTRY",
+            "HSC RESULT"
         ],
         "ID": 141,
         "Sub Categories": [
             {
                 "Name": "EDUCATION MINISTRY",
                 "ID": 142
+            },
+            {
+                "Name": "HSC RESULT",
+                "ID": 428
             }
         ]
     },

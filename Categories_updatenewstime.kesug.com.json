@@ -334,7 +334,8 @@
             "ASIA CUP",
             "SPORTS",
             "GAME",
-            "MOTORSPORT"
+            "MOTORSPORT",
+            "PREMIER LEAGUE"
         ],
         "ID": 10,
         "Sub Categories": [
@@ -349,6 +350,10 @@
             {
                 "Name": "MOTORSPORT",
                 "ID": 122
+            },
+            {
+                "Name": "PREMIER LEAGUE",
+                "ID": 434
             }
         ]
     },

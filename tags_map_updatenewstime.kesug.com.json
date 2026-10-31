@@ -1350,5 +1350,41 @@
     {
         "Tag Name": "গ্যাস মজুদ",
         "ID": 429
+    },
+    {
+        "Tag Name": "মার্কিন নির্বাচন",
+        "ID": 430
+    },
+    {
+        "Tag Name": "সিনেট",
+        "ID": 431
+    },
+    {
+        "Tag Name": "ডেমোক্র্যাট",
+        "ID": 432
+    },
+    {
+        "Tag Name": "রিপাবলিকান",
+        "ID": 433
+    },
+    {
+        "Tag Name": "Liverpool",
+        "ID": 435
+    },
+    {
+        "Tag Name": "Arsenal",
+        "ID": 436
+    },
+    {
+        "Tag Name": "Premier League",
+        "ID": 437
+    },
+    {
+        "Tag Name": "Football",
+        "ID": 438
+    },
+    {
+        "Tag Name": "Anfield",
+        "ID": 439
     }
 ]
