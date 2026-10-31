@@ -40,7 +40,8 @@
             "NATIONAL POLITICS",
             "RELIGIOUS HARMONY",
             "REGIONAL CONFLICT",
-            "LEGAL CASE"
+            "LEGAL CASE",
+            "REGIONAL SECURITY"
         ],
         "ID": 6,
         "Sub Categories": [
@@ -167,6 +168,10 @@
             {
                 "Name": "MIDDLE EAST",
                 "ID": 415
+            },
+            {
+                "Name": "REGIONAL SECURITY",
+                "ID": 449
             }
         ]
     },
@@ -269,7 +274,8 @@
             "ELECTION LAW",
             "COURT NEWS",
             "POLICE INVESTIGATION",
-            "INVESTIGATION"
+            "INVESTIGATION",
+            "MURDER INVESTIGATION"
         ],
         "ID": 31,
         "Sub Categories": [
@@ -292,6 +298,10 @@
             {
                 "Name": "INVESTIGATION",
                 "ID": 425
+            },
+            {
+                "Name": "MURDER INVESTIGATION",
+                "ID": 455
             }
         ]
     },

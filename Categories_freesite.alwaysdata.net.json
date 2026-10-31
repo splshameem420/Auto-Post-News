@@ -431,7 +431,8 @@
         "Filter": [
             "EXTORTION",
             "FAMILY DISPUTE",
-            "TAX EVASION"
+            "TAX EVASION",
+            "JUVENILE CRIME"
         ],
         "Sub Categories": [
             {
@@ -445,6 +446,10 @@
             {
                 "Name": "TAX EVASION",
                 "ID": 170
+            },
+            {
+                "Name": "JUVENILE CRIME",
+                "ID": 444
             }
         ]
     },
