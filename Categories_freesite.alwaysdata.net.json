@@ -417,12 +417,17 @@
         "Category Name": "JOBS",
         "ID": 14,
         "Filter": [
-            "BCS RECRUITMENT"
+            "BCS RECRUITMENT",
+            "GOVERNMENT RECRUITMENT"
         ],
         "Sub Categories": [
             {
                 "Name": "BCS RECRUITMENT",
                 "ID": 15
+            },
+            {
+                "Name": "GOVERNMENT RECRUITMENT",
+                "ID": 487
             }
         ]
     },
@@ -528,6 +533,19 @@
             {
                 "Name": "BOLLYWOOD",
                 "ID": 455
+            }
+        ]
+    },
+    {
+        "Category Name": "HISTORY",
+        "ID": 497,
+        "Filter": [
+            "MUGHAL TRADE"
+        ],
+        "Sub Categories": [
+            {
+                "Name": "MUGHAL TRADE",
+                "ID": 498
             }
         ]
     }

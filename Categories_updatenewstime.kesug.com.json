@@ -187,6 +187,10 @@
             {
                 "Name": "CONFLICT",
                 "ID": 471
+            },
+            {
+                "Name": "PROTESTS",
+                "ID": 490
             }
         ]
     },
@@ -397,7 +401,8 @@
             "শিক্ষার্থী",
             "STUDENT DEATH",
             "TEXTBOOK CURRICULUM",
-            "HSC RESULTS"
+            "HSC RESULTS",
+            "EXAM RESULTS"
         ],
         "ID": 11,
         "Sub Categories": [
@@ -412,6 +417,10 @@
             {
                 "Name": "HSC RESULTS",
                 "ID": 409
+            },
+            {
+                "Name": "EXAM RESULTS",
+                "ID": 484
             }
         ]
     },
