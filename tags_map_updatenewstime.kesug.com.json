@@ -1714,5 +1714,45 @@
     {
         "Tag Name": "ঢাকা সিটি কর্পোরেশন",
         "ID": 535
+    },
+    {
+        "Tag Name": "ট্রাইব্যুনাল",
+        "ID": 537
+    },
+    {
+        "Tag Name": "জামায়াতে ইসলামি",
+        "ID": 538
+    },
+    {
+        "Tag Name": "প্রসিকিউটর",
+        "ID": 539
+    },
+    {
+        "Tag Name": "আমার বাংলাদেশ",
+        "ID": 540
+    },
+    {
+        "Tag Name": "আসাদুজ্জামান ফুয়াদ",
+        "ID": 541
+    },
+    {
+        "Tag Name": "Iran war",
+        "ID": 542
+    },
+    {
+        "Tag Name": "US midterms",
+        "ID": 543
+    },
+    {
+        "Tag Name": "fuel prices",
+        "ID": 544
+    },
+    {
+        "Tag Name": "political parties",
+        "ID": 545
+    },
+    {
+        "Tag Name": "election impact",
+        "ID": 546
     }
 ]

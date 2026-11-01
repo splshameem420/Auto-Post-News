@@ -48,7 +48,8 @@
             "PARTY POLITICS",
             "LABOR AND CRIME",
             "RESCUE",
-            "LOCAL ELECTIONS"
+            "LOCAL ELECTIONS",
+            "LEGAL PROCEEDINGS"
         ],
         "ID": 6,
         "Sub Categories": [
@@ -211,6 +212,10 @@
             {
                 "Name": "LOCAL ELECTIONS",
                 "ID": 530
+            },
+            {
+                "Name": "LEGAL PROCEEDINGS",
+                "ID": 536
             }
         ]
     },

@@ -30,7 +30,8 @@
             "DEFENSE",
             "MIDDLE EAST CRISIS",
             "MIGRATION",
-            "ISRAEL POLITICS"
+            "ISRAEL POLITICS",
+            "NATURAL DISASTERS"
         ],
         "ID": 48,
         "Sub Categories": [
@@ -125,6 +126,10 @@
             {
                 "Name": "ISRAEL POLITICS",
                 "ID": 504
+            },
+            {
+                "Name": "NATURAL DISASTERS",
+                "ID": 545
             }
         ]
     },
@@ -148,7 +153,8 @@
             "HAT BAZAR",
             "HAT",
             "GLOBAL ECONOMY",
-            "BANKING"
+            "BANKING",
+            "AVIATION"
         ],
         "ID": 205,
         "Sub Categories": [
@@ -159,6 +165,10 @@
             {
                 "Name": "BANKING",
                 "ID": 289
+            },
+            {
+                "Name": "AVIATION",
+                "ID": 539
             }
         ]
     },
