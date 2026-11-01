@@ -44,7 +44,9 @@
             "REGIONAL SECURITY",
             "PROTEST",
             "ISRAEL-PALESTINE CONFLICT",
-            "CONFLICT"
+            "CONFLICT",
+            "PARTY POLITICS",
+            "LABOR AND CRIME"
         ],
         "ID": 6,
         "Sub Categories": [
@@ -191,6 +193,14 @@
             {
                 "Name": "PROTESTS",
                 "ID": 490
+            },
+            {
+                "Name": "PARTY POLITICS",
+                "ID": 495
+            },
+            {
+                "Name": "LABOR AND CRIME",
+                "ID": 504
             }
         ]
     },
@@ -253,7 +263,8 @@
             "CELEBRITY LIFESTYLE",
             "EBOLA OUTBREAK",
             "ISLAMIC LIFESTYLE",
-            "MEDICAL RESEARCH"
+            "MEDICAL RESEARCH",
+            "SKIN HEALTH"
         ],
         "ID": 8,
         "Sub Categories": [
@@ -268,6 +279,10 @@
             {
                 "Name": "MEDICAL RESEARCH",
                 "ID": 139
+            },
+            {
+                "Name": "SKIN HEALTH",
+                "ID": 509
             }
         ]
     },

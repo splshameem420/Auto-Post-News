@@ -29,7 +29,8 @@
             "DEFENCE",
             "DEFENSE",
             "MIDDLE EAST CRISIS",
-            "MIGRATION"
+            "MIGRATION",
+            "ISRAEL POLITICS"
         ],
         "ID": 48,
         "Sub Categories": [
@@ -120,6 +121,10 @@
             {
                 "Name": "MIGRATION",
                 "ID": 476
+            },
+            {
+                "Name": "ISRAEL POLITICS",
+                "ID": 504
             }
         ]
     },
@@ -227,7 +232,8 @@
             "INTERNATIONAL RELATIONS",
             "US ELECTIONS",
             "ISLAM",
-            "JUDICIARY"
+            "JUDICIARY",
+            "US MIDTERM ELECTIONS"
         ],
         "ID": 21,
         "Sub Categories": [
@@ -310,6 +316,10 @@
             {
                 "Name": "JUDICIARY",
                 "ID": 405
+            },
+            {
+                "Name": "US MIDTERM ELECTIONS",
+                "ID": 509
             }
         ]
     },
@@ -326,7 +336,8 @@
             "GADGETS",
             "RIVER PROTECTION",
             "AI AND CAREER",
-            "CYBERSECURITY"
+            "CYBERSECURITY",
+            "CRYPTOCURRENCY"
         ],
         "ID": 148,
         "Sub Categories": [
@@ -341,6 +352,10 @@
             {
                 "Name": "CYBERSECURITY",
                 "ID": 241
+            },
+            {
+                "Name": "CRYPTOCURRENCY",
+                "ID": 513
             }
         ]
     },
