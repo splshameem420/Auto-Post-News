@@ -46,7 +46,9 @@
             "ISRAEL-PALESTINE CONFLICT",
             "CONFLICT",
             "PARTY POLITICS",
-            "LABOR AND CRIME"
+            "LABOR AND CRIME",
+            "RESCUE",
+            "LOCAL ELECTIONS"
         ],
         "ID": 6,
         "Sub Categories": [
@@ -201,6 +203,14 @@
             {
                 "Name": "LABOR AND CRIME",
                 "ID": 504
+            },
+            {
+                "Name": "RESCUE",
+                "ID": 524
+            },
+            {
+                "Name": "LOCAL ELECTIONS",
+                "ID": 530
             }
         ]
     },
@@ -473,7 +483,8 @@
         "Filter": [
             "PERFORMING ARTS",
             "THEATRE",
-            "FILM"
+            "FILM",
+            "LITERATURE"
         ],
         "Sub Categories": [
             {
@@ -487,6 +498,10 @@
             {
                 "Name": "FILM",
                 "ID": 258
+            },
+            {
+                "Name": "LITERATURE",
+                "ID": 515
             }
         ]
     },

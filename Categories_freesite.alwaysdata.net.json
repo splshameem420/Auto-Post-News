@@ -233,7 +233,9 @@
             "US ELECTIONS",
             "ISLAM",
             "JUDICIARY",
-            "US MIDTERM ELECTIONS"
+            "US MIDTERM ELECTIONS",
+            "BANGLADESH POLITICS",
+            "LABOR UNREST"
         ],
         "ID": 21,
         "Sub Categories": [
@@ -320,6 +322,14 @@
             {
                 "Name": "US MIDTERM ELECTIONS",
                 "ID": 509
+            },
+            {
+                "Name": "BANGLADESH POLITICS",
+                "ID": 522
+            },
+            {
+                "Name": "LABOR UNREST",
+                "ID": 533
             }
         ]
     },
@@ -530,7 +540,8 @@
             "TELEVISION",
             "CINEMA",
             "CELEBRITY NEWS",
-            "BOLLYWOOD"
+            "BOLLYWOOD",
+            "DIGITAL NEWS"
         ],
         "Sub Categories": [
             {
@@ -548,6 +559,10 @@
             {
                 "Name": "BOLLYWOOD",
                 "ID": 455
+            },
+            {
+                "Name": "DIGITAL NEWS",
+                "ID": 527
             }
         ]
     },
