@@ -442,7 +442,8 @@
             "STUDENT DEATH",
             "TEXTBOOK CURRICULUM",
             "HSC RESULTS",
-            "EXAM RESULTS"
+            "EXAM RESULTS",
+            "EXAMS"
         ],
         "ID": 11,
         "Sub Categories": [
@@ -461,6 +462,10 @@
             {
                 "Name": "EXAM RESULTS",
                 "ID": 484
+            },
+            {
+                "Name": "EXAMS",
+                "ID": 564
             }
         ]
     },
@@ -499,7 +504,8 @@
             "PERFORMING ARTS",
             "THEATRE",
             "FILM",
-            "LITERATURE"
+            "LITERATURE",
+            "ONION FARMING"
         ],
         "Sub Categories": [
             {
@@ -517,6 +523,10 @@
             {
                 "Name": "LITERATURE",
                 "ID": 515
+            },
+            {
+                "Name": "ONION FARMING",
+                "ID": 579
             }
         ]
     },

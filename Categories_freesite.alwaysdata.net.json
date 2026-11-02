@@ -32,7 +32,8 @@
             "MIGRATION",
             "ISRAEL POLITICS",
             "NATURAL DISASTERS",
-            "MARITIME SECURITY"
+            "MARITIME SECURITY",
+            "CYBER WARFARE"
         ],
         "ID": 48,
         "Sub Categories": [
@@ -135,6 +136,10 @@
             {
                 "Name": "MARITIME SECURITY",
                 "ID": 555
+            },
+            {
+                "Name": "CYBER WARFARE",
+                "ID": 575
             }
         ]
     },
@@ -159,7 +164,8 @@
             "HAT",
             "GLOBAL ECONOMY",
             "BANKING",
-            "AVIATION"
+            "AVIATION",
+            "GOLD PRICE"
         ],
         "ID": 205,
         "Sub Categories": [
@@ -174,6 +180,10 @@
             {
                 "Name": "AVIATION",
                 "ID": 539
+            },
+            {
+                "Name": "GOLD PRICE",
+                "ID": 567
             }
         ]
     },

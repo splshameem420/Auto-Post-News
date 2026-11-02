@@ -1782,5 +1782,49 @@
     {
         "Tag Name": "ইভ্যাকুয়েশন",
         "ID": 566
+    },
+    {
+        "Tag Name": "সোনা",
+        "ID": 568
+    },
+    {
+        "Tag Name": "মূল্যবৃদ্ধি",
+        "ID": 569
+    },
+    {
+        "Tag Name": "বাজার",
+        "ID": 570
+    },
+    {
+        "Tag Name": "বিশ্ববাজার",
+        "ID": 571
+    },
+    {
+        "Tag Name": "Islamophobia",
+        "ID": 572
+    },
+    {
+        "Tag Name": "Democratic Party",
+        "ID": 573
+    },
+    {
+        "Tag Name": "Iowa",
+        "ID": 574
+    },
+    {
+        "Tag Name": "Ukraine",
+        "ID": 576
+    },
+    {
+        "Tag Name": "cyber attack",
+        "ID": 577
+    },
+    {
+        "Tag Name": "emergency alert app",
+        "ID": 578
+    },
+    {
+        "Tag Name": "war",
+        "ID": 579
     }
 ]
