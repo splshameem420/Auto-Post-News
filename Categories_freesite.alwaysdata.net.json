@@ -271,7 +271,8 @@
             "US MIDTERM ELECTIONS",
             "BANGLADESH POLITICS",
             "LABOR UNREST",
-            "POLICY"
+            "POLICY",
+            "LABOUR UNREST"
         ],
         "ID": 21,
         "Sub Categories": [
@@ -370,6 +371,10 @@
             {
                 "Name": "POLICY",
                 "ID": 601
+            },
+            {
+                "Name": "LABOUR UNREST",
+                "ID": 614
             }
         ]
     },

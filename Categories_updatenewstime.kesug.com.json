@@ -51,7 +51,9 @@
             "LOCAL ELECTIONS",
             "LEGAL PROCEEDINGS",
             "AVIATION ACCIDENT",
-            "MIDDLE EAST CONFLICT"
+            "MIDDLE EAST CONFLICT",
+            "AVIATION",
+            "TRADE"
         ],
         "ID": 6,
         "Sub Categories": [
@@ -226,6 +228,14 @@
             {
                 "Name": "MIDDLE EAST CONFLICT",
                 "ID": 594
+            },
+            {
+                "Name": "AVIATION",
+                "ID": 607
+            },
+            {
+                "Name": "TRADE",
+                "ID": 612
             }
         ]
     },
