@@ -50,7 +50,8 @@
             "RESCUE",
             "LOCAL ELECTIONS",
             "LEGAL PROCEEDINGS",
-            "AVIATION ACCIDENT"
+            "AVIATION ACCIDENT",
+            "MIDDLE EAST CONFLICT"
         ],
         "ID": 6,
         "Sub Categories": [
@@ -221,6 +222,10 @@
             {
                 "Name": "AVIATION ACCIDENT",
                 "ID": 553
+            },
+            {
+                "Name": "MIDDLE EAST CONFLICT",
+                "ID": 594
             }
         ]
     },
@@ -376,7 +381,8 @@
             "SMARTPHONE",
             "GADGETS",
             "SOCIAL MEDIA",
-            "CYBERSECURITY"
+            "CYBERSECURITY",
+            "SOFTWARE ENGINEERING"
         ],
         "ID": 9,
         "Sub Categories": [
@@ -387,6 +393,10 @@
             {
                 "Name": "CYBERSECURITY",
                 "ID": 420
+            },
+            {
+                "Name": "SOFTWARE ENGINEERING",
+                "ID": 585
             }
         ]
     },

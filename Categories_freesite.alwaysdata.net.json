@@ -33,7 +33,8 @@
             "ISRAEL POLITICS",
             "NATURAL DISASTERS",
             "MARITIME SECURITY",
-            "CYBER WARFARE"
+            "CYBER WARFARE",
+            "DIPLOMACY"
         ],
         "ID": 48,
         "Sub Categories": [
@@ -140,6 +141,10 @@
             {
                 "Name": "CYBER WARFARE",
                 "ID": 575
+            },
+            {
+                "Name": "DIPLOMACY",
+                "ID": 592
             }
         ]
     },
@@ -206,7 +211,8 @@
             "PUBLIC HEALTH",
             "CELEBRITY LIFESTYLE",
             "NUTRITION",
-            "VIRAL FEVER"
+            "VIRAL FEVER",
+            "RELATIONSHIPS"
         ],
         "ID": 106,
         "Sub Categories": [
@@ -217,6 +223,10 @@
             {
                 "Name": "VIRAL FEVER",
                 "ID": 438
+            },
+            {
+                "Name": "RELATIONSHIPS",
+                "ID": 586
             }
         ]
     },
@@ -260,7 +270,8 @@
             "JUDICIARY",
             "US MIDTERM ELECTIONS",
             "BANGLADESH POLITICS",
-            "LABOR UNREST"
+            "LABOR UNREST",
+            "POLICY"
         ],
         "ID": 21,
         "Sub Categories": [
@@ -355,6 +366,10 @@
             {
                 "Name": "LABOR UNREST",
                 "ID": 533
+            },
+            {
+                "Name": "POLICY",
+                "ID": 601
             }
         ]
     },
@@ -372,7 +387,9 @@
             "RIVER PROTECTION",
             "AI AND CAREER",
             "CYBERSECURITY",
-            "CRYPTOCURRENCY"
+            "CRYPTOCURRENCY",
+            "TECH NEWS",
+            "NATIONAL NEWS"
         ],
         "ID": 148,
         "Sub Categories": [
@@ -391,6 +408,14 @@
             {
                 "Name": "CRYPTOCURRENCY",
                 "ID": 513
+            },
+            {
+                "Name": "TECH NEWS",
+                "ID": 580
+            },
+            {
+                "Name": "NATIONAL NEWS",
+                "ID": 596
             }
         ]
     },
