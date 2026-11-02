@@ -31,7 +31,8 @@
             "MIDDLE EAST CRISIS",
             "MIGRATION",
             "ISRAEL POLITICS",
-            "NATURAL DISASTERS"
+            "NATURAL DISASTERS",
+            "MARITIME SECURITY"
         ],
         "ID": 48,
         "Sub Categories": [
@@ -130,6 +131,10 @@
             {
                 "Name": "NATURAL DISASTERS",
                 "ID": 545
+            },
+            {
+                "Name": "MARITIME SECURITY",
+                "ID": 555
             }
         ]
     },

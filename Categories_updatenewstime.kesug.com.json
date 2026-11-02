@@ -49,7 +49,8 @@
             "LABOR AND CRIME",
             "RESCUE",
             "LOCAL ELECTIONS",
-            "LEGAL PROCEEDINGS"
+            "LEGAL PROCEEDINGS",
+            "AVIATION ACCIDENT"
         ],
         "ID": 6,
         "Sub Categories": [
@@ -216,6 +217,10 @@
             {
                 "Name": "LEGAL PROCEEDINGS",
                 "ID": 536
+            },
+            {
+                "Name": "AVIATION ACCIDENT",
+                "ID": 553
             }
         ]
     },
@@ -240,7 +245,8 @@
             "HAT",
             "ISLAMIC ECONOMICS",
             "TAX",
-            "OIL MARKET"
+            "OIL MARKET",
+            "ISLAMIC RULES"
         ],
         "ID": 169,
         "Sub Categories": [
@@ -255,6 +261,10 @@
             {
                 "Name": "OIL MARKET",
                 "ID": 360
+            },
+            {
+                "Name": "ISLAMIC RULES",
+                "ID": 547
             }
         ]
     },
