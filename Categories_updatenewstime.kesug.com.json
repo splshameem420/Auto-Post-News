@@ -55,7 +55,8 @@
             "AVIATION",
             "TRADE",
             "INDIA NEWS",
-            "ELECTION LAW"
+            "ELECTION LAW",
+            "HISTORICAL DISCOVERY"
         ],
         "ID": 6,
         "Sub Categories": [
@@ -246,6 +247,10 @@
             {
                 "Name": "ELECTION LAW",
                 "ID": 629
+            },
+            {
+                "Name": "HISTORICAL DISCOVERY",
+                "ID": 634
             }
         ]
     },
