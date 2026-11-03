@@ -53,7 +53,9 @@
             "AVIATION ACCIDENT",
             "MIDDLE EAST CONFLICT",
             "AVIATION",
-            "TRADE"
+            "TRADE",
+            "INDIA NEWS",
+            "ELECTION LAW"
         ],
         "ID": 6,
         "Sub Categories": [
@@ -236,6 +238,14 @@
             {
                 "Name": "TRADE",
                 "ID": 612
+            },
+            {
+                "Name": "INDIA NEWS",
+                "ID": 623
+            },
+            {
+                "Name": "ELECTION LAW",
+                "ID": 629
             }
         ]
     },
@@ -496,7 +506,8 @@
             "TELEVISION DRAMA",
             "TRUE CRIME",
             "CELEBRITY FASHION",
-            "MUSIC"
+            "MUSIC",
+            "BOX OFFICE"
         ],
         "Sub Categories": [
             {
@@ -514,6 +525,10 @@
             {
                 "Name": "MUSIC",
                 "ID": 398
+            },
+            {
+                "Name": "BOX OFFICE",
+                "ID": 617
             }
         ]
     },

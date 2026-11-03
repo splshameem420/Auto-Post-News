@@ -272,7 +272,8 @@
             "BANGLADESH POLITICS",
             "LABOR UNREST",
             "POLICY",
-            "LABOUR UNREST"
+            "LABOUR UNREST",
+            "IMMIGRATION"
         ],
         "ID": 21,
         "Sub Categories": [
@@ -375,6 +376,10 @@
             {
                 "Name": "LABOUR UNREST",
                 "ID": 614
+            },
+            {
+                "Name": "IMMIGRATION",
+                "ID": 621
             }
         ]
     },

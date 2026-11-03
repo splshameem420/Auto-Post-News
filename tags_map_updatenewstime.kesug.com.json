@@ -2002,5 +2002,61 @@
     {
         "Tag Name": "duty-free trade",
         "ID": 616
+    },
+    {
+        "Tag Name": "বক্স অফিস",
+        "ID": 618
+    },
+    {
+        "Tag Name": "হলিউড",
+        "ID": 619
+    },
+    {
+        "Tag Name": "অ্যাভেঞ্জার্স",
+        "ID": 620
+    },
+    {
+        "Tag Name": "অ্যাভাটার",
+        "ID": 621
+    },
+    {
+        "Tag Name": "সিনেমা",
+        "ID": 622
+    },
+    {
+        "Tag Name": "Assam",
+        "ID": 624
+    },
+    {
+        "Tag Name": "Dhubri",
+        "ID": 625
+    },
+    {
+        "Tag Name": "Eviction Drive",
+        "ID": 626
+    },
+    {
+        "Tag Name": "Bengali Muslims",
+        "ID": 627
+    },
+    {
+        "Tag Name": "India",
+        "ID": 628
+    },
+    {
+        "Tag Name": "সুপ্রিম কোর্ট",
+        "ID": 630
+    },
+    {
+        "Tag Name": "ক্যালিফোর্নিয়া নির্বাচন",
+        "ID": 631
+    },
+    {
+        "Tag Name": "মেইল‑ইন ভোটিং",
+        "ID": 632
+    },
+    {
+        "Tag Name": "US election",
+        "ID": 633
     }
 ]
