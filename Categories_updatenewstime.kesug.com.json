@@ -58,7 +58,8 @@
             "ELECTION LAW",
             "HISTORICAL DISCOVERY",
             "US NEWS",
-            "PUBLIC OPINION"
+            "PUBLIC OPINION",
+            "INTERNATIONAL RELATIONS"
         ],
         "ID": 6,
         "Sub Categories": [
@@ -261,6 +262,10 @@
             {
                 "Name": "PUBLIC OPINION",
                 "ID": 664
+            },
+            {
+                "Name": "INTERNATIONAL RELATIONS",
+                "ID": 313
             }
         ]
     },

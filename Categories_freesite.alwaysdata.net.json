@@ -35,7 +35,8 @@
             "MARITIME SECURITY",
             "CYBER WARFARE",
             "DIPLOMACY",
-            "AVIATION SECURITY"
+            "AVIATION SECURITY",
+            "US ELECTION"
         ],
         "ID": 48,
         "Sub Categories": [
@@ -150,6 +151,10 @@
             {
                 "Name": "AVIATION SECURITY",
                 "ID": 660
+            },
+            {
+                "Name": "US ELECTION",
+                "ID": 676
             }
         ]
     },
