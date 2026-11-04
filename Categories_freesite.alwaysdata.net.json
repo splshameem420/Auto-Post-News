@@ -283,7 +283,9 @@
             "LABOR UNREST",
             "POLICY",
             "LABOUR UNREST",
-            "IMMIGRATION"
+            "IMMIGRATION",
+            "EDUCATION",
+            "US POLITICS"
         ],
         "ID": 21,
         "Sub Categories": [
@@ -390,6 +392,14 @@
             {
                 "Name": "IMMIGRATION",
                 "ID": 621
+            },
+            {
+                "Name": "EDUCATION",
+                "ID": 686
+            },
+            {
+                "Name": "US POLITICS",
+                "ID": 692
             }
         ]
     },
@@ -530,12 +540,17 @@
         "Category Name": "ECONOMY",
         "ID": 34,
         "Filter": [
-            "LABOR MIGRATION"
+            "LABOR MIGRATION",
+            "LABOUR WAGES"
         ],
         "Sub Categories": [
             {
                 "Name": "LABOR MIGRATION",
                 "ID": 35
+            },
+            {
+                "Name": "LABOUR WAGES",
+                "ID": 696
             }
         ]
     },

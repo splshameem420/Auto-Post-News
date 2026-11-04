@@ -59,7 +59,9 @@
             "HISTORICAL DISCOVERY",
             "US NEWS",
             "PUBLIC OPINION",
-            "INTERNATIONAL RELATIONS"
+            "INTERNATIONAL RELATIONS",
+            "POLITICAL VIOLENCE",
+            "MEDIA"
         ],
         "ID": 6,
         "Sub Categories": [
@@ -266,6 +268,14 @@
             {
                 "Name": "INTERNATIONAL RELATIONS",
                 "ID": 313
+            },
+            {
+                "Name": "POLITICAL VIOLENCE",
+                "ID": 676
+            },
+            {
+                "Name": "MEDIA",
+                "ID": 686
             }
         ]
     },
