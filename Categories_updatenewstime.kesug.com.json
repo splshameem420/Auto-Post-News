@@ -56,7 +56,8 @@
             "TRADE",
             "INDIA NEWS",
             "ELECTION LAW",
-            "HISTORICAL DISCOVERY"
+            "HISTORICAL DISCOVERY",
+            "US NEWS"
         ],
         "ID": 6,
         "Sub Categories": [
@@ -251,6 +252,10 @@
             {
                 "Name": "HISTORICAL DISCOVERY",
                 "ID": 634
+            },
+            {
+                "Name": "US NEWS",
+                "ID": 640
             }
         ]
     },
