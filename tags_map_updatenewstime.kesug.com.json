@@ -2098,5 +2098,61 @@
     {
         "Tag Name": "US Election",
         "ID": 633
+    },
+    {
+        "Tag Name": "উপন্যাস",
+        "ID": 656
+    },
+    {
+        "Tag Name": "ফিকহ",
+        "ID": 657
+    },
+    {
+        "Tag Name": "হালাল-হারাম",
+        "ID": 658
+    },
+    {
+        "Tag Name": "ballot shortage",
+        "ID": 659
+    },
+    {
+        "Tag Name": "Dearborn",
+        "ID": 660
+    },
+    {
+        "Tag Name": "Michigan",
+        "ID": 661
+    },
+    {
+        "Tag Name": "Senate race",
+        "ID": 662
+    },
+    {
+        "Tag Name": "voter access",
+        "ID": 663
+    },
+    {
+        "Tag Name": "poll",
+        "ID": 665
+    },
+    {
+        "Tag Name": "economy",
+        "ID": 479
+    },
+    {
+        "Tag Name": "democracy",
+        "ID": 666
+    },
+    {
+        "Tag Name": "Republicans",
+        "ID": 649
+    },
+    {
+        "Tag Name": "Congress",
+        "ID": 667
+    },
+    {
+        "Tag Name": "Anthony Zarkar",
+        "ID": 668
     }
 ]

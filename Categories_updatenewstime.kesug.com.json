@@ -57,7 +57,8 @@
             "INDIA NEWS",
             "ELECTION LAW",
             "HISTORICAL DISCOVERY",
-            "US NEWS"
+            "US NEWS",
+            "PUBLIC OPINION"
         ],
         "ID": 6,
         "Sub Categories": [
@@ -256,6 +257,10 @@
             {
                 "Name": "US NEWS",
                 "ID": 640
+            },
+            {
+                "Name": "PUBLIC OPINION",
+                "ID": 664
             }
         ]
     },
@@ -281,7 +286,8 @@
             "ISLAMIC ECONOMICS",
             "TAX",
             "OIL MARKET",
-            "ISLAMIC RULES"
+            "ISLAMIC RULES",
+            "ISLAMIC JURISPRUDENCE"
         ],
         "ID": 169,
         "Sub Categories": [
@@ -300,6 +306,10 @@
             {
                 "Name": "ISLAMIC RULES",
                 "ID": 547
+            },
+            {
+                "Name": "ISLAMIC JURISPRUDENCE",
+                "ID": 655
             }
         ]
     },
