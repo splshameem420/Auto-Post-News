@@ -302,7 +302,8 @@
             "TAX",
             "OIL MARKET",
             "ISLAMIC RULES",
-            "ISLAMIC JURISPRUDENCE"
+            "ISLAMIC JURISPRUDENCE",
+            "ISLAMIC STUDIES"
         ],
         "ID": 169,
         "Sub Categories": [
@@ -325,6 +326,10 @@
             {
                 "Name": "ISLAMIC JURISPRUDENCE",
                 "ID": 655
+            },
+            {
+                "Name": "ISLAMIC STUDIES",
+                "ID": 692
             }
         ]
     },
