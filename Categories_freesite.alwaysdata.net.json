@@ -424,7 +424,8 @@
             "CYBERSECURITY",
             "CRYPTOCURRENCY",
             "TECH NEWS",
-            "NATIONAL NEWS"
+            "NATIONAL NEWS",
+            "ARTIFICIAL INTELLIGENCE"
         ],
         "ID": 148,
         "Sub Categories": [
@@ -451,6 +452,10 @@
             {
                 "Name": "NATIONAL NEWS",
                 "ID": 596
+            },
+            {
+                "Name": "ARTIFICIAL INTELLIGENCE",
+                "ID": 736
             }
         ]
     },

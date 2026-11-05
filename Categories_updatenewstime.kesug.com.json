@@ -64,7 +64,9 @@
             "MEDIA",
             "ISRAEL-US RELATIONS",
             "NATURAL DISASTER",
-            "BANGLADESH POLITICS"
+            "BANGLADESH POLITICS",
+            "CRIME NEWS",
+            "HUMANITARIAN"
         ],
         "ID": 6,
         "Sub Categories": [
@@ -291,6 +293,14 @@
             {
                 "Name": "BANGLADESH POLITICS",
                 "ID": 716
+            },
+            {
+                "Name": "CRIME NEWS",
+                "ID": 724
+            },
+            {
+                "Name": "HUMANITARIAN",
+                "ID": 730
             }
         ]
     },
