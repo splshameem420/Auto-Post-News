@@ -61,7 +61,10 @@
             "PUBLIC OPINION",
             "INTERNATIONAL RELATIONS",
             "POLITICAL VIOLENCE",
-            "MEDIA"
+            "MEDIA",
+            "ISRAEL-US RELATIONS",
+            "NATURAL DISASTER",
+            "BANGLADESH POLITICS"
         ],
         "ID": 6,
         "Sub Categories": [
@@ -276,6 +279,18 @@
             {
                 "Name": "MEDIA",
                 "ID": 686
+            },
+            {
+                "Name": "ISRAEL-US RELATIONS",
+                "ID": 705
+            },
+            {
+                "Name": "NATURAL DISASTER",
+                "ID": 710
+            },
+            {
+                "Name": "BANGLADESH POLITICS",
+                "ID": 716
             }
         ]
     },
@@ -303,7 +318,8 @@
             "OIL MARKET",
             "ISLAMIC RULES",
             "ISLAMIC JURISPRUDENCE",
-            "ISLAMIC STUDIES"
+            "ISLAMIC STUDIES",
+            "GOLD PRICES"
         ],
         "ID": 169,
         "Sub Categories": [
@@ -330,6 +346,10 @@
             {
                 "Name": "ISLAMIC STUDIES",
                 "ID": 692
+            },
+            {
+                "Name": "GOLD PRICES",
+                "ID": 700
             }
         ]
     },

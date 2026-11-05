@@ -36,7 +36,8 @@
             "CYBER WARFARE",
             "DIPLOMACY",
             "AVIATION SECURITY",
-            "US ELECTION"
+            "US ELECTION",
+            "BANKING"
         ],
         "ID": 48,
         "Sub Categories": [
@@ -155,6 +156,10 @@
             {
                 "Name": "US ELECTION",
                 "ID": 676
+            },
+            {
+                "Name": "BANKING",
+                "ID": 719
             }
         ]
     },
@@ -626,7 +631,8 @@
             "CINEMA",
             "CELEBRITY NEWS",
             "BOLLYWOOD",
-            "DIGITAL NEWS"
+            "DIGITAL NEWS",
+            "CELEBRITY"
         ],
         "Sub Categories": [
             {
@@ -648,6 +654,10 @@
             {
                 "Name": "DIGITAL NEWS",
                 "ID": 527
+            },
+            {
+                "Name": "CELEBRITY",
+                "ID": 711
             }
         ]
     },
