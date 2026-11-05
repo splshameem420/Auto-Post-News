@@ -290,7 +290,8 @@
             "LABOUR UNREST",
             "IMMIGRATION",
             "EDUCATION",
-            "US POLITICS"
+            "US POLITICS",
+            "SOCIAL MOVEMENT"
         ],
         "ID": 21,
         "Sub Categories": [
@@ -405,6 +406,10 @@
             {
                 "Name": "US POLITICS",
                 "ID": 692
+            },
+            {
+                "Name": "SOCIAL MOVEMENT",
+                "ID": 742
             }
         ]
     },

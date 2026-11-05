@@ -2422,5 +2422,49 @@
     {
         "Tag Name": "ভারতীয় পরিবার",
         "ID": 739
+    },
+    {
+        "Tag Name": "বাফলা",
+        "ID": 741
+    },
+    {
+        "Tag Name": "দাতব্য",
+        "ID": 742
+    },
+    {
+        "Tag Name": "প্রবাসী বাংলাদেশি",
+        "ID": 743
+    },
+    {
+        "Tag Name": "লস অ্যাঞ্জেলেস",
+        "ID": 744
+    },
+    {
+        "Tag Name": "UNEP",
+        "ID": 746
+    },
+    {
+        "Tag Name": "climate change",
+        "ID": 747
+    },
+    {
+        "Tag Name": "developing nations",
+        "ID": 748
+    },
+    {
+        "Tag Name": "COP",
+        "ID": 749
+    },
+    {
+        "Tag Name": "financial pledges",
+        "ID": 750
+    },
+    {
+        "Tag Name": "Israeli elections",
+        "ID": 752
+    },
+    {
+        "Tag Name": "US-Israel relations",
+        "ID": 753
     }
 ]

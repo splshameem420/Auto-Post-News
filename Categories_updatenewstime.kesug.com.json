@@ -66,7 +66,9 @@
             "NATURAL DISASTER",
             "BANGLADESH POLITICS",
             "CRIME NEWS",
-            "HUMANITARIAN"
+            "HUMANITARIAN",
+            "CHARITY",
+            "ISRAEL POLITICS"
         ],
         "ID": 6,
         "Sub Categories": [
@@ -301,6 +303,14 @@
             {
                 "Name": "HUMANITARIAN",
                 "ID": 730
+            },
+            {
+                "Name": "CHARITY",
+                "ID": 740
+            },
+            {
+                "Name": "ISRAEL POLITICS",
+                "ID": 751
             }
         ]
     },
@@ -670,12 +680,17 @@
         "Category Name": "ENVIRONMENT",
         "ID": 327,
         "Filter": [
-            "FOREST FIRE"
+            "FOREST FIRE",
+            "CLIMATE FINANCE"
         ],
         "Sub Categories": [
             {
                 "Name": "FOREST FIRE",
                 "ID": 328
+            },
+            {
+                "Name": "CLIMATE FINANCE",
+                "ID": 745
             }
         ]
     },
