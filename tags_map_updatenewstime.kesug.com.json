@@ -2626,5 +2626,45 @@
     {
         "Tag Name": "underground facilities",
         "ID": 801
+    },
+    {
+        "Tag Name": "midterm elections",
+        "ID": 802
+    },
+    {
+        "Tag Name": "মাইক্রোসফট",
+        "ID": 804
+    },
+    {
+        "Tag Name": "ডেটা সেন্টার",
+        "ID": 805
+    },
+    {
+        "Tag Name": "প্রদর্শন",
+        "ID": 806
+    },
+    {
+        "Tag Name": "ইউরোপ",
+        "ID": 807
+    },
+    {
+        "Tag Name": "migrants",
+        "ID": 809
+    },
+    {
+        "Tag Name": "Canary Islands",
+        "ID": 810
+    },
+    {
+        "Tag Name": "Spain",
+        "ID": 811
+    },
+    {
+        "Tag Name": "rescue",
+        "ID": 812
+    },
+    {
+        "Tag Name": "Atlantic crossing",
+        "ID": 813
     }
 ]

@@ -72,7 +72,8 @@
             "ARSON AND EXTORTION",
             "US SENATE ELECTION",
             "GERRYMANDERING",
-            "MILITARY"
+            "MILITARY",
+            "MIGRATION"
         ],
         "ID": 6,
         "Sub Categories": [
@@ -331,6 +332,10 @@
             {
                 "Name": "MILITARY",
                 "ID": 797
+            },
+            {
+                "Name": "MIGRATION",
+                "ID": 808
             }
         ]
     },
@@ -711,7 +716,8 @@
         "ID": 327,
         "Filter": [
             "FOREST FIRE",
-            "CLIMATE FINANCE"
+            "CLIMATE FINANCE",
+            "DATA CENTRES"
         ],
         "Sub Categories": [
             {
@@ -721,6 +727,10 @@
             {
                 "Name": "CLIMATE FINANCE",
                 "ID": 745
+            },
+            {
+                "Name": "DATA CENTRES",
+                "ID": 803
             }
         ]
     },

@@ -298,7 +298,8 @@
             "US POLITICS",
             "SOCIAL MOVEMENT",
             "LOCAL ELECTIONS",
-            "US FOREIGN POLICY"
+            "US FOREIGN POLICY",
+            "US ADMINISTRATION"
         ],
         "ID": 21,
         "Sub Categories": [
@@ -425,6 +426,10 @@
             {
                 "Name": "US FOREIGN POLICY",
                 "ID": 781
+            },
+            {
+                "Name": "US ADMINISTRATION",
+                "ID": 809
             }
         ]
     },
