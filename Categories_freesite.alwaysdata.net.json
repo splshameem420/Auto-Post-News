@@ -292,7 +292,8 @@
             "EDUCATION",
             "US POLITICS",
             "SOCIAL MOVEMENT",
-            "LOCAL ELECTIONS"
+            "LOCAL ELECTIONS",
+            "US FOREIGN POLICY"
         ],
         "ID": 21,
         "Sub Categories": [
@@ -415,6 +416,10 @@
             {
                 "Name": "LOCAL ELECTIONS",
                 "ID": 761
+            },
+            {
+                "Name": "US FOREIGN POLICY",
+                "ID": 781
             }
         ]
     },
@@ -699,6 +704,19 @@
             {
                 "Name": "WILDLIFE CONSERVATION",
                 "ID": 666
+            }
+        ]
+    },
+    {
+        "Category Name": "SCIENCE",
+        "ID": 767,
+        "Filter": [
+            "SPACE RESEARCH"
+        ],
+        "Sub Categories": [
+            {
+                "Name": "SPACE RESEARCH",
+                "ID": 768
             }
         ]
     }

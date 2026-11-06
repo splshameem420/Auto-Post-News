@@ -68,7 +68,9 @@
             "CRIME NEWS",
             "HUMANITARIAN",
             "CHARITY",
-            "ISRAEL POLITICS"
+            "ISRAEL POLITICS",
+            "ARSON AND EXTORTION",
+            "US SENATE ELECTION"
         ],
         "ID": 6,
         "Sub Categories": [
@@ -311,6 +313,14 @@
             {
                 "Name": "ISRAEL POLITICS",
                 "ID": 751
+            },
+            {
+                "Name": "ARSON AND EXTORTION",
+                "ID": 762
+            },
+            {
+                "Name": "US SENATE ELECTION",
+                "ID": 767
             }
         ]
     },
@@ -704,6 +714,19 @@
             {
                 "Name": "SHORT STORY",
                 "ID": 335
+            }
+        ]
+    },
+    {
+        "Category Name": "SCIENCE",
+        "ID": 775,
+        "Filter": [
+            "POPULATION, APOCALYPTIC PREDICTIONS"
+        ],
+        "Sub Categories": [
+            {
+                "Name": "POPULATION, APOCALYPTIC PREDICTIONS",
+                "ID": 776
             }
         ]
     }
