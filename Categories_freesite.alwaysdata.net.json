@@ -291,7 +291,8 @@
             "IMMIGRATION",
             "EDUCATION",
             "US POLITICS",
-            "SOCIAL MOVEMENT"
+            "SOCIAL MOVEMENT",
+            "LOCAL ELECTIONS"
         ],
         "ID": 21,
         "Sub Categories": [
@@ -410,6 +411,10 @@
             {
                 "Name": "SOCIAL MOVEMENT",
                 "ID": 742
+            },
+            {
+                "Name": "LOCAL ELECTIONS",
+                "ID": 761
             }
         ]
     },
