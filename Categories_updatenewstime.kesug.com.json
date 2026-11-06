@@ -70,7 +70,9 @@
             "CHARITY",
             "ISRAEL POLITICS",
             "ARSON AND EXTORTION",
-            "US SENATE ELECTION"
+            "US SENATE ELECTION",
+            "GERRYMANDERING",
+            "MILITARY"
         ],
         "ID": 6,
         "Sub Categories": [
@@ -321,6 +323,14 @@
             {
                 "Name": "US SENATE ELECTION",
                 "ID": 767
+            },
+            {
+                "Name": "GERRYMANDERING",
+                "ID": 793
+            },
+            {
+                "Name": "MILITARY",
+                "ID": 797
             }
         ]
     },
@@ -492,7 +502,8 @@
             "GADGETS",
             "SOCIAL MEDIA",
             "CYBERSECURITY",
-            "SOFTWARE ENGINEERING"
+            "SOFTWARE ENGINEERING",
+            "AI ACTIVISM"
         ],
         "ID": 9,
         "Sub Categories": [
@@ -507,6 +518,10 @@
             {
                 "Name": "SOFTWARE ENGINEERING",
                 "ID": 585
+            },
+            {
+                "Name": "AI ACTIVISM",
+                "ID": 787
             }
         ]
     },
@@ -524,7 +539,8 @@
             "SPORTS",
             "GAME",
             "MOTORSPORT",
-            "PREMIER LEAGUE"
+            "PREMIER LEAGUE",
+            "CRICKET NEWS"
         ],
         "ID": 10,
         "Sub Categories": [
@@ -543,6 +559,10 @@
             {
                 "Name": "PREMIER LEAGUE",
                 "ID": 434
+            },
+            {
+                "Name": "CRICKET NEWS",
+                "ID": 782
             }
         ]
     },

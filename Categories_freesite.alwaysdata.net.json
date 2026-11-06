@@ -185,7 +185,8 @@
             "GLOBAL ECONOMY",
             "BANKING",
             "AVIATION",
-            "GOLD PRICE"
+            "GOLD PRICE",
+            "AUTOMOTIVE"
         ],
         "ID": 205,
         "Sub Categories": [
@@ -204,6 +205,10 @@
             {
                 "Name": "GOLD PRICE",
                 "ID": 567
+            },
+            {
+                "Name": "AUTOMOTIVE",
+                "ID": 797
             }
         ]
     },
@@ -586,7 +591,8 @@
             "EXTORTION",
             "FAMILY DISPUTE",
             "TAX EVASION",
-            "JUVENILE CRIME"
+            "JUVENILE CRIME",
+            "CRIME NEWS"
         ],
         "Sub Categories": [
             {
@@ -604,6 +610,10 @@
             {
                 "Name": "JUVENILE CRIME",
                 "ID": 444
+            },
+            {
+                "Name": "CRIME NEWS",
+                "ID": 786
             }
         ]
     },
