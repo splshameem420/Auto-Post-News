@@ -77,7 +77,9 @@
             "FOREIGN POLICY",
             "IMPEACHMENT",
             "MIDDLE EAST CRISIS",
-            "BANKING SCANDAL"
+            "BANKING SCANDAL",
+            "CYBER SECURITY",
+            "US TRADE"
         ],
         "ID": 6,
         "Sub Categories": [
@@ -356,6 +358,14 @@
             {
                 "Name": "BANKING SCANDAL",
                 "ID": 850
+            },
+            {
+                "Name": "CYBER SECURITY",
+                "ID": 859
+            },
+            {
+                "Name": "US TRADE",
+                "ID": 867
             }
         ]
     },

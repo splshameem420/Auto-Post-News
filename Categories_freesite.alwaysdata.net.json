@@ -326,7 +326,9 @@
             "US ADMINISTRATION",
             "ISLAMIC SELF-IMPROVEMENT",
             "MIDDLE EAST DIPLOMACY",
-            "FRENCH POLITICS"
+            "FRENCH POLITICS",
+            "FRENCH ELECTION",
+            "ISRAELI POLITICS"
         ],
         "ID": 21,
         "Sub Categories": [
@@ -469,6 +471,14 @@
             {
                 "Name": "FRENCH POLITICS",
                 "ID": 848
+            },
+            {
+                "Name": "FRENCH ELECTION",
+                "ID": 879
+            },
+            {
+                "Name": "ISRAELI POLITICS",
+                "ID": 881
             }
         ]
     },
@@ -637,7 +647,8 @@
             "TAX EVASION",
             "JUVENILE CRIME",
             "CRIME NEWS",
-            "MURDER"
+            "MURDER",
+            "FRAUD"
         ],
         "Sub Categories": [
             {
@@ -663,6 +674,10 @@
             {
                 "Name": "MURDER",
                 "ID": 839
+            },
+            {
+                "Name": "FRAUD",
+                "ID": 874
             }
         ]
     },
