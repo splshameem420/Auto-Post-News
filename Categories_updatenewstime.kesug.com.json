@@ -75,7 +75,8 @@
             "MILITARY",
             "MIGRATION",
             "FOREIGN POLICY",
-            "IMPEACHMENT"
+            "IMPEACHMENT",
+            "MIDDLE EAST CRISIS"
         ],
         "ID": 6,
         "Sub Categories": [
@@ -346,6 +347,10 @@
             {
                 "Name": "IMPEACHMENT",
                 "ID": 824
+            },
+            {
+                "Name": "MIDDLE EAST CRISIS",
+                "ID": 839
             }
         ]
     },
@@ -374,7 +379,8 @@
             "ISLAMIC RULES",
             "ISLAMIC JURISPRUDENCE",
             "ISLAMIC STUDIES",
-            "GOLD PRICES"
+            "GOLD PRICES",
+            "INDUSTRIAL POLICY"
         ],
         "ID": 169,
         "Sub Categories": [
@@ -405,6 +411,10 @@
             {
                 "Name": "GOLD PRICES",
                 "ID": 700
+            },
+            {
+                "Name": "INDUSTRIAL POLICY",
+                "ID": 844
             }
         ]
     },

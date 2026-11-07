@@ -38,7 +38,8 @@
             "AVIATION SECURITY",
             "US ELECTION",
             "BANKING",
-            "ARCHAEOLOGY"
+            "ARCHAEOLOGY",
+            "ELECTIONS"
         ],
         "ID": 48,
         "Sub Categories": [
@@ -165,6 +166,10 @@
             {
                 "Name": "ARCHAEOLOGY",
                 "ID": 827
+            },
+            {
+                "Name": "ELECTIONS",
+                "ID": 845
             }
         ]
     },
@@ -252,6 +257,10 @@
             {
                 "Name": "RELATIONSHIPS",
                 "ID": 586
+            },
+            {
+                "Name": "PUBLIC HEALTH",
+                "ID": 853
             }
         ]
     },
@@ -306,7 +315,8 @@
             "US FOREIGN POLICY",
             "US ADMINISTRATION",
             "ISLAMIC SELF-IMPROVEMENT",
-            "MIDDLE EAST DIPLOMACY"
+            "MIDDLE EAST DIPLOMACY",
+            "FRENCH POLITICS"
         ],
         "ID": 21,
         "Sub Categories": [
@@ -445,6 +455,10 @@
             {
                 "Name": "MIDDLE EAST DIPLOMACY",
                 "ID": 824
+            },
+            {
+                "Name": "FRENCH POLITICS",
+                "ID": 848
             }
         ]
     },
@@ -612,7 +626,8 @@
             "FAMILY DISPUTE",
             "TAX EVASION",
             "JUVENILE CRIME",
-            "CRIME NEWS"
+            "CRIME NEWS",
+            "MURDER"
         ],
         "Sub Categories": [
             {
@@ -634,6 +649,10 @@
             {
                 "Name": "CRIME NEWS",
                 "ID": 786
+            },
+            {
+                "Name": "MURDER",
+                "ID": 839
             }
         ]
     },
