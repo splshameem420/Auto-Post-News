@@ -73,7 +73,9 @@
             "US SENATE ELECTION",
             "GERRYMANDERING",
             "MILITARY",
-            "MIGRATION"
+            "MIGRATION",
+            "FOREIGN POLICY",
+            "IMPEACHMENT"
         ],
         "ID": 6,
         "Sub Categories": [
@@ -336,6 +338,14 @@
             {
                 "Name": "MIGRATION",
                 "ID": 808
+            },
+            {
+                "Name": "FOREIGN POLICY",
+                "ID": 317
+            },
+            {
+                "Name": "IMPEACHMENT",
+                "ID": 824
             }
         ]
     },

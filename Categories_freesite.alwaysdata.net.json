@@ -37,7 +37,8 @@
             "DIPLOMACY",
             "AVIATION SECURITY",
             "US ELECTION",
-            "BANKING"
+            "BANKING",
+            "ARCHAEOLOGY"
         ],
         "ID": 48,
         "Sub Categories": [
@@ -160,6 +161,10 @@
             {
                 "Name": "BANKING",
                 "ID": 719
+            },
+            {
+                "Name": "ARCHAEOLOGY",
+                "ID": 827
             }
         ]
     },
@@ -300,7 +305,8 @@
             "LOCAL ELECTIONS",
             "US FOREIGN POLICY",
             "US ADMINISTRATION",
-            "ISLAMIC SELF-IMPROVEMENT"
+            "ISLAMIC SELF-IMPROVEMENT",
+            "MIDDLE EAST DIPLOMACY"
         ],
         "ID": 21,
         "Sub Categories": [
@@ -435,6 +441,10 @@
             {
                 "Name": "ISLAMIC SELF-IMPROVEMENT",
                 "ID": 813
+            },
+            {
+                "Name": "MIDDLE EAST DIPLOMACY",
+                "ID": 824
             }
         ]
     },
@@ -650,7 +660,8 @@
         "ID": 165,
         "Filter": [
             "CHILD ABUSE",
-            "ELDERLY WELFARE"
+            "ELDERLY WELFARE",
+            "LANGUAGE CULTURE"
         ],
         "Sub Categories": [
             {
@@ -660,6 +671,10 @@
             {
                 "Name": "ELDERLY WELFARE",
                 "ID": 461
+            },
+            {
+                "Name": "LANGUAGE CULTURE",
+                "ID": 833
             }
         ]
     },
