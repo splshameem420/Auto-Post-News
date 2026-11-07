@@ -299,7 +299,8 @@
             "SOCIAL MOVEMENT",
             "LOCAL ELECTIONS",
             "US FOREIGN POLICY",
-            "US ADMINISTRATION"
+            "US ADMINISTRATION",
+            "ISLAMIC SELF-IMPROVEMENT"
         ],
         "ID": 21,
         "Sub Categories": [
@@ -430,6 +431,10 @@
             {
                 "Name": "US ADMINISTRATION",
                 "ID": 809
+            },
+            {
+                "Name": "ISLAMIC SELF-IMPROVEMENT",
+                "ID": 813
             }
         ]
     },
