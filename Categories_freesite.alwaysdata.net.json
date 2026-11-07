@@ -39,7 +39,9 @@
             "US ELECTION",
             "BANKING",
             "ARCHAEOLOGY",
-            "ELECTIONS"
+            "ELECTIONS",
+            "ROAD ACCIDENT",
+            "RELIGION"
         ],
         "ID": 48,
         "Sub Categories": [
@@ -170,6 +172,14 @@
             {
                 "Name": "ELECTIONS",
                 "ID": 845
+            },
+            {
+                "Name": "ROAD ACCIDENT",
+                "ID": 859
+            },
+            {
+                "Name": "RELIGION",
+                "ID": 865
             }
         ]
     },

@@ -76,7 +76,8 @@
             "MIGRATION",
             "FOREIGN POLICY",
             "IMPEACHMENT",
-            "MIDDLE EAST CRISIS"
+            "MIDDLE EAST CRISIS",
+            "BANKING SCANDAL"
         ],
         "ID": 6,
         "Sub Categories": [
@@ -351,6 +352,10 @@
             {
                 "Name": "MIDDLE EAST CRISIS",
                 "ID": 839
+            },
+            {
+                "Name": "BANKING SCANDAL",
+                "ID": 850
             }
         ]
     },
