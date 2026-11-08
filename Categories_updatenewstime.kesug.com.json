@@ -396,7 +396,8 @@
             "ISLAMIC STUDIES",
             "GOLD PRICES",
             "INDUSTRIAL POLICY",
-            "WORKPLACE CULTURE"
+            "WORKPLACE CULTURE",
+            "AVIATION"
         ],
         "ID": 169,
         "Sub Categories": [
@@ -435,6 +436,10 @@
             {
                 "Name": "WORKPLACE CULTURE",
                 "ID": 870
+            },
+            {
+                "Name": "AVIATION",
+                "ID": 887
             }
         ]
     },
@@ -459,7 +464,8 @@
             "EBOLA OUTBREAK",
             "ISLAMIC LIFESTYLE",
             "MEDICAL RESEARCH",
-            "SKIN HEALTH"
+            "SKIN HEALTH",
+            "MENTAL HEALTH"
         ],
         "ID": 8,
         "Sub Categories": [
@@ -478,6 +484,10 @@
             {
                 "Name": "SKIN HEALTH",
                 "ID": 509
+            },
+            {
+                "Name": "MENTAL HEALTH",
+                "ID": 893
             }
         ]
     },
@@ -628,7 +638,8 @@
             "TEXTBOOK CURRICULUM",
             "HSC RESULTS",
             "EXAM RESULTS",
-            "EXAMS"
+            "EXAMS",
+            "HIGHER EDUCATION"
         ],
         "ID": 11,
         "Sub Categories": [
@@ -651,6 +662,10 @@
             {
                 "Name": "EXAMS",
                 "ID": 564
+            },
+            {
+                "Name": "HIGHER EDUCATION",
+                "ID": 881
             }
         ]
     },
