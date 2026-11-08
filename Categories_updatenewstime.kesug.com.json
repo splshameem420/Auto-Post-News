@@ -82,7 +82,8 @@
             "US TRADE",
             "DEFENSE",
             "LAND DISPUTE",
-            "ISRAELI POLITICS"
+            "ISRAELI POLITICS",
+            "US IRAN CONFLICT"
         ],
         "ID": 6,
         "Sub Categories": [
@@ -381,6 +382,10 @@
             {
                 "Name": "ISRAELI POLITICS",
                 "ID": 921
+            },
+            {
+                "Name": "US IRAN CONFLICT",
+                "ID": 925
             }
         ]
     },
@@ -413,7 +418,8 @@
             "INDUSTRIAL POLICY",
             "WORKPLACE CULTURE",
             "AVIATION",
-            "ENTREPRENEURSHIP"
+            "ENTREPRENEURSHIP",
+            "CORPORATE GOVERNANCE"
         ],
         "ID": 169,
         "Sub Categories": [
@@ -460,6 +466,10 @@
             {
                 "Name": "ENTREPRENEURSHIP",
                 "ID": 899
+            },
+            {
+                "Name": "CORPORATE GOVERNANCE",
+                "ID": 929
             }
         ]
     },
