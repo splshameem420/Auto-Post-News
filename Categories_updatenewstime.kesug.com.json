@@ -80,7 +80,9 @@
             "BANKING SCANDAL",
             "CYBER SECURITY",
             "US TRADE",
-            "DEFENSE"
+            "DEFENSE",
+            "LAND DISPUTE",
+            "ISRAELI POLITICS"
         ],
         "ID": 6,
         "Sub Categories": [
@@ -371,6 +373,14 @@
             {
                 "Name": "DEFENSE",
                 "ID": 905
+            },
+            {
+                "Name": "LAND DISPUTE",
+                "ID": 913
+            },
+            {
+                "Name": "ISRAELI POLITICS",
+                "ID": 921
             }
         ]
     },

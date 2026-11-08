@@ -564,7 +564,8 @@
             "TENNIS",
             "BADMINTON",
             "BOXING",
-            "PADEL"
+            "PADEL",
+            "FOOTBALL GOVERNANCE"
         ],
         "ID": 59,
         "Sub Categories": [
@@ -591,6 +592,10 @@
             {
                 "Name": "PADEL",
                 "ID": 910
+            },
+            {
+                "Name": "FOOTBALL GOVERNANCE",
+                "ID": 924
             }
         ]
     },

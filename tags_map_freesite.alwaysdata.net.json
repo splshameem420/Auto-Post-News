@@ -2950,5 +2950,45 @@
     {
         "Tag Name": "আইনি প্রতিকার",
         "ID": 919
+    },
+    {
+        "Tag Name": "ব্যাংকিং খাত",
+        "ID": 920
+    },
+    {
+        "Tag Name": "সংসদীয় কমিটি",
+        "ID": 541
+    },
+    {
+        "Tag Name": "তারল্যসংকট",
+        "ID": 921
+    },
+    {
+        "Tag Name": "মিডটার্ম",
+        "ID": 922
+    },
+    {
+        "Tag Name": "যুক্তরাষ্ট্রের রাজনীতি",
+        "ID": 923
+    },
+    {
+        "Tag Name": "FIFA",
+        "ID": 925
+    },
+    {
+        "Tag Name": "Kozo Tashima",
+        "ID": 926
+    },
+    {
+        "Tag Name": "Gianni Infantino",
+        "ID": 927
+    },
+    {
+        "Tag Name": "Japan Football Association",
+        "ID": 928
+    },
+    {
+        "Tag Name": "FIFA election",
+        "ID": 929
     }
 ]
