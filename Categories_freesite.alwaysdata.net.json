@@ -216,7 +216,8 @@
             "BANKING",
             "AVIATION",
             "GOLD PRICE",
-            "AUTOMOTIVE"
+            "AUTOMOTIVE",
+            "BANKING LAW"
         ],
         "ID": 205,
         "Sub Categories": [
@@ -239,6 +240,10 @@
             {
                 "Name": "AUTOMOTIVE",
                 "ID": 797
+            },
+            {
+                "Name": "BANKING LAW",
+                "ID": 915
             }
         ]
     },
@@ -558,7 +563,8 @@
             "GAME",
             "TENNIS",
             "BADMINTON",
-            "BOXING"
+            "BOXING",
+            "PADEL"
         ],
         "ID": 59,
         "Sub Categories": [
@@ -581,6 +587,10 @@
             {
                 "Name": "CRICKET",
                 "ID": 467
+            },
+            {
+                "Name": "PADEL",
+                "ID": 910
             }
         ]
     },
@@ -658,7 +668,8 @@
             "JUVENILE CRIME",
             "CRIME NEWS",
             "MURDER",
-            "FRAUD"
+            "FRAUD",
+            "POLICE ASSAULT"
         ],
         "Sub Categories": [
             {
@@ -688,6 +699,10 @@
             {
                 "Name": "FRAUD",
                 "ID": 874
+            },
+            {
+                "Name": "POLICE ASSAULT",
+                "ID": 901
             }
         ]
     },

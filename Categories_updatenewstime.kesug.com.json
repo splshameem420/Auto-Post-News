@@ -79,7 +79,8 @@
             "MIDDLE EAST CRISIS",
             "BANKING SCANDAL",
             "CYBER SECURITY",
-            "US TRADE"
+            "US TRADE",
+            "DEFENSE"
         ],
         "ID": 6,
         "Sub Categories": [
@@ -366,6 +367,10 @@
             {
                 "Name": "US TRADE",
                 "ID": 867
+            },
+            {
+                "Name": "DEFENSE",
+                "ID": 905
             }
         ]
     },
@@ -397,7 +402,8 @@
             "GOLD PRICES",
             "INDUSTRIAL POLICY",
             "WORKPLACE CULTURE",
-            "AVIATION"
+            "AVIATION",
+            "ENTREPRENEURSHIP"
         ],
         "ID": 169,
         "Sub Categories": [
@@ -440,6 +446,10 @@
             {
                 "Name": "AVIATION",
                 "ID": 887
+            },
+            {
+                "Name": "ENTREPRENEURSHIP",
+                "ID": 899
             }
         ]
     },
@@ -739,12 +749,17 @@
         "Category Name": "SOCIETY",
         "ID": 219,
         "Filter": [
-            "SOCIAL WELFARE"
+            "SOCIAL WELFARE",
+            "ROAD SAFETY"
         ],
         "Sub Categories": [
             {
                 "Name": "SOCIAL WELFARE",
                 "ID": 220
+            },
+            {
+                "Name": "ROAD SAFETY",
+                "ID": 909
             }
         ]
     },
