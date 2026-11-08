@@ -395,7 +395,8 @@
             "ISLAMIC JURISPRUDENCE",
             "ISLAMIC STUDIES",
             "GOLD PRICES",
-            "INDUSTRIAL POLICY"
+            "INDUSTRIAL POLICY",
+            "WORKPLACE CULTURE"
         ],
         "ID": 169,
         "Sub Categories": [
@@ -430,6 +431,10 @@
             {
                 "Name": "INDUSTRIAL POLICY",
                 "ID": 844
+            },
+            {
+                "Name": "WORKPLACE CULTURE",
+                "ID": 870
             }
         ]
     },
