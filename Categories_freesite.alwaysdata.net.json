@@ -43,7 +43,8 @@
             "ROAD ACCIDENT",
             "RELIGION",
             "MIDDLE EAST CONFLICT",
-            "MIDDLE EAST POLITICS"
+            "MIDDLE EAST POLITICS",
+            "TRAIN ACCIDENT"
         ],
         "ID": 48,
         "Sub Categories": [
@@ -190,6 +191,10 @@
             {
                 "Name": "MIDDLE EAST POLITICS",
                 "ID": 899
+            },
+            {
+                "Name": "TRAIN ACCIDENT",
+                "ID": 947
             }
         ]
     },

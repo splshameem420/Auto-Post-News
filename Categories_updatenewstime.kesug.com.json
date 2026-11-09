@@ -85,7 +85,9 @@
             "ISRAELI POLITICS",
             "US IRAN CONFLICT",
             "ENERGY",
-            "WRONGFUL IMPRISONMENT"
+            "WRONGFUL IMPRISONMENT",
+            "RUSSIA UKRAINE WAR",
+            "DAILY ROUNDUP"
         ],
         "ID": 6,
         "Sub Categories": [
@@ -396,6 +398,14 @@
             {
                 "Name": "WRONGFUL IMPRISONMENT",
                 "ID": 945
+            },
+            {
+                "Name": "RUSSIA UKRAINE WAR",
+                "ID": 951
+            },
+            {
+                "Name": "DAILY ROUNDUP",
+                "ID": 958
             }
         ]
     },
