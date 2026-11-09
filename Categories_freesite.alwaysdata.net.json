@@ -762,7 +762,8 @@
             "BOLLYWOOD",
             "DIGITAL NEWS",
             "CELEBRITY",
-            "MUSIC CONCERT"
+            "MUSIC CONCERT",
+            "BENGALI CINEMA"
         ],
         "Sub Categories": [
             {
@@ -792,6 +793,10 @@
             {
                 "Name": "MUSIC CONCERT",
                 "ID": 887
+            },
+            {
+                "Name": "BENGALI CINEMA",
+                "ID": 938
             }
         ]
     },

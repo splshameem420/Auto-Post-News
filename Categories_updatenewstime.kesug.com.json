@@ -83,7 +83,9 @@
             "DEFENSE",
             "LAND DISPUTE",
             "ISRAELI POLITICS",
-            "US IRAN CONFLICT"
+            "US IRAN CONFLICT",
+            "ENERGY",
+            "WRONGFUL IMPRISONMENT"
         ],
         "ID": 6,
         "Sub Categories": [
@@ -386,6 +388,14 @@
             {
                 "Name": "US IRAN CONFLICT",
                 "ID": 925
+            },
+            {
+                "Name": "ENERGY",
+                "ID": 939
+            },
+            {
+                "Name": "WRONGFUL IMPRISONMENT",
+                "ID": 945
             }
         ]
     },
@@ -707,7 +717,8 @@
             "TRUE CRIME",
             "CELEBRITY FASHION",
             "MUSIC",
-            "BOX OFFICE"
+            "BOX OFFICE",
+            "CELEBRITY"
         ],
         "Sub Categories": [
             {
@@ -729,6 +740,10 @@
             {
                 "Name": "BOX OFFICE",
                 "ID": 617
+            },
+            {
+                "Name": "CELEBRITY",
+                "ID": 934
             }
         ]
     },
