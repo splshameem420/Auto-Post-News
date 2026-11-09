@@ -44,7 +44,8 @@
             "RELIGION",
             "MIDDLE EAST CONFLICT",
             "MIDDLE EAST POLITICS",
-            "TRAIN ACCIDENT"
+            "TRAIN ACCIDENT",
+            "CELEBRITY CRIME"
         ],
         "ID": 48,
         "Sub Categories": [
@@ -195,6 +196,10 @@
             {
                 "Name": "TRAIN ACCIDENT",
                 "ID": 947
+            },
+            {
+                "Name": "CELEBRITY CRIME",
+                "ID": 969
             }
         ]
     },
@@ -348,7 +353,8 @@
             "MIDDLE EAST DIPLOMACY",
             "FRENCH POLITICS",
             "FRENCH ELECTION",
-            "ISRAELI POLITICS"
+            "ISRAELI POLITICS",
+            "POLITICAL VIOLENCE"
         ],
         "ID": 21,
         "Sub Categories": [
@@ -499,6 +505,10 @@
             {
                 "Name": "ISRAELI POLITICS",
                 "ID": 881
+            },
+            {
+                "Name": "POLITICAL VIOLENCE",
+                "ID": 974
             }
         ]
     },

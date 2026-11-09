@@ -87,7 +87,10 @@
             "ENERGY",
             "WRONGFUL IMPRISONMENT",
             "RUSSIA UKRAINE WAR",
-            "DAILY ROUNDUP"
+            "DAILY ROUNDUP",
+            "PARLIAMENT",
+            "INDUSTRIAL ACCIDENT",
+            "DOMESTIC POLITICS"
         ],
         "ID": 6,
         "Sub Categories": [
@@ -406,6 +409,18 @@
             {
                 "Name": "DAILY ROUNDUP",
                 "ID": 958
+            },
+            {
+                "Name": "PARLIAMENT",
+                "ID": 964
+            },
+            {
+                "Name": "INDUSTRIAL ACCIDENT",
+                "ID": 974
+            },
+            {
+                "Name": "DOMESTIC POLITICS",
+                "ID": 980
             }
         ]
     },
