@@ -365,7 +365,8 @@
             "FRENCH ELECTION",
             "ISRAELI POLITICS",
             "POLITICAL VIOLENCE",
-            "POLITICAL HISTORY"
+            "POLITICAL HISTORY",
+            "MYANMAR"
         ],
         "ID": 21,
         "Sub Categories": [
@@ -524,6 +525,10 @@
             {
                 "Name": "POLITICAL HISTORY",
                 "ID": 998
+            },
+            {
+                "Name": "MYANMAR",
+                "ID": 1006
             }
         ]
     },
@@ -798,7 +803,8 @@
             "DIGITAL NEWS",
             "CELEBRITY",
             "MUSIC CONCERT",
-            "BENGALI CINEMA"
+            "BENGALI CINEMA",
+            "CELEBRITY SCANDAL"
         ],
         "Sub Categories": [
             {
@@ -832,6 +838,10 @@
             {
                 "Name": "BENGALI CINEMA",
                 "ID": 938
+            },
+            {
+                "Name": "CELEBRITY SCANDAL",
+                "ID": 1001
             }
         ]
     },

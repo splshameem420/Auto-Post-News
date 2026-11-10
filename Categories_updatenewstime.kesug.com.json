@@ -93,7 +93,8 @@
             "DOMESTIC POLITICS",
             "CYBERATTACK",
             "NATIONAL NEWS",
-            "POLITICAL CRISIS"
+            "POLITICAL CRISIS",
+            "HOUSING CRISIS"
         ],
         "ID": 6,
         "Sub Categories": [
@@ -436,6 +437,10 @@
             {
                 "Name": "POLITICAL CRISIS",
                 "ID": 1001
+            },
+            {
+                "Name": "HOUSING CRISIS",
+                "ID": 1004
             }
         ]
     },

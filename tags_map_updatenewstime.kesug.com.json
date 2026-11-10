@@ -3318,5 +3318,29 @@
     {
         "Tag Name": "বাংলাদেশ সরকার",
         "ID": 1002
+    },
+    {
+        "Tag Name": "West Bank",
+        "ID": 1003
+    },
+    {
+        "Tag Name": "Spain strike",
+        "ID": 1005
+    },
+    {
+        "Tag Name": "housing crisis",
+        "ID": 1006
+    },
+    {
+        "Tag Name": "general strike",
+        "ID": 1007
+    },
+    {
+        "Tag Name": "Spanish elections",
+        "ID": 1008
+    },
+    {
+        "Tag Name": "Pedro Sanchez",
+        "ID": 1009
     }
 ]

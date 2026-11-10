@@ -3246,5 +3246,41 @@
     {
         "Tag Name": "পাসপোর্ট বিতর্ক",
         "ID": 1000
+    },
+    {
+        "Tag Name": "David Walliams",
+        "ID": 1002
+    },
+    {
+        "Tag Name": "grooming allegations",
+        "ID": 1003
+    },
+    {
+        "Tag Name": "UK media",
+        "ID": 1004
+    },
+    {
+        "Tag Name": "HarperCollins",
+        "ID": 1005
+    },
+    {
+        "Tag Name": "Myanmar",
+        "ID": 1007
+    },
+    {
+        "Tag Name": "Germany",
+        "ID": 1008
+    },
+    {
+        "Tag Name": "Aung San Suu Kyi",
+        "ID": 1009
+    },
+    {
+        "Tag Name": "Win Myint",
+        "ID": 1010
+    },
+    {
+        "Tag Name": "diplomacy",
+        "ID": 389
     }
 ]
