@@ -90,7 +90,10 @@
             "DAILY ROUNDUP",
             "PARLIAMENT",
             "INDUSTRIAL ACCIDENT",
-            "DOMESTIC POLITICS"
+            "DOMESTIC POLITICS",
+            "CYBERATTACK",
+            "NATIONAL NEWS",
+            "POLITICAL CRISIS"
         ],
         "ID": 6,
         "Sub Categories": [
@@ -421,6 +424,18 @@
             {
                 "Name": "DOMESTIC POLITICS",
                 "ID": 980
+            },
+            {
+                "Name": "CYBERATTACK",
+                "ID": 994
+            },
+            {
+                "Name": "NATIONAL NEWS",
+                "ID": 997
+            },
+            {
+                "Name": "POLITICAL CRISIS",
+                "ID": 1001
             }
         ]
     },
@@ -454,7 +469,8 @@
             "WORKPLACE CULTURE",
             "AVIATION",
             "ENTREPRENEURSHIP",
-            "CORPORATE GOVERNANCE"
+            "CORPORATE GOVERNANCE",
+            "HOSPITALITY"
         ],
         "ID": 169,
         "Sub Categories": [
@@ -505,6 +521,10 @@
             {
                 "Name": "CORPORATE GOVERNANCE",
                 "ID": 929
+            },
+            {
+                "Name": "HOSPITALITY",
+                "ID": 988
             }
         ]
     },

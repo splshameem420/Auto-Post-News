@@ -45,7 +45,9 @@
             "MIDDLE EAST CONFLICT",
             "MIDDLE EAST POLITICS",
             "TRAIN ACCIDENT",
-            "CELEBRITY CRIME"
+            "CELEBRITY CRIME",
+            "INTERNATIONAL RELATIONS",
+            "AGRICULTURAL CRISIS"
         ],
         "ID": 48,
         "Sub Categories": [
@@ -200,6 +202,14 @@
             {
                 "Name": "CELEBRITY CRIME",
                 "ID": 969
+            },
+            {
+                "Name": "INTERNATIONAL RELATIONS",
+                "ID": 644
+            },
+            {
+                "Name": "AGRICULTURAL CRISIS",
+                "ID": 992
             }
         ]
     },
@@ -354,7 +364,8 @@
             "FRENCH POLITICS",
             "FRENCH ELECTION",
             "ISRAELI POLITICS",
-            "POLITICAL VIOLENCE"
+            "POLITICAL VIOLENCE",
+            "POLITICAL HISTORY"
         ],
         "ID": 21,
         "Sub Categories": [
@@ -509,6 +520,10 @@
             {
                 "Name": "POLITICAL VIOLENCE",
                 "ID": 974
+            },
+            {
+                "Name": "POLITICAL HISTORY",
+                "ID": 998
             }
         ]
     },
@@ -731,7 +746,8 @@
         "ID": 89,
         "Filter": [
             "ARTS",
-            "MUSHROOM FARMING"
+            "MUSHROOM FARMING",
+            "LITERATURE"
         ],
         "Sub Categories": [
             {
@@ -741,6 +757,10 @@
             {
                 "Name": "MUSHROOM FARMING",
                 "ID": 258
+            },
+            {
+                "Name": "LITERATURE",
+                "ID": 986
             }
         ]
     },
