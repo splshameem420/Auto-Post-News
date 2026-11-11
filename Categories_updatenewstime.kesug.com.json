@@ -97,7 +97,9 @@
             "HOUSING CRISIS",
             "LAW AND ORDER",
             "FRENCH POLITICS",
-            "UN PEACEKEEPING"
+            "UN PEACEKEEPING",
+            "RUSSIA-UKRAINE CONFLICT",
+            "EXILE"
         ],
         "ID": 6,
         "Sub Categories": [
@@ -456,6 +458,14 @@
             {
                 "Name": "UN PEACEKEEPING",
                 "ID": 1020
+            },
+            {
+                "Name": "RUSSIA-UKRAINE CONFLICT",
+                "ID": 1035
+            },
+            {
+                "Name": "EXILE",
+                "ID": 1039
             }
         ]
     },
@@ -744,7 +754,8 @@
             "HSC RESULTS",
             "EXAM RESULTS",
             "EXAMS",
-            "HIGHER EDUCATION"
+            "HIGHER EDUCATION",
+            "CAREER ADVICE"
         ],
         "ID": 11,
         "Sub Categories": [
@@ -771,6 +782,10 @@
             {
                 "Name": "HIGHER EDUCATION",
                 "ID": 881
+            },
+            {
+                "Name": "CAREER ADVICE",
+                "ID": 1025
             }
         ]
     },

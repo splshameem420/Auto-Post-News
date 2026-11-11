@@ -371,7 +371,8 @@
             "ISRAELI POLITICS",
             "POLITICAL VIOLENCE",
             "POLITICAL HISTORY",
-            "MYANMAR"
+            "MYANMAR",
+            "CORRUPTION"
         ],
         "ID": 21,
         "Sub Categories": [
@@ -534,6 +535,10 @@
             {
                 "Name": "MYANMAR",
                 "ID": 1006
+            },
+            {
+                "Name": "CORRUPTION",
+                "ID": 1029
             }
         ]
     },
@@ -554,7 +559,8 @@
             "CRYPTOCURRENCY",
             "TECH NEWS",
             "NATIONAL NEWS",
-            "ARTIFICIAL INTELLIGENCE"
+            "ARTIFICIAL INTELLIGENCE",
+            "AI ETHICS"
         ],
         "ID": 148,
         "Sub Categories": [
@@ -585,6 +591,10 @@
             {
                 "Name": "ARTIFICIAL INTELLIGENCE",
                 "ID": 736
+            },
+            {
+                "Name": "AI ETHICS",
+                "ID": 1024
             }
         ]
     },
