@@ -102,7 +102,8 @@
             "EXILE",
             "RUSSIA-UKRAINE WAR",
             "NATIONAL AND INTERNATIONAL",
-            "LEGAL AFFAIRS"
+            "LEGAL AFFAIRS",
+            "NATIONAL SECURITY"
         ],
         "ID": 6,
         "Sub Categories": [
@@ -481,6 +482,10 @@
             {
                 "Name": "LEGAL AFFAIRS",
                 "ID": 1058
+            },
+            {
+                "Name": "NATIONAL SECURITY",
+                "ID": 1062
             }
         ]
     },

@@ -52,7 +52,8 @@
             "MEDICAL NEGLIGENCE",
             "POLITICS",
             "CRIME",
-            "CORRUPTION"
+            "CORRUPTION",
+            "CRIME NEWS"
         ],
         "ID": 48,
         "Sub Categories": [
@@ -235,6 +236,10 @@
             {
                 "Name": "CORRUPTION",
                 "ID": 1051
+            },
+            {
+                "Name": "CRIME NEWS",
+                "ID": 1056
             }
         ]
     },
@@ -312,7 +317,8 @@
             "CELEBRITY LIFESTYLE",
             "NUTRITION",
             "VIRAL FEVER",
-            "RELATIONSHIPS"
+            "RELATIONSHIPS",
+            "FOOD SAFETY"
         ],
         "ID": 106,
         "Sub Categories": [
@@ -331,6 +337,10 @@
             {
                 "Name": "PUBLIC HEALTH",
                 "ID": 853
+            },
+            {
+                "Name": "FOOD SAFETY",
+                "ID": 1058
             }
         ]
     },
