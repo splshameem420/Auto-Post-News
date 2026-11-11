@@ -3282,5 +3282,53 @@
     {
         "Tag Name": "diplomacy",
         "ID": 389
+    },
+    {
+        "Tag Name": "রোহিঙ্গা প্রত্যাবাসন",
+        "ID": 1011
+    },
+    {
+        "Tag Name": "তুরস্ক",
+        "ID": 1012
+    },
+    {
+        "Tag Name": "কপ৩১ সম্মেলন",
+        "ID": 1013
+    },
+    {
+        "Tag Name": "প্রতিরক্ষা সহযোগিতা",
+        "ID": 1014
+    },
+    {
+        "Tag Name": "Moldova",
+        "ID": 1015
+    },
+    {
+        "Tag Name": "drone incident",
+        "ID": 1016
+    },
+    {
+        "Tag Name": "embassy expulsion",
+        "ID": 1017
+    },
+    {
+        "Tag Name": "EU integration",
+        "ID": 1018
+    },
+    {
+        "Tag Name": "মৃত্যুদণ্ড",
+        "ID": 1020
+    },
+    {
+        "Tag Name": "গ্যালাপ পোল",
+        "ID": 1021
+    },
+    {
+        "Tag Name": "অপরাধ নীতি",
+        "ID": 1022
+    },
+    {
+        "Tag Name": "রাজনৈতিক বিভাজন",
+        "ID": 1023
     }
 ]

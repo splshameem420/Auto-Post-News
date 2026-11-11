@@ -94,7 +94,10 @@
             "CYBERATTACK",
             "NATIONAL NEWS",
             "POLITICAL CRISIS",
-            "HOUSING CRISIS"
+            "HOUSING CRISIS",
+            "LAW AND ORDER",
+            "FRENCH POLITICS",
+            "UN PEACEKEEPING"
         ],
         "ID": 6,
         "Sub Categories": [
@@ -441,6 +444,18 @@
             {
                 "Name": "HOUSING CRISIS",
                 "ID": 1004
+            },
+            {
+                "Name": "LAW AND ORDER",
+                "ID": 1010
+            },
+            {
+                "Name": "FRENCH POLITICS",
+                "ID": 1015
+            },
+            {
+                "Name": "UN PEACEKEEPING",
+                "ID": 1020
             }
         ]
     },

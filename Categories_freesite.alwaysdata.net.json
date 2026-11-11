@@ -47,7 +47,8 @@
             "TRAIN ACCIDENT",
             "CELEBRITY CRIME",
             "INTERNATIONAL RELATIONS",
-            "AGRICULTURAL CRISIS"
+            "AGRICULTURAL CRISIS",
+            "PUBLIC OPINION"
         ],
         "ID": 48,
         "Sub Categories": [
@@ -210,6 +211,10 @@
             {
                 "Name": "AGRICULTURAL CRISIS",
                 "ID": 992
+            },
+            {
+                "Name": "PUBLIC OPINION",
+                "ID": 1019
             }
         ]
     },
