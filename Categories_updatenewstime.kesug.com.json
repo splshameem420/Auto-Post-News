@@ -99,7 +99,10 @@
             "FRENCH POLITICS",
             "UN PEACEKEEPING",
             "RUSSIA-UKRAINE CONFLICT",
-            "EXILE"
+            "EXILE",
+            "RUSSIA-UKRAINE WAR",
+            "NATIONAL AND INTERNATIONAL",
+            "LEGAL AFFAIRS"
         ],
         "ID": 6,
         "Sub Categories": [
@@ -466,6 +469,18 @@
             {
                 "Name": "EXILE",
                 "ID": 1039
+            },
+            {
+                "Name": "RUSSIA-UKRAINE WAR",
+                "ID": 951
+            },
+            {
+                "Name": "NATIONAL AND INTERNATIONAL",
+                "ID": 1054
+            },
+            {
+                "Name": "LEGAL AFFAIRS",
+                "ID": 1058
             }
         ]
     },

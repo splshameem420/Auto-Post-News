@@ -48,7 +48,11 @@
             "CELEBRITY CRIME",
             "INTERNATIONAL RELATIONS",
             "AGRICULTURAL CRISIS",
-            "PUBLIC OPINION"
+            "PUBLIC OPINION",
+            "MEDICAL NEGLIGENCE",
+            "POLITICS",
+            "CRIME",
+            "CORRUPTION"
         ],
         "ID": 48,
         "Sub Categories": [
@@ -215,6 +219,22 @@
             {
                 "Name": "PUBLIC OPINION",
                 "ID": 1019
+            },
+            {
+                "Name": "MEDICAL NEGLIGENCE",
+                "ID": 1037
+            },
+            {
+                "Name": "POLITICS",
+                "ID": 1043
+            },
+            {
+                "Name": "CRIME",
+                "ID": 1047
+            },
+            {
+                "Name": "CORRUPTION",
+                "ID": 1051
             }
         ]
     },
