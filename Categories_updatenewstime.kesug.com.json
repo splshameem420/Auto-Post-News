@@ -104,7 +104,8 @@
             "NATIONAL AND INTERNATIONAL",
             "LEGAL AFFAIRS",
             "NATIONAL SECURITY",
-            "DISASTER"
+            "DISASTER",
+            "BANGLADESH-INDIA RELATIONS"
         ],
         "ID": 6,
         "Sub Categories": [
@@ -491,6 +492,10 @@
             {
                 "Name": "DISASTER",
                 "ID": 1071
+            },
+            {
+                "Name": "BANGLADESH-INDIA RELATIONS",
+                "ID": 1106
             }
         ]
     },
@@ -833,7 +838,8 @@
             "CELEBRITY FASHION",
             "MUSIC",
             "BOX OFFICE",
-            "CELEBRITY"
+            "CELEBRITY",
+            "HOLLYWOOD"
         ],
         "Sub Categories": [
             {
@@ -859,6 +865,10 @@
             {
                 "Name": "CELEBRITY",
                 "ID": 934
+            },
+            {
+                "Name": "HOLLYWOOD",
+                "ID": 1100
             }
         ]
     },

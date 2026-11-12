@@ -56,7 +56,9 @@
             "CRIME NEWS",
             "ESPIONAGE",
             "BANGLADESH POLITICS",
-            "LAW AND ORDER"
+            "LAW AND ORDER",
+            "ISRAEL-FRANCE RELATIONS",
+            "LABOR"
         ],
         "ID": 48,
         "Sub Categories": [
@@ -255,6 +257,14 @@
             {
                 "Name": "LAW AND ORDER",
                 "ID": 1089
+            },
+            {
+                "Name": "ISRAEL-FRANCE RELATIONS",
+                "ID": 1099
+            },
+            {
+                "Name": "LABOR",
+                "ID": 1103
             }
         ]
     },
@@ -282,7 +292,8 @@
             "AVIATION",
             "GOLD PRICE",
             "AUTOMOTIVE",
-            "BANKING LAW"
+            "BANKING LAW",
+            "CORPORATE SCANDAL"
         ],
         "ID": 205,
         "Sub Categories": [
@@ -309,6 +320,10 @@
             {
                 "Name": "BANKING LAW",
                 "ID": 915
+            },
+            {
+                "Name": "CORPORATE SCANDAL",
+                "ID": 1095
             }
         ]
     },
