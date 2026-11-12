@@ -105,7 +105,8 @@
             "LEGAL AFFAIRS",
             "NATIONAL SECURITY",
             "DISASTER",
-            "BANGLADESH-INDIA RELATIONS"
+            "BANGLADESH-INDIA RELATIONS",
+            "HUMAN RIGHTS"
         ],
         "ID": 6,
         "Sub Categories": [
@@ -496,6 +497,10 @@
             {
                 "Name": "BANGLADESH-INDIA RELATIONS",
                 "ID": 1106
+            },
+            {
+                "Name": "HUMAN RIGHTS",
+                "ID": 1113
             }
         ]
     },
@@ -709,7 +714,8 @@
             "CYBERSECURITY",
             "SOFTWARE ENGINEERING",
             "AI ACTIVISM",
-            "TECH NEWS"
+            "TECH NEWS",
+            "CLOUD SERVICES"
         ],
         "ID": 9,
         "Sub Categories": [
@@ -732,6 +738,10 @@
             {
                 "Name": "TECH NEWS",
                 "ID": 1081
+            },
+            {
+                "Name": "CLOUD SERVICES",
+                "ID": 1117
             }
         ]
     },
