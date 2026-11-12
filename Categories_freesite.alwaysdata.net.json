@@ -55,7 +55,8 @@
             "CORRUPTION",
             "CRIME NEWS",
             "ESPIONAGE",
-            "BANGLADESH POLITICS"
+            "BANGLADESH POLITICS",
+            "LAW AND ORDER"
         ],
         "ID": 48,
         "Sub Categories": [
@@ -250,6 +251,10 @@
             {
                 "Name": "BANGLADESH POLITICS",
                 "ID": 1073
+            },
+            {
+                "Name": "LAW AND ORDER",
+                "ID": 1089
             }
         ]
     },

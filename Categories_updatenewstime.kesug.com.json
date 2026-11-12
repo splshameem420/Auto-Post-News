@@ -605,7 +605,8 @@
             "ISLAMIC LIFESTYLE",
             "MEDICAL RESEARCH",
             "SKIN HEALTH",
-            "MENTAL HEALTH"
+            "MENTAL HEALTH",
+            "OPHTHALMOLOGY"
         ],
         "ID": 8,
         "Sub Categories": [
@@ -628,6 +629,10 @@
             {
                 "Name": "MENTAL HEALTH",
                 "ID": 893
+            },
+            {
+                "Name": "OPHTHALMOLOGY",
+                "ID": 1095
             }
         ]
     },
@@ -698,7 +703,8 @@
             "SOCIAL MEDIA",
             "CYBERSECURITY",
             "SOFTWARE ENGINEERING",
-            "AI ACTIVISM"
+            "AI ACTIVISM",
+            "TECH NEWS"
         ],
         "ID": 9,
         "Sub Categories": [
@@ -717,6 +723,10 @@
             {
                 "Name": "AI ACTIVISM",
                 "ID": 787
+            },
+            {
+                "Name": "TECH NEWS",
+                "ID": 1081
             }
         ]
     },
