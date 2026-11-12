@@ -3562,5 +3562,41 @@
     {
         "Tag Name": "Rafah crossing",
         "ID": 1070
+    },
+    {
+        "Tag Name": "Brooklyn",
+        "ID": 1072
+    },
+    {
+        "Tag Name": "building collapse",
+        "ID": 1073
+    },
+    {
+        "Tag Name": "firefighters",
+        "ID": 1074
+    },
+    {
+        "Tag Name": "casualties",
+        "ID": 1075
+    },
+    {
+        "Tag Name": "ইতালির রেড ব্রিগেডস",
+        "ID": 1076
+    },
+    {
+        "Tag Name": "আর্জেন্টিনা",
+        "ID": 1077
+    },
+    {
+        "Tag Name": "এক্সট্রাডিশন",
+        "ID": 1078
+    },
+    {
+        "Tag Name": "শরণার্থী",
+        "ID": 1079
+    },
+    {
+        "Tag Name": "সন্ত্রাসবাদ",
+        "ID": 1080
     }
 ]

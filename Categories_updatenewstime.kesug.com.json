@@ -103,7 +103,8 @@
             "RUSSIA-UKRAINE WAR",
             "NATIONAL AND INTERNATIONAL",
             "LEGAL AFFAIRS",
-            "NATIONAL SECURITY"
+            "NATIONAL SECURITY",
+            "DISASTER"
         ],
         "ID": 6,
         "Sub Categories": [
@@ -486,6 +487,10 @@
             {
                 "Name": "NATIONAL SECURITY",
                 "ID": 1062
+            },
+            {
+                "Name": "DISASTER",
+                "ID": 1071
             }
         ]
     },

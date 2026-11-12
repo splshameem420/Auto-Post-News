@@ -53,7 +53,9 @@
             "POLITICS",
             "CRIME",
             "CORRUPTION",
-            "CRIME NEWS"
+            "CRIME NEWS",
+            "ESPIONAGE",
+            "BANGLADESH POLITICS"
         ],
         "ID": 48,
         "Sub Categories": [
@@ -240,6 +242,14 @@
             {
                 "Name": "CRIME NEWS",
                 "ID": 1056
+            },
+            {
+                "Name": "ESPIONAGE",
+                "ID": 1069
+            },
+            {
+                "Name": "BANGLADESH POLITICS",
+                "ID": 1073
             }
         ]
     },
@@ -318,7 +328,8 @@
             "NUTRITION",
             "VIRAL FEVER",
             "RELATIONSHIPS",
-            "FOOD SAFETY"
+            "FOOD SAFETY",
+            "FITNESS & WELLNESS"
         ],
         "ID": 106,
         "Sub Categories": [
@@ -341,6 +352,10 @@
             {
                 "Name": "FOOD SAFETY",
                 "ID": 1058
+            },
+            {
+                "Name": "FITNESS & WELLNESS",
+                "ID": 1063
             }
         ]
     },
