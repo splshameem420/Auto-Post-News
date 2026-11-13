@@ -820,7 +820,8 @@
             "EXAM RESULTS",
             "EXAMS",
             "HIGHER EDUCATION",
-            "CAREER ADVICE"
+            "CAREER ADVICE",
+            "ADMISSION NEWS"
         ],
         "ID": 11,
         "Sub Categories": [
@@ -851,6 +852,10 @@
             {
                 "Name": "CAREER ADVICE",
                 "ID": 1025
+            },
+            {
+                "Name": "ADMISSION NEWS",
+                "ID": 1140
             }
         ]
     },

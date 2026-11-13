@@ -58,7 +58,9 @@
             "BANGLADESH POLITICS",
             "LAW AND ORDER",
             "ISRAEL-FRANCE RELATIONS",
-            "LABOR"
+            "LABOR",
+            "EDUCATION NEWS",
+            "POWER CRISIS"
         ],
         "ID": 48,
         "Sub Categories": [
@@ -265,6 +267,14 @@
             {
                 "Name": "LABOR",
                 "ID": 1103
+            },
+            {
+                "Name": "EDUCATION NEWS",
+                "ID": 1138
+            },
+            {
+                "Name": "POWER CRISIS",
+                "ID": 1149
             }
         ]
     },
