@@ -3774,5 +3774,73 @@
     {
         "Tag Name": "Power Outage",
         "ID": 1153
+    },
+    {
+        "Tag Name": "ডিএমপি",
+        "ID": 1154
+    },
+    {
+        "Tag Name": "আওয়ামী লীগ",
+        "ID": 537
+    },
+    {
+        "Tag Name": "ঝটিকা মিছিল",
+        "ID": 1155
+    },
+    {
+        "Tag Name": "Iran-Iraq war",
+        "ID": 1157
+    },
+    {
+        "Tag Name": "mass funeral",
+        "ID": 1158
+    },
+    {
+        "Tag Name": "missile display",
+        "ID": 1159
+    },
+    {
+        "Tag Name": "US tensions",
+        "ID": 1160
+    },
+    {
+        "Tag Name": "Microsoft",
+        "ID": 1162
+    },
+    {
+        "Tag Name": "Outlook",
+        "ID": 1163
+    },
+    {
+        "Tag Name": "Teams",
+        "ID": 1164
+    },
+    {
+        "Tag Name": "Copilot",
+        "ID": 1165
+    },
+    {
+        "Tag Name": "outage",
+        "ID": 1166
+    },
+    {
+        "Tag Name": "Bangladesh",
+        "ID": 1168
+    },
+    {
+        "Tag Name": "India",
+        "ID": 1169
+    },
+    {
+        "Tag Name": "border",
+        "ID": 1170
+    },
+    {
+        "Tag Name": "BGB",
+        "ID": 1171
+    },
+    {
+        "Tag Name": "BSF",
+        "ID": 1172
     }
 ]

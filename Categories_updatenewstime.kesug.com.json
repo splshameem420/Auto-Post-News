@@ -108,7 +108,8 @@
             "BANGLADESH-INDIA RELATIONS",
             "HUMAN RIGHTS",
             "ROAD ACCIDENT",
-            "US SENATE"
+            "US SENATE",
+            "BORDER DISPUTE"
         ],
         "ID": 6,
         "Sub Categories": [
@@ -730,7 +731,8 @@
             "SOFTWARE ENGINEERING",
             "AI ACTIVISM",
             "TECH NEWS",
-            "CLOUD SERVICES"
+            "CLOUD SERVICES",
+            "SOFTWARE OUTAGE"
         ],
         "ID": 9,
         "Sub Categories": [
@@ -977,7 +979,8 @@
         "Filter": [
             "FOREST FIRE",
             "CLIMATE FINANCE",
-            "DATA CENTRES"
+            "DATA CENTRES",
+            "MARINE ECOSYSTEM"
         ],
         "Sub Categories": [
             {
@@ -991,6 +994,10 @@
             {
                 "Name": "DATA CENTRES",
                 "ID": 803
+            },
+            {
+                "Name": "MARINE ECOSYSTEM",
+                "ID": 1149
             }
         ]
     },

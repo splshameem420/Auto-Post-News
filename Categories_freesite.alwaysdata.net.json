@@ -60,7 +60,9 @@
             "ISRAEL-FRANCE RELATIONS",
             "LABOR",
             "EDUCATION NEWS",
-            "POWER CRISIS"
+            "POWER CRISIS",
+            "MILITARY CEREMONY",
+            "BORDER DISPUTE"
         ],
         "ID": 48,
         "Sub Categories": [
@@ -275,6 +277,14 @@
             {
                 "Name": "POWER CRISIS",
                 "ID": 1149
+            },
+            {
+                "Name": "MILITARY CEREMONY",
+                "ID": 1156
+            },
+            {
+                "Name": "BORDER DISPUTE",
+                "ID": 1167
             }
         ]
     },
@@ -636,7 +646,8 @@
             "NATIONAL NEWS",
             "ARTIFICIAL INTELLIGENCE",
             "AI ETHICS",
-            "CLOUD SERVICES"
+            "CLOUD SERVICES",
+            "SOFTWARE OUTAGE"
         ],
         "ID": 148,
         "Sub Categories": [
@@ -675,6 +686,10 @@
             {
                 "Name": "CLOUD SERVICES",
                 "ID": 1129
+            },
+            {
+                "Name": "SOFTWARE OUTAGE",
+                "ID": 1161
             }
         ]
     },
