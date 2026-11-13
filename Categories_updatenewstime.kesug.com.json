@@ -106,7 +106,9 @@
             "NATIONAL SECURITY",
             "DISASTER",
             "BANGLADESH-INDIA RELATIONS",
-            "HUMAN RIGHTS"
+            "HUMAN RIGHTS",
+            "ROAD ACCIDENT",
+            "US SENATE"
         ],
         "ID": 6,
         "Sub Categories": [
@@ -501,6 +503,14 @@
             {
                 "Name": "HUMAN RIGHTS",
                 "ID": 1113
+            },
+            {
+                "Name": "ROAD ACCIDENT",
+                "ID": 1122
+            },
+            {
+                "Name": "US SENATE",
+                "ID": 1130
             }
         ]
     },
@@ -616,7 +626,8 @@
             "MEDICAL RESEARCH",
             "SKIN HEALTH",
             "MENTAL HEALTH",
-            "OPHTHALMOLOGY"
+            "OPHTHALMOLOGY",
+            "FOOD SAFETY"
         ],
         "ID": 8,
         "Sub Categories": [
@@ -643,6 +654,10 @@
             {
                 "Name": "OPHTHALMOLOGY",
                 "ID": 1095
+            },
+            {
+                "Name": "FOOD SAFETY",
+                "ID": 1134
             }
         ]
     },

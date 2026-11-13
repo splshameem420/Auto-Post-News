@@ -625,7 +625,8 @@
             "TECH NEWS",
             "NATIONAL NEWS",
             "ARTIFICIAL INTELLIGENCE",
-            "AI ETHICS"
+            "AI ETHICS",
+            "CLOUD SERVICES"
         ],
         "ID": 148,
         "Sub Categories": [
@@ -660,6 +661,10 @@
             {
                 "Name": "AI ETHICS",
                 "ID": 1024
+            },
+            {
+                "Name": "CLOUD SERVICES",
+                "ID": 1129
             }
         ]
     },
@@ -961,6 +966,19 @@
             {
                 "Name": "SPACE RESEARCH",
                 "ID": 768
+            }
+        ]
+    },
+    {
+        "Category Name": "TRANSPORT",
+        "ID": 1118,
+        "Filter": [
+            "ELECTRIC BUSES"
+        ],
+        "Sub Categories": [
+            {
+                "Name": "ELECTRIC BUSES",
+                "ID": 1119
             }
         ]
     }
