@@ -62,7 +62,9 @@
             "EDUCATION NEWS",
             "POWER CRISIS",
             "MILITARY CEREMONY",
-            "BORDER DISPUTE"
+            "BORDER DISPUTE",
+            "US AVIATION",
+            "MARITIME ACCIDENT"
         ],
         "ID": 48,
         "Sub Categories": [
@@ -285,6 +287,14 @@
             {
                 "Name": "BORDER DISPUTE",
                 "ID": 1167
+            },
+            {
+                "Name": "US AVIATION",
+                "ID": 1173
+            },
+            {
+                "Name": "MARITIME ACCIDENT",
+                "ID": 1178
             }
         ]
     },

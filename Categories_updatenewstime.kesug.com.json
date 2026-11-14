@@ -109,7 +109,8 @@
             "HUMAN RIGHTS",
             "ROAD ACCIDENT",
             "US SENATE",
-            "BORDER DISPUTE"
+            "BORDER DISPUTE",
+            "RELIGION"
         ],
         "ID": 6,
         "Sub Categories": [
@@ -512,6 +513,10 @@
             {
                 "Name": "US SENATE",
                 "ID": 1130
+            },
+            {
+                "Name": "RELIGION",
+                "ID": 1166
             }
         ]
     },
