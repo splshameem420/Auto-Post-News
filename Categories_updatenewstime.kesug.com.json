@@ -111,7 +111,8 @@
             "US SENATE",
             "BORDER DISPUTE",
             "RELIGION",
-            "UK NEWS"
+            "UK NEWS",
+            "PARTY VIOLENCE"
         ],
         "ID": 6,
         "Sub Categories": [
@@ -522,6 +523,10 @@
             {
                 "Name": "UK NEWS",
                 "ID": 1179
+            },
+            {
+                "Name": "PARTY VIOLENCE",
+                "ID": 1215
             }
         ]
     },
