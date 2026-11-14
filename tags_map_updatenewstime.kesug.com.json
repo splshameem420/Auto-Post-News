@@ -4034,5 +4034,53 @@
     {
         "Tag Name": "পোশাক কারখানা",
         "ID": 1201
+    },
+    {
+        "Tag Name": "তানজিন তিশা",
+        "ID": 1203
+    },
+    {
+        "Tag Name": "সোলজার",
+        "ID": 1204
+    },
+    {
+        "Tag Name": "শাকিব খান",
+        "ID": 1205
+    },
+    {
+        "Tag Name": "ঢালিউড",
+        "ID": 1206
+    },
+    {
+        "Tag Name": "Tanzin Tisha",
+        "ID": 1207
+    },
+    {
+        "Tag Name": "flight disruption",
+        "ID": 1208
+    },
+    {
+        "Tag Name": "telecommunications failure",
+        "ID": 1209
+    },
+    {
+        "Tag Name": "Sean Duffy",
+        "ID": 1210
+    },
+    {
+        "Tag Name": "air traffic control",
+        "ID": 1211
+    },
+    {
+        "Tag Name": "NATO",
+        "ID": 1212
+    },
+    {
+        "Tag Name": "Donbas",
+        "ID": 1213
+    },
+    {
+        "Tag Name": "peace talks",
+        "ID": 1214
     }
 ]
