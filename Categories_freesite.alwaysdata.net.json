@@ -65,7 +65,8 @@
             "BORDER DISPUTE",
             "US AVIATION",
             "MARITIME ACCIDENT",
-            "AVIATION"
+            "AVIATION",
+            "GEOPOLITICS"
         ],
         "ID": 48,
         "Sub Categories": [
@@ -300,6 +301,10 @@
             {
                 "Name": "AVIATION",
                 "ID": 1198
+            },
+            {
+                "Name": "GEOPOLITICS",
+                "ID": 1207
             }
         ]
     },

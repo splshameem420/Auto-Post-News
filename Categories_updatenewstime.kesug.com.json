@@ -556,7 +556,8 @@
             "AVIATION",
             "ENTREPRENEURSHIP",
             "CORPORATE GOVERNANCE",
-            "HOSPITALITY"
+            "HOSPITALITY",
+            "GARMENT INDUSTRY"
         ],
         "ID": 169,
         "Sub Categories": [
@@ -611,6 +612,10 @@
             {
                 "Name": "HOSPITALITY",
                 "ID": 988
+            },
+            {
+                "Name": "GARMENT INDUSTRY",
+                "ID": 1196
             }
         ]
     },
