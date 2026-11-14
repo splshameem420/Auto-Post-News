@@ -64,7 +64,8 @@
             "MILITARY CEREMONY",
             "BORDER DISPUTE",
             "US AVIATION",
-            "MARITIME ACCIDENT"
+            "MARITIME ACCIDENT",
+            "AVIATION"
         ],
         "ID": 48,
         "Sub Categories": [
@@ -295,6 +296,10 @@
             {
                 "Name": "MARITIME ACCIDENT",
                 "ID": 1178
+            },
+            {
+                "Name": "AVIATION",
+                "ID": 1198
             }
         ]
     },
@@ -379,7 +384,8 @@
             "VIRAL FEVER",
             "RELATIONSHIPS",
             "FOOD SAFETY",
-            "FITNESS & WELLNESS"
+            "FITNESS & WELLNESS",
+            "DIABETES"
         ],
         "ID": 106,
         "Sub Categories": [
@@ -406,6 +412,10 @@
             {
                 "Name": "FITNESS & WELLNESS",
                 "ID": 1063
+            },
+            {
+                "Name": "DIABETES",
+                "ID": 1192
             }
         ]
     },

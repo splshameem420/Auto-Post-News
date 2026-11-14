@@ -110,7 +110,8 @@
             "ROAD ACCIDENT",
             "US SENATE",
             "BORDER DISPUTE",
-            "RELIGION"
+            "RELIGION",
+            "UK NEWS"
         ],
         "ID": 6,
         "Sub Categories": [
@@ -517,6 +518,10 @@
             {
                 "Name": "RELIGION",
                 "ID": 1166
+            },
+            {
+                "Name": "UK NEWS",
+                "ID": 1179
             }
         ]
     },
