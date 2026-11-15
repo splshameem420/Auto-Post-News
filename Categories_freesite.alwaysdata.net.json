@@ -70,7 +70,8 @@
             "MURDER",
             "GOVERNMENT FORMATION",
             "HOUSING CRISIS",
-            "COALITION GOVERNMENT"
+            "COALITION GOVERNMENT",
+            "EXTORTION AND VIOLENCE"
         ],
         "ID": 48,
         "Sub Categories": [
@@ -325,6 +326,10 @@
             {
                 "Name": "COALITION GOVERNMENT",
                 "ID": 1261
+            },
+            {
+                "Name": "EXTORTION AND VIOLENCE",
+                "ID": 1263
             }
         ]
     },

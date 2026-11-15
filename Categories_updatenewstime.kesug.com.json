@@ -114,7 +114,9 @@
             "UK NEWS",
             "PARTY VIOLENCE",
             "SECURITY",
-            "JUDICIAL NEWS"
+            "JUDICIAL NEWS",
+            "CRIME",
+            "BROADCASTING"
         ],
         "ID": 6,
         "Sub Categories": [
@@ -537,6 +539,14 @@
             {
                 "Name": "JUDICIAL NEWS",
                 "ID": 1248
+            },
+            {
+                "Name": "CRIME",
+                "ID": 1259
+            },
+            {
+                "Name": "BROADCASTING",
+                "ID": 1264
             }
         ]
     },
