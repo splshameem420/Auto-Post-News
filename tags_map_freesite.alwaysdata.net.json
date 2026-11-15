@@ -4202,5 +4202,41 @@
     {
         "Tag Name": "ডিসি‑এসপি",
         "ID": 1272
+    },
+    {
+        "Tag Name": "বাণিজ্য ঘাটতি",
+        "ID": 1274
+    },
+    {
+        "Tag Name": "রপ্তানি",
+        "ID": 1275
+    },
+    {
+        "Tag Name": "বাণিজ্যমন্ত্রীর বক্তব্য",
+        "ID": 1276
+    },
+    {
+        "Tag Name": "প্রস্তুত পোশাক",
+        "ID": 1277
+    },
+    {
+        "Tag Name": "Ebola",
+        "ID": 1279
+    },
+    {
+        "Tag Name": "DR Congo",
+        "ID": 1280
+    },
+    {
+        "Tag Name": "Africa CDC",
+        "ID": 1281
+    },
+    {
+        "Tag Name": "WHO",
+        "ID": 1282
+    },
+    {
+        "Tag Name": "Bundibugyo",
+        "ID": 1283
     }
 ]

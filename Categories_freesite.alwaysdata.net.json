@@ -415,7 +415,8 @@
             "RELATIONSHIPS",
             "FOOD SAFETY",
             "FITNESS & WELLNESS",
-            "DIABETES"
+            "DIABETES",
+            "INFECTIOUS DISEASE"
         ],
         "ID": 106,
         "Sub Categories": [
@@ -446,6 +447,10 @@
             {
                 "Name": "DIABETES",
                 "ID": 1192
+            },
+            {
+                "Name": "INFECTIOUS DISEASE",
+                "ID": 1278
             }
         ]
     },
@@ -845,7 +850,8 @@
         "ID": 34,
         "Filter": [
             "LABOR MIGRATION",
-            "LABOUR WAGES"
+            "LABOUR WAGES",
+            "TRADE"
         ],
         "Sub Categories": [
             {
@@ -855,6 +861,10 @@
             {
                 "Name": "LABOUR WAGES",
                 "ID": 696
+            },
+            {
+                "Name": "TRADE",
+                "ID": 1273
             }
         ]
     },
