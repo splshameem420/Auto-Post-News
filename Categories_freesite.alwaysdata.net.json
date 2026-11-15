@@ -68,7 +68,9 @@
             "AVIATION",
             "GEOPOLITICS",
             "MURDER",
-            "GOVERNMENT FORMATION"
+            "GOVERNMENT FORMATION",
+            "HOUSING CRISIS",
+            "COALITION GOVERNMENT"
         ],
         "ID": 48,
         "Sub Categories": [
@@ -315,6 +317,14 @@
             {
                 "Name": "GOVERNMENT FORMATION",
                 "ID": 1243
+            },
+            {
+                "Name": "HOUSING CRISIS",
+                "ID": 1252
+            },
+            {
+                "Name": "COALITION GOVERNMENT",
+                "ID": 1261
             }
         ]
     },

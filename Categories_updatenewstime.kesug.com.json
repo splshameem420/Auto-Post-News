@@ -113,7 +113,8 @@
             "RELIGION",
             "UK NEWS",
             "PARTY VIOLENCE",
-            "SECURITY"
+            "SECURITY",
+            "JUDICIAL NEWS"
         ],
         "ID": 6,
         "Sub Categories": [
@@ -532,6 +533,10 @@
             {
                 "Name": "SECURITY",
                 "ID": 1229
+            },
+            {
+                "Name": "JUDICIAL NEWS",
+                "ID": 1248
             }
         ]
     },
@@ -972,7 +977,8 @@
         "ID": 219,
         "Filter": [
             "SOCIAL WELFARE",
-            "ROAD SAFETY"
+            "ROAD SAFETY",
+            "READING HABITS"
         ],
         "Sub Categories": [
             {
@@ -982,6 +988,10 @@
             {
                 "Name": "ROAD SAFETY",
                 "ID": 909
+            },
+            {
+                "Name": "READING HABITS",
+                "ID": 1252
             }
         ]
     },
@@ -990,7 +1000,8 @@
         "ID": 263,
         "Filter": [
             "INFRASTRUCTURE",
-            "FINANCIAL SECTOR"
+            "FINANCIAL SECTOR",
+            "POVERTY AND INEQUALITY"
         ],
         "Sub Categories": [
             {
@@ -1000,6 +1011,10 @@
             {
                 "Name": "FINANCIAL SECTOR",
                 "ID": 475
+            },
+            {
+                "Name": "POVERTY AND INEQUALITY",
+                "ID": 1244
             }
         ]
     },
