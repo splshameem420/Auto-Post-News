@@ -112,7 +112,8 @@
             "BORDER DISPUTE",
             "RELIGION",
             "UK NEWS",
-            "PARTY VIOLENCE"
+            "PARTY VIOLENCE",
+            "SECURITY"
         ],
         "ID": 6,
         "Sub Categories": [
@@ -527,6 +528,10 @@
             {
                 "Name": "PARTY VIOLENCE",
                 "ID": 1215
+            },
+            {
+                "Name": "SECURITY",
+                "ID": 1229
             }
         ]
     },
@@ -1043,12 +1048,18 @@
         "Category Name": "SCIENCE",
         "ID": 775,
         "Filter": [
-            "POPULATION, APOCALYPTIC PREDICTIONS"
+            "POPULATION",
+            "APOCALYPTIC PREDICTIONS",
+            "SPACEFLIGHT"
         ],
         "Sub Categories": [
             {
                 "Name": "POPULATION, APOCALYPTIC PREDICTIONS",
                 "ID": 776
+            },
+            {
+                "Name": "SPACEFLIGHT",
+                "ID": 1234
             }
         ]
     }

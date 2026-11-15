@@ -67,7 +67,8 @@
             "MARITIME ACCIDENT",
             "AVIATION",
             "GEOPOLITICS",
-            "MURDER"
+            "MURDER",
+            "GOVERNMENT FORMATION"
         ],
         "ID": 48,
         "Sub Categories": [
@@ -310,6 +311,10 @@
             {
                 "Name": "MURDER",
                 "ID": 1227
+            },
+            {
+                "Name": "GOVERNMENT FORMATION",
+                "ID": 1243
             }
         ]
     },
@@ -1007,12 +1012,17 @@
         "Category Name": "ENVIRONMENT",
         "ID": 665,
         "Filter": [
-            "WILDLIFE CONSERVATION"
+            "WILDLIFE CONSERVATION",
+            "WILDLIFE"
         ],
         "Sub Categories": [
             {
                 "Name": "WILDLIFE CONSERVATION",
                 "ID": 666
+            },
+            {
+                "Name": "WILDLIFE",
+                "ID": 1238
             }
         ]
     },
