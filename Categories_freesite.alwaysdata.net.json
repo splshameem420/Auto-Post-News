@@ -71,7 +71,8 @@
             "GOVERNMENT FORMATION",
             "HOUSING CRISIS",
             "COALITION GOVERNMENT",
-            "EXTORTION AND VIOLENCE"
+            "EXTORTION AND VIOLENCE",
+            "QURANIC STUDIES"
         ],
         "ID": 48,
         "Sub Categories": [
@@ -330,6 +331,10 @@
             {
                 "Name": "EXTORTION AND VIOLENCE",
                 "ID": 1263
+            },
+            {
+                "Name": "QURANIC STUDIES",
+                "ID": 1284
             }
         ]
     },

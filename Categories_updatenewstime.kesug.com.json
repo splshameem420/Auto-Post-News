@@ -582,7 +582,8 @@
             "ENTREPRENEURSHIP",
             "CORPORATE GOVERNANCE",
             "HOSPITALITY",
-            "GARMENT INDUSTRY"
+            "GARMENT INDUSTRY",
+            "MINING"
         ],
         "ID": 169,
         "Sub Categories": [
@@ -641,6 +642,10 @@
             {
                 "Name": "GARMENT INDUSTRY",
                 "ID": 1196
+            },
+            {
+                "Name": "MINING",
+                "ID": 1275
             }
         ]
     },
