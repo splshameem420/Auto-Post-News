@@ -116,7 +116,8 @@
             "SECURITY",
             "JUDICIAL NEWS",
             "CRIME",
-            "BROADCASTING"
+            "BROADCASTING",
+            "BOMB ATTACK"
         ],
         "ID": 6,
         "Sub Categories": [
@@ -547,6 +548,10 @@
             {
                 "Name": "BROADCASTING",
                 "ID": 1264
+            },
+            {
+                "Name": "BOMB ATTACK",
+                "ID": 1281
             }
         ]
     },
