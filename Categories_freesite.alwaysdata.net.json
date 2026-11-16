@@ -72,7 +72,9 @@
             "HOUSING CRISIS",
             "COALITION GOVERNMENT",
             "EXTORTION AND VIOLENCE",
-            "QURANIC STUDIES"
+            "QURANIC STUDIES",
+            "NEWS DIGEST",
+            "ISRAEL"
         ],
         "ID": 48,
         "Sub Categories": [
@@ -335,6 +337,14 @@
             {
                 "Name": "QURANIC STUDIES",
                 "ID": 1284
+            },
+            {
+                "Name": "NEWS DIGEST",
+                "ID": 1302
+            },
+            {
+                "Name": "ISRAEL",
+                "ID": 1304
             }
         ]
     },
@@ -989,7 +999,8 @@
             "CELEBRITY",
             "MUSIC CONCERT",
             "BENGALI CINEMA",
-            "CELEBRITY SCANDAL"
+            "CELEBRITY SCANDAL",
+            "BANGLA DRAMA"
         ],
         "Sub Categories": [
             {
@@ -1027,6 +1038,10 @@
             {
                 "Name": "CELEBRITY SCANDAL",
                 "ID": 1001
+            },
+            {
+                "Name": "BANGLA DRAMA",
+                "ID": 1298
             }
         ]
     },
