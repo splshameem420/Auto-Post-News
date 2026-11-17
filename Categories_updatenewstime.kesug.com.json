@@ -119,7 +119,10 @@
             "BROADCASTING",
             "BOMB ATTACK",
             "COURT NEWS",
-            "UN ELECTION"
+            "UN ELECTION",
+            "MIGRATION POLICY",
+            "RENEWABLE ENERGY",
+            "ADMINISTRATION AND SECURITY"
         ],
         "ID": 6,
         "Sub Categories": [
@@ -562,6 +565,18 @@
             {
                 "Name": "UN ELECTION",
                 "ID": 1299
+            },
+            {
+                "Name": "MIGRATION POLICY",
+                "ID": 1314
+            },
+            {
+                "Name": "RENEWABLE ENERGY",
+                "ID": 1319
+            },
+            {
+                "Name": "ADMINISTRATION AND SECURITY",
+                "ID": 1325
             }
         ]
     },
@@ -932,7 +947,8 @@
             "BOX OFFICE",
             "CELEBRITY",
             "HOLLYWOOD",
-            "DHALLYWOOD"
+            "DHALLYWOOD",
+            "MOVIES AND FASHION"
         ],
         "Sub Categories": [
             {
@@ -966,6 +982,10 @@
             {
                 "Name": "DHALLYWOOD",
                 "ID": 1202
+            },
+            {
+                "Name": "MOVIES AND FASHION",
+                "ID": 1309
             }
         ]
     },

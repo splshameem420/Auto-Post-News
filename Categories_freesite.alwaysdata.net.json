@@ -75,7 +75,8 @@
             "QURANIC STUDIES",
             "NEWS DIGEST",
             "ISRAEL",
-            "BREXIT"
+            "BREXIT",
+            "NATIONAL NEWS"
         ],
         "ID": 48,
         "Sub Categories": [
@@ -350,6 +351,10 @@
             {
                 "Name": "BREXIT",
                 "ID": 1319
+            },
+            {
+                "Name": "NATIONAL NEWS",
+                "ID": 1331
             }
         ]
     },
