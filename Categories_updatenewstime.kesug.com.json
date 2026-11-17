@@ -118,7 +118,8 @@
             "CRIME",
             "BROADCASTING",
             "BOMB ATTACK",
-            "COURT NEWS"
+            "COURT NEWS",
+            "UN ELECTION"
         ],
         "ID": 6,
         "Sub Categories": [
@@ -557,6 +558,10 @@
             {
                 "Name": "COURT NEWS",
                 "ID": 1286
+            },
+            {
+                "Name": "UN ELECTION",
+                "ID": 1299
             }
         ]
     },

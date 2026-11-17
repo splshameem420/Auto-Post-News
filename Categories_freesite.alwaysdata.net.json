@@ -74,7 +74,8 @@
             "EXTORTION AND VIOLENCE",
             "QURANIC STUDIES",
             "NEWS DIGEST",
-            "ISRAEL"
+            "ISRAEL",
+            "BREXIT"
         ],
         "ID": 48,
         "Sub Categories": [
@@ -345,6 +346,10 @@
             {
                 "Name": "ISRAEL",
                 "ID": 1304
+            },
+            {
+                "Name": "BREXIT",
+                "ID": 1319
             }
         ]
     },
@@ -1000,7 +1005,8 @@
             "MUSIC CONCERT",
             "BENGALI CINEMA",
             "CELEBRITY SCANDAL",
-            "BANGLA DRAMA"
+            "BANGLA DRAMA",
+            "CELEBRITY GOSSIP"
         ],
         "Sub Categories": [
             {
@@ -1042,6 +1048,10 @@
             {
                 "Name": "BANGLA DRAMA",
                 "ID": 1298
+            },
+            {
+                "Name": "CELEBRITY GOSSIP",
+                "ID": 1309
             }
         ]
     },
