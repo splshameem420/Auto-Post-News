@@ -852,7 +852,8 @@
             "GAME",
             "MOTORSPORT",
             "PREMIER LEAGUE",
-            "CRICKET NEWS"
+            "CRICKET NEWS",
+            "EXTREME SPORTS"
         ],
         "ID": 10,
         "Sub Categories": [
@@ -875,6 +876,10 @@
             {
                 "Name": "CRICKET NEWS",
                 "ID": 782
+            },
+            {
+                "Name": "EXTREME SPORTS",
+                "ID": 1333
             }
         ]
     },

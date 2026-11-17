@@ -76,7 +76,10 @@
             "NEWS DIGEST",
             "ISRAEL",
             "BREXIT",
-            "NATIONAL NEWS"
+            "NATIONAL NEWS",
+            "UK POLITICS",
+            "WEATHER",
+            "DIASPORA"
         ],
         "ID": 48,
         "Sub Categories": [
@@ -355,6 +358,18 @@
             {
                 "Name": "NATIONAL NEWS",
                 "ID": 1331
+            },
+            {
+                "Name": "UK POLITICS",
+                "ID": 1334
+            },
+            {
+                "Name": "WEATHER",
+                "ID": 1338
+            },
+            {
+                "Name": "DIASPORA",
+                "ID": 1343
             }
         ]
     },
