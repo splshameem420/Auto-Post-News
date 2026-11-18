@@ -123,7 +123,8 @@
             "MIGRATION POLICY",
             "RENEWABLE ENERGY",
             "ADMINISTRATION AND SECURITY",
-            "EDUCATION"
+            "EDUCATION",
+            "INTERNATIONAL NEWS"
         ],
         "ID": 6,
         "Sub Categories": [
@@ -582,6 +583,10 @@
             {
                 "Name": "EDUCATION",
                 "ID": 1338
+            },
+            {
+                "Name": "INTERNATIONAL NEWS",
+                "ID": 1352
             }
         ]
     },
@@ -1085,7 +1090,8 @@
             "FOREST FIRE",
             "CLIMATE FINANCE",
             "DATA CENTRES",
-            "MARINE ECOSYSTEM"
+            "MARINE ECOSYSTEM",
+            "AIR POLLUTION"
         ],
         "Sub Categories": [
             {
@@ -1103,6 +1109,10 @@
             {
                 "Name": "MARINE ECOSYSTEM",
                 "ID": 1149
+            },
+            {
+                "Name": "AIR POLLUTION",
+                "ID": 1347
             }
         ]
     },

@@ -79,7 +79,8 @@
             "NATIONAL NEWS",
             "UK POLITICS",
             "WEATHER",
-            "DIASPORA"
+            "DIASPORA",
+            "DAILY ROUNDUP"
         ],
         "ID": 48,
         "Sub Categories": [
@@ -370,6 +371,10 @@
             {
                 "Name": "DIASPORA",
                 "ID": 1343
+            },
+            {
+                "Name": "DAILY ROUNDUP",
+                "ID": 1357
             }
         ]
     },
@@ -456,7 +461,8 @@
             "FOOD SAFETY",
             "FITNESS & WELLNESS",
             "DIABETES",
-            "INFECTIOUS DISEASE"
+            "INFECTIOUS DISEASE",
+            "FETAL SURGERY"
         ],
         "ID": 106,
         "Sub Categories": [
@@ -491,6 +497,10 @@
             {
                 "Name": "INFECTIOUS DISEASE",
                 "ID": 1278
+            },
+            {
+                "Name": "FETAL SURGERY",
+                "ID": 1360
             }
         ]
     },
