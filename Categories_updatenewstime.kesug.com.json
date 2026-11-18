@@ -124,7 +124,9 @@
             "RENEWABLE ENERGY",
             "ADMINISTRATION AND SECURITY",
             "EDUCATION",
-            "INTERNATIONAL NEWS"
+            "INTERNATIONAL NEWS",
+            "HUMANITARIAN AID",
+            "MARITAL RAPE"
         ],
         "ID": 6,
         "Sub Categories": [
@@ -587,6 +589,14 @@
             {
                 "Name": "INTERNATIONAL NEWS",
                 "ID": 1352
+            },
+            {
+                "Name": "HUMANITARIAN AID",
+                "ID": 1362
+            },
+            {
+                "Name": "MARITAL RAPE",
+                "ID": 1367
             }
         ]
     },

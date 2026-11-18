@@ -80,7 +80,9 @@
             "UK POLITICS",
             "WEATHER",
             "DIASPORA",
-            "DAILY ROUNDUP"
+            "DAILY ROUNDUP",
+            "POLITICAL VIOLENCE",
+            "PROTEST"
         ],
         "ID": 48,
         "Sub Categories": [
@@ -375,6 +377,14 @@
             {
                 "Name": "DAILY ROUNDUP",
                 "ID": 1357
+            },
+            {
+                "Name": "POLITICAL VIOLENCE",
+                "ID": 1366
+            },
+            {
+                "Name": "PROTEST",
+                "ID": 1379
             }
         ]
     },
