@@ -122,7 +122,8 @@
             "UN ELECTION",
             "MIGRATION POLICY",
             "RENEWABLE ENERGY",
-            "ADMINISTRATION AND SECURITY"
+            "ADMINISTRATION AND SECURITY",
+            "EDUCATION"
         ],
         "ID": 6,
         "Sub Categories": [
@@ -577,6 +578,10 @@
             {
                 "Name": "ADMINISTRATION AND SECURITY",
                 "ID": 1325
+            },
+            {
+                "Name": "EDUCATION",
+                "ID": 1338
             }
         ]
     },
