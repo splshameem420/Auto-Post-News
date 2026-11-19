@@ -127,7 +127,9 @@
             "INTERNATIONAL NEWS",
             "HUMANITARIAN AID",
             "MARITAL RAPE",
-            "POLITICAL ARREST"
+            "POLITICAL ARREST",
+            "INTERNATIONAL TRIBUNAL",
+            "CRIME & CONFLICT"
         ],
         "ID": 6,
         "Sub Categories": [
@@ -602,6 +604,14 @@
             {
                 "Name": "POLITICAL ARREST",
                 "ID": 1372
+            },
+            {
+                "Name": "INTERNATIONAL TRIBUNAL",
+                "ID": 1401
+            },
+            {
+                "Name": "CRIME & CONFLICT",
+                "ID": 1405
             }
         ]
     },
