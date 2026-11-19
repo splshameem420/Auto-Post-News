@@ -82,7 +82,10 @@
             "DIASPORA",
             "DAILY ROUNDUP",
             "POLITICAL VIOLENCE",
-            "PROTEST"
+            "PROTEST",
+            "MIDDLE EAST DEFENSE",
+            "MILITARY DIPLOMACY",
+            "US IRAN CONFLICT"
         ],
         "ID": 48,
         "Sub Categories": [
@@ -385,6 +388,18 @@
             {
                 "Name": "PROTEST",
                 "ID": 1379
+            },
+            {
+                "Name": "MIDDLE EAST DEFENSE",
+                "ID": 1390
+            },
+            {
+                "Name": "MILITARY DIPLOMACY",
+                "ID": 1394
+            },
+            {
+                "Name": "US IRAN CONFLICT",
+                "ID": 1399
             }
         ]
     },

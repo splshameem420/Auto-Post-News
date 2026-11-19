@@ -638,7 +638,8 @@
             "CORPORATE GOVERNANCE",
             "HOSPITALITY",
             "GARMENT INDUSTRY",
-            "MINING"
+            "MINING",
+            "STOCK MARKET"
         ],
         "ID": 169,
         "Sub Categories": [
@@ -701,6 +702,10 @@
             {
                 "Name": "MINING",
                 "ID": 1275
+            },
+            {
+                "Name": "STOCK MARKET",
+                "ID": 1391
             }
         ]
     },
@@ -1106,7 +1111,8 @@
             "CLIMATE FINANCE",
             "DATA CENTRES",
             "MARINE ECOSYSTEM",
-            "AIR POLLUTION"
+            "AIR POLLUTION",
+            "WINTER WEATHER"
         ],
         "Sub Categories": [
             {
@@ -1128,6 +1134,10 @@
             {
                 "Name": "AIR POLLUTION",
                 "ID": 1347
+            },
+            {
+                "Name": "WINTER WEATHER",
+                "ID": 1379
             }
         ]
     },
@@ -1150,7 +1160,8 @@
         "Filter": [
             "POPULATION",
             "APOCALYPTIC PREDICTIONS",
-            "SPACEFLIGHT"
+            "SPACEFLIGHT",
+            "PHYSICS"
         ],
         "Sub Categories": [
             {
@@ -1160,6 +1171,10 @@
             {
                 "Name": "SPACEFLIGHT",
                 "ID": 1234
+            },
+            {
+                "Name": "PHYSICS",
+                "ID": 1385
             }
         ]
     }
