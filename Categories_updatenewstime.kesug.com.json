@@ -126,7 +126,8 @@
             "EDUCATION",
             "INTERNATIONAL NEWS",
             "HUMANITARIAN AID",
-            "MARITAL RAPE"
+            "MARITAL RAPE",
+            "POLITICAL ARREST"
         ],
         "ID": 6,
         "Sub Categories": [
@@ -597,6 +598,10 @@
             {
                 "Name": "MARITAL RAPE",
                 "ID": 1367
+            },
+            {
+                "Name": "POLITICAL ARREST",
+                "ID": 1372
             }
         ]
     },

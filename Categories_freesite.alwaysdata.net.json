@@ -1130,12 +1130,17 @@
         "Category Name": "SCIENCE",
         "ID": 767,
         "Filter": [
-            "SPACE RESEARCH"
+            "SPACE RESEARCH",
+            "SPACE EXPLORATION"
         ],
         "Sub Categories": [
             {
                 "Name": "SPACE RESEARCH",
                 "ID": 768
+            },
+            {
+                "Name": "SPACE EXPLORATION",
+                "ID": 1384
             }
         ]
     },
