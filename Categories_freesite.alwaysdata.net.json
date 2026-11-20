@@ -87,7 +87,8 @@
             "MILITARY DIPLOMACY",
             "US IRAN CONFLICT",
             "IMMIGRATION",
-            "INTERNATIONAL DIPLOMACY"
+            "INTERNATIONAL DIPLOMACY",
+            "LABOR PROTESTS"
         ],
         "ID": 48,
         "Sub Categories": [
@@ -410,6 +411,10 @@
             {
                 "Name": "INTERNATIONAL DIPLOMACY",
                 "ID": 1449
+            },
+            {
+                "Name": "LABOR PROTESTS",
+                "ID": 1451
             }
         ]
     },

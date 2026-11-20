@@ -134,7 +134,8 @@
             "OPPOSITION ALLIANCE",
             "EXPLOSION",
             "EUROPE POLITICS",
-            "INTERNATIONAL LAW"
+            "INTERNATIONAL LAW",
+            "ONLINE FRAUD"
         ],
         "ID": 6,
         "Sub Categories": [
@@ -637,6 +638,10 @@
             {
                 "Name": "INTERNATIONAL LAW",
                 "ID": 1431
+            },
+            {
+                "Name": "ONLINE FRAUD",
+                "ID": 1437
             }
         ]
     },
