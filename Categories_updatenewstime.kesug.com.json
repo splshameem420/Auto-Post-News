@@ -131,7 +131,10 @@
             "INTERNATIONAL TRIBUNAL",
             "CRIME & CONFLICT",
             "INDIGENOUS RIGHTS",
-            "OPPOSITION ALLIANCE"
+            "OPPOSITION ALLIANCE",
+            "EXPLOSION",
+            "EUROPE POLITICS",
+            "INTERNATIONAL LAW"
         ],
         "ID": 6,
         "Sub Categories": [
@@ -622,6 +625,18 @@
             {
                 "Name": "OPPOSITION ALLIANCE",
                 "ID": 1418
+            },
+            {
+                "Name": "EXPLOSION",
+                "ID": 1422
+            },
+            {
+                "Name": "EUROPE POLITICS",
+                "ID": 1427
+            },
+            {
+                "Name": "INTERNATIONAL LAW",
+                "ID": 1431
             }
         ]
     },

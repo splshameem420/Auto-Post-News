@@ -86,7 +86,8 @@
             "MIDDLE EAST DEFENSE",
             "MILITARY DIPLOMACY",
             "US IRAN CONFLICT",
-            "IMMIGRATION"
+            "IMMIGRATION",
+            "INTERNATIONAL DIPLOMACY"
         ],
         "ID": 48,
         "Sub Categories": [
@@ -405,6 +406,10 @@
             {
                 "Name": "IMMIGRATION",
                 "ID": 1416
+            },
+            {
+                "Name": "INTERNATIONAL DIPLOMACY",
+                "ID": 1449
             }
         ]
     },
@@ -1148,7 +1153,8 @@
         "ID": 665,
         "Filter": [
             "WILDLIFE CONSERVATION",
-            "WILDLIFE"
+            "WILDLIFE",
+            "CLIMATE CHANGE"
         ],
         "Sub Categories": [
             {
@@ -1158,6 +1164,10 @@
             {
                 "Name": "WILDLIFE",
                 "ID": 1238
+            },
+            {
+                "Name": "CLIMATE CHANGE",
+                "ID": 1440
             }
         ]
     },
