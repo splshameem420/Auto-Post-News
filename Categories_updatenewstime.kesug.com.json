@@ -129,7 +129,9 @@
             "MARITAL RAPE",
             "POLITICAL ARREST",
             "INTERNATIONAL TRIBUNAL",
-            "CRIME & CONFLICT"
+            "CRIME & CONFLICT",
+            "INDIGENOUS RIGHTS",
+            "OPPOSITION ALLIANCE"
         ],
         "ID": 6,
         "Sub Categories": [
@@ -612,6 +614,14 @@
             {
                 "Name": "CRIME & CONFLICT",
                 "ID": 1405
+            },
+            {
+                "Name": "INDIGENOUS RIGHTS",
+                "ID": 1413
+            },
+            {
+                "Name": "OPPOSITION ALLIANCE",
+                "ID": 1418
             }
         ]
     },

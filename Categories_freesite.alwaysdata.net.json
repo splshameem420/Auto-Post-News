@@ -433,7 +433,8 @@
             "GOLD PRICE",
             "AUTOMOTIVE",
             "BANKING LAW",
-            "CORPORATE SCANDAL"
+            "CORPORATE SCANDAL",
+            "STOCK MARKET"
         ],
         "ID": 205,
         "Sub Categories": [
@@ -464,6 +465,10 @@
             {
                 "Name": "CORPORATE SCANDAL",
                 "ID": 1095
+            },
+            {
+                "Name": "STOCK MARKET",
+                "ID": 1429
             }
         ]
     },
@@ -788,7 +793,8 @@
             "AI ETHICS",
             "CLOUD SERVICES",
             "SOFTWARE OUTAGE",
-            "CYBER SECURITY"
+            "CYBER SECURITY",
+            "PRIVACY"
         ],
         "ID": 148,
         "Sub Categories": [
@@ -835,6 +841,10 @@
             {
                 "Name": "CYBER SECURITY",
                 "ID": 1293
+            },
+            {
+                "Name": "PRIVACY",
+                "ID": 1424
             }
         ]
     },
