@@ -513,7 +513,8 @@
             "DIABETES",
             "INFECTIOUS DISEASE",
             "FETAL SURGERY",
-            "YOUTH COMMUNITY"
+            "YOUTH COMMUNITY",
+            "TOURIST NEWS"
         ],
         "ID": 106,
         "Sub Categories": [
@@ -556,6 +557,10 @@
             {
                 "Name": "YOUTH COMMUNITY",
                 "ID": 1403
+            },
+            {
+                "Name": "TOURIST NEWS",
+                "ID": 1476
             }
         ]
     },

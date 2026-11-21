@@ -136,7 +136,8 @@
             "EUROPE POLITICS",
             "INTERNATIONAL LAW",
             "ONLINE FRAUD",
-            "LANGUAGE COURSE"
+            "LANGUAGE COURSE",
+            "CYBER SECURITY LAW"
         ],
         "ID": 6,
         "Sub Categories": [
@@ -647,6 +648,10 @@
             {
                 "Name": "LANGUAGE COURSE",
                 "ID": 1451
+            },
+            {
+                "Name": "CYBER SECURITY LAW",
+                "ID": 1462
             }
         ]
     },
