@@ -88,7 +88,8 @@
             "US IRAN CONFLICT",
             "IMMIGRATION",
             "INTERNATIONAL DIPLOMACY",
-            "LABOR PROTESTS"
+            "LABOR PROTESTS",
+            "STUDENT POLITICS"
         ],
         "ID": 48,
         "Sub Categories": [
@@ -415,6 +416,10 @@
             {
                 "Name": "LABOR PROTESTS",
                 "ID": 1451
+            },
+            {
+                "Name": "STUDENT POLITICS",
+                "ID": 1462
             }
         ]
     },
@@ -1159,7 +1164,8 @@
         "Filter": [
             "WILDLIFE CONSERVATION",
             "WILDLIFE",
-            "CLIMATE CHANGE"
+            "CLIMATE CHANGE",
+            "CLIMATE POLICY"
         ],
         "Sub Categories": [
             {
@@ -1173,6 +1179,10 @@
             {
                 "Name": "CLIMATE CHANGE",
                 "ID": 1440
+            },
+            {
+                "Name": "CLIMATE POLICY",
+                "ID": 1467
             }
         ]
     },

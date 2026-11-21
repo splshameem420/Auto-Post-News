@@ -135,7 +135,8 @@
             "EXPLOSION",
             "EUROPE POLITICS",
             "INTERNATIONAL LAW",
-            "ONLINE FRAUD"
+            "ONLINE FRAUD",
+            "LANGUAGE COURSE"
         ],
         "ID": 6,
         "Sub Categories": [
@@ -642,6 +643,10 @@
             {
                 "Name": "ONLINE FRAUD",
                 "ID": 1437
+            },
+            {
+                "Name": "LANGUAGE COURSE",
+                "ID": 1451
             }
         ]
     },
