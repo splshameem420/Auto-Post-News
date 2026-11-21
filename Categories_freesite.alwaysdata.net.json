@@ -1070,7 +1070,8 @@
         "Filter": [
             "CHILD ABUSE",
             "ELDERLY WELFARE",
-            "LANGUAGE CULTURE"
+            "LANGUAGE CULTURE",
+            "SOCIAL SERVICE"
         ],
         "Sub Categories": [
             {
@@ -1084,6 +1085,10 @@
             {
                 "Name": "LANGUAGE CULTURE",
                 "ID": 833
+            },
+            {
+                "Name": "SOCIAL SERVICE",
+                "ID": 1480
             }
         ]
     },
