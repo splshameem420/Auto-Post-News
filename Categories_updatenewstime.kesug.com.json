@@ -139,7 +139,8 @@
             "LANGUAGE COURSE",
             "CYBER SECURITY LAW",
             "ESPIONAGE",
-            "TERRITORIAL CLAIMS"
+            "TERRITORIAL CLAIMS",
+            "MIDDLE EAST NEWS"
         ],
         "ID": 6,
         "Sub Categories": [
@@ -662,6 +663,10 @@
             {
                 "Name": "TERRITORIAL CLAIMS",
                 "ID": 1503
+            },
+            {
+                "Name": "MIDDLE EAST NEWS",
+                "ID": 1513
             }
         ]
     },
@@ -699,7 +704,8 @@
             "HOSPITALITY",
             "GARMENT INDUSTRY",
             "MINING",
-            "STOCK MARKET"
+            "STOCK MARKET",
+            "LABOR CRISIS"
         ],
         "ID": 169,
         "Sub Categories": [
@@ -766,6 +772,10 @@
             {
                 "Name": "STOCK MARKET",
                 "ID": 1391
+            },
+            {
+                "Name": "LABOR CRISIS",
+                "ID": 1509
             }
         ]
     },
@@ -948,7 +958,8 @@
             "MOTORSPORT",
             "PREMIER LEAGUE",
             "CRICKET NEWS",
-            "EXTREME SPORTS"
+            "EXTREME SPORTS",
+            "CHESS"
         ],
         "ID": 10,
         "Sub Categories": [
@@ -975,6 +986,10 @@
             {
                 "Name": "EXTREME SPORTS",
                 "ID": 1333
+            },
+            {
+                "Name": "CHESS",
+                "ID": 1517
             }
         ]
     },

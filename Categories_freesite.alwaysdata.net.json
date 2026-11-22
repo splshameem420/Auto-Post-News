@@ -91,7 +91,8 @@
             "LABOR PROTESTS",
             "STUDENT POLITICS",
             "CYCLONE",
-            "FOREIGN RELATIONS"
+            "FOREIGN RELATIONS",
+            "ARSON AND VIOLENCE"
         ],
         "ID": 48,
         "Sub Categories": [
@@ -430,6 +431,10 @@
             {
                 "Name": "FOREIGN RELATIONS",
                 "ID": 1512
+            },
+            {
+                "Name": "ARSON AND VIOLENCE",
+                "ID": 1518
             }
         ]
     },
