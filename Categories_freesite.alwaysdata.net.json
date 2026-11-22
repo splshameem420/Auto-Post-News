@@ -92,7 +92,10 @@
             "STUDENT POLITICS",
             "CYCLONE",
             "FOREIGN RELATIONS",
-            "ARSON AND VIOLENCE"
+            "ARSON AND VIOLENCE",
+            "HISTORY",
+            "CRYPTOCURRENCY",
+            "NAVAL SECURITY"
         ],
         "ID": 48,
         "Sub Categories": [
@@ -435,6 +438,18 @@
             {
                 "Name": "ARSON AND VIOLENCE",
                 "ID": 1518
+            },
+            {
+                "Name": "HISTORY",
+                "ID": 1535
+            },
+            {
+                "Name": "CRYPTOCURRENCY",
+                "ID": 1538
+            },
+            {
+                "Name": "NAVAL SECURITY",
+                "ID": 1542
             }
         ]
     },

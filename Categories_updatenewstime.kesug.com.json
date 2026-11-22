@@ -974,7 +974,8 @@
             "PREMIER LEAGUE",
             "CRICKET NEWS",
             "EXTREME SPORTS",
-            "CHESS"
+            "CHESS",
+            "WOMEN'S SOCCER"
         ],
         "ID": 10,
         "Sub Categories": [
@@ -1005,6 +1006,10 @@
             {
                 "Name": "CHESS",
                 "ID": 1517
+            },
+            {
+                "Name": "WOMEN'S SOCCER",
+                "ID": 1543
             }
         ]
     },
