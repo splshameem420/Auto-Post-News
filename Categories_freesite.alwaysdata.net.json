@@ -89,7 +89,9 @@
             "IMMIGRATION",
             "INTERNATIONAL DIPLOMACY",
             "LABOR PROTESTS",
-            "STUDENT POLITICS"
+            "STUDENT POLITICS",
+            "CYCLONE",
+            "FOREIGN RELATIONS"
         ],
         "ID": 48,
         "Sub Categories": [
@@ -420,6 +422,14 @@
             {
                 "Name": "STUDENT POLITICS",
                 "ID": 1462
+            },
+            {
+                "Name": "CYCLONE",
+                "ID": 1508
+            },
+            {
+                "Name": "FOREIGN RELATIONS",
+                "ID": 1512
             }
         ]
     },
@@ -1071,7 +1081,8 @@
             "CHILD ABUSE",
             "ELDERLY WELFARE",
             "LANGUAGE CULTURE",
-            "SOCIAL SERVICE"
+            "SOCIAL SERVICE",
+            "RURAL LIFE"
         ],
         "Sub Categories": [
             {
@@ -1089,6 +1100,10 @@
             {
                 "Name": "SOCIAL SERVICE",
                 "ID": 1480
+            },
+            {
+                "Name": "RURAL LIFE",
+                "ID": 1500
             }
         ]
     },

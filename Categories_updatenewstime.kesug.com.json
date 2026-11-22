@@ -137,7 +137,9 @@
             "INTERNATIONAL LAW",
             "ONLINE FRAUD",
             "LANGUAGE COURSE",
-            "CYBER SECURITY LAW"
+            "CYBER SECURITY LAW",
+            "ESPIONAGE",
+            "TERRITORIAL CLAIMS"
         ],
         "ID": 6,
         "Sub Categories": [
@@ -652,6 +654,14 @@
             {
                 "Name": "CYBER SECURITY LAW",
                 "ID": 1462
+            },
+            {
+                "Name": "ESPIONAGE",
+                "ID": 1498
+            },
+            {
+                "Name": "TERRITORIAL CLAIMS",
+                "ID": 1503
             }
         ]
     },
@@ -887,7 +897,8 @@
             "AI ACTIVISM",
             "TECH NEWS",
             "CLOUD SERVICES",
-            "SOFTWARE OUTAGE"
+            "SOFTWARE OUTAGE",
+            "ARTIFICIAL INTELLIGENCE"
         ],
         "ID": 9,
         "Sub Categories": [
@@ -914,6 +925,10 @@
             {
                 "Name": "CLOUD SERVICES",
                 "ID": 1117
+            },
+            {
+                "Name": "ARTIFICIAL INTELLIGENCE",
+                "ID": 1490
             }
         ]
     },
