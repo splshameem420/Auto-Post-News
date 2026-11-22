@@ -140,7 +140,9 @@
             "CYBER SECURITY LAW",
             "ESPIONAGE",
             "TERRITORIAL CLAIMS",
-            "MIDDLE EAST NEWS"
+            "MIDDLE EAST NEWS",
+            "CANADA POLITICS",
+            "POLICY"
         ],
         "ID": 6,
         "Sub Categories": [
@@ -667,6 +669,14 @@
             {
                 "Name": "MIDDLE EAST NEWS",
                 "ID": 1513
+            },
+            {
+                "Name": "CANADA POLITICS",
+                "ID": 1525
+            },
+            {
+                "Name": "POLICY",
+                "ID": 1530
             }
         ]
     },
@@ -803,7 +813,8 @@
             "SKIN HEALTH",
             "MENTAL HEALTH",
             "OPHTHALMOLOGY",
-            "FOOD SAFETY"
+            "FOOD SAFETY",
+            "STROKE AWARENESS"
         ],
         "ID": 8,
         "Sub Categories": [
@@ -834,6 +845,10 @@
             {
                 "Name": "FOOD SAFETY",
                 "ID": 1134
+            },
+            {
+                "Name": "STROKE AWARENESS",
+                "ID": 1534
             }
         ]
     },
