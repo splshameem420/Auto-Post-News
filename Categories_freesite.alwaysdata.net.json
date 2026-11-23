@@ -95,7 +95,8 @@
             "ARSON AND VIOLENCE",
             "HISTORY",
             "CRYPTOCURRENCY",
-            "NAVAL SECURITY"
+            "NAVAL SECURITY",
+            "EUROPE NEWS"
         ],
         "ID": 48,
         "Sub Categories": [
@@ -450,6 +451,10 @@
             {
                 "Name": "NAVAL SECURITY",
                 "ID": 1542
+            },
+            {
+                "Name": "EUROPE NEWS",
+                "ID": 1558
             }
         ]
     },
@@ -1143,7 +1148,8 @@
             "CELEBRITY SCANDAL",
             "BANGLA DRAMA",
             "CELEBRITY GOSSIP",
-            "SOCIAL MEDIA"
+            "SOCIAL MEDIA",
+            "BOLLYWOOD NEWS"
         ],
         "Sub Categories": [
             {
@@ -1193,6 +1199,10 @@
             {
                 "Name": "SOCIAL MEDIA",
                 "ID": 1548
+            },
+            {
+                "Name": "BOLLYWOOD NEWS",
+                "ID": 1554
             }
         ]
     },

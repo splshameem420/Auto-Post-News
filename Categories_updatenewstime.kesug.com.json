@@ -142,7 +142,11 @@
             "TERRITORIAL CLAIMS",
             "MIDDLE EAST NEWS",
             "CANADA POLITICS",
-            "POLICY"
+            "POLICY",
+            "GAZA CRISIS",
+            "IRAN-US CONFLICT",
+            "RELIGION DEMOGRAPHICS",
+            "COALITION"
         ],
         "ID": 6,
         "Sub Categories": [
@@ -677,6 +681,22 @@
             {
                 "Name": "POLICY",
                 "ID": 1530
+            },
+            {
+                "Name": "GAZA CRISIS",
+                "ID": 1554
+            },
+            {
+                "Name": "IRAN-US CONFLICT",
+                "ID": 1557
+            },
+            {
+                "Name": "RELIGION DEMOGRAPHICS",
+                "ID": 1560
+            },
+            {
+                "Name": "COALITION",
+                "ID": 1565
             }
         ]
     },
@@ -1212,7 +1232,8 @@
             "DATA CENTRES",
             "MARINE ECOSYSTEM",
             "AIR POLLUTION",
-            "WINTER WEATHER"
+            "WINTER WEATHER",
+            "CLIMATE CONFERENCE"
         ],
         "Sub Categories": [
             {
@@ -1238,6 +1259,10 @@
             {
                 "Name": "WINTER WEATHER",
                 "ID": 1379
+            },
+            {
+                "Name": "CLIMATE CONFERENCE",
+                "ID": 1549
             }
         ]
     },
