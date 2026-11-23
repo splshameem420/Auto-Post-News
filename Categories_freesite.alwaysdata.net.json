@@ -1142,7 +1142,8 @@
             "BENGALI CINEMA",
             "CELEBRITY SCANDAL",
             "BANGLA DRAMA",
-            "CELEBRITY GOSSIP"
+            "CELEBRITY GOSSIP",
+            "SOCIAL MEDIA"
         ],
         "Sub Categories": [
             {
@@ -1188,6 +1189,10 @@
             {
                 "Name": "CELEBRITY GOSSIP",
                 "ID": 1309
+            },
+            {
+                "Name": "SOCIAL MEDIA",
+                "ID": 1548
             }
         ]
     },
