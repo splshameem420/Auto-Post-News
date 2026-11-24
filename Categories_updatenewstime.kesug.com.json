@@ -146,7 +146,8 @@
             "GAZA CRISIS",
             "IRAN-US CONFLICT",
             "RELIGION DEMOGRAPHICS",
-            "COALITION"
+            "COALITION",
+            "LEGAL"
         ],
         "ID": 6,
         "Sub Categories": [
@@ -697,6 +698,10 @@
             {
                 "Name": "COALITION",
                 "ID": 1565
+            },
+            {
+                "Name": "LEGAL",
+                "ID": 1575
             }
         ]
     },
@@ -943,7 +948,8 @@
             "TECH NEWS",
             "CLOUD SERVICES",
             "SOFTWARE OUTAGE",
-            "ARTIFICIAL INTELLIGENCE"
+            "ARTIFICIAL INTELLIGENCE",
+            "EXPORT CONTROL"
         ],
         "ID": 9,
         "Sub Categories": [
@@ -974,6 +980,10 @@
             {
                 "Name": "ARTIFICIAL INTELLIGENCE",
                 "ID": 1490
+            },
+            {
+                "Name": "EXPORT CONTROL",
+                "ID": 1580
             }
         ]
     },
@@ -1286,7 +1296,8 @@
             "POPULATION",
             "APOCALYPTIC PREDICTIONS",
             "SPACEFLIGHT",
-            "PHYSICS"
+            "PHYSICS",
+            "ASTRONOMY"
         ],
         "Sub Categories": [
             {
@@ -1300,6 +1311,10 @@
             {
                 "Name": "PHYSICS",
                 "ID": 1385
+            },
+            {
+                "Name": "ASTRONOMY",
+                "ID": 1569
             }
         ]
     }
