@@ -96,7 +96,10 @@
             "HISTORY",
             "CRYPTOCURRENCY",
             "NAVAL SECURITY",
-            "EUROPE NEWS"
+            "EUROPE NEWS",
+            "MIDDLE EAST NEWS",
+            "CURRENT AFFAIRS",
+            "DEMOGRAPHICS"
         ],
         "ID": 48,
         "Sub Categories": [
@@ -455,6 +458,18 @@
             {
                 "Name": "EUROPE NEWS",
                 "ID": 1558
+            },
+            {
+                "Name": "MIDDLE EAST NEWS",
+                "ID": 1589
+            },
+            {
+                "Name": "CURRENT AFFAIRS",
+                "ID": 1594
+            },
+            {
+                "Name": "DEMOGRAPHICS",
+                "ID": 1596
             }
         ]
     },
@@ -484,7 +499,8 @@
             "AUTOMOTIVE",
             "BANKING LAW",
             "CORPORATE SCANDAL",
-            "STOCK MARKET"
+            "STOCK MARKET",
+            "ECONOMY NEWS"
         ],
         "ID": 205,
         "Sub Categories": [
@@ -519,6 +535,10 @@
             {
                 "Name": "STOCK MARKET",
                 "ID": 1429
+            },
+            {
+                "Name": "ECONOMY NEWS",
+                "ID": 1583
             }
         ]
     },
