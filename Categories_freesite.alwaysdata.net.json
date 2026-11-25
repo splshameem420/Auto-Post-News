@@ -875,7 +875,8 @@
             "CLOUD SERVICES",
             "SOFTWARE OUTAGE",
             "CYBER SECURITY",
-            "PRIVACY"
+            "PRIVACY",
+            "AI"
         ],
         "ID": 148,
         "Sub Categories": [
@@ -926,6 +927,10 @@
             {
                 "Name": "PRIVACY",
                 "ID": 1424
+            },
+            {
+                "Name": "AI",
+                "ID": 1620
             }
         ]
     },
@@ -1278,7 +1283,8 @@
         "Filter": [
             "SPACE RESEARCH",
             "SPACE EXPLORATION",
-            "SPACE"
+            "SPACE",
+            "SPACE MISSION"
         ],
         "Sub Categories": [
             {
