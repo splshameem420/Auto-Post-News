@@ -147,7 +147,9 @@
             "IRAN-US CONFLICT",
             "RELIGION DEMOGRAPHICS",
             "COALITION",
-            "LEGAL"
+            "LEGAL",
+            "HEALTH",
+            "REGIONAL HISTORY"
         ],
         "ID": 6,
         "Sub Categories": [
@@ -702,6 +704,14 @@
             {
                 "Name": "LEGAL",
                 "ID": 1575
+            },
+            {
+                "Name": "HEALTH",
+                "ID": 1602
+            },
+            {
+                "Name": "REGIONAL HISTORY",
+                "ID": 1607
             }
         ]
     },
@@ -1167,7 +1177,8 @@
             "THEATRE",
             "FILM",
             "LITERATURE",
-            "ONION FARMING"
+            "ONION FARMING",
+            "ARCHAEOLOGY"
         ],
         "Sub Categories": [
             {
@@ -1189,6 +1200,10 @@
             {
                 "Name": "ONION FARMING",
                 "ID": 579
+            },
+            {
+                "Name": "ARCHAEOLOGY",
+                "ID": 1593
             }
         ]
     },

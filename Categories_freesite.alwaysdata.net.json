@@ -99,7 +99,8 @@
             "EUROPE NEWS",
             "MIDDLE EAST NEWS",
             "CURRENT AFFAIRS",
-            "DEMOGRAPHICS"
+            "DEMOGRAPHICS",
+            "ARREST NEWS"
         ],
         "ID": 48,
         "Sub Categories": [
@@ -470,6 +471,10 @@
             {
                 "Name": "DEMOGRAPHICS",
                 "ID": 1596
+            },
+            {
+                "Name": "ARREST NEWS",
+                "ID": 1602
             }
         ]
     },
@@ -1272,7 +1277,8 @@
         "ID": 767,
         "Filter": [
             "SPACE RESEARCH",
-            "SPACE EXPLORATION"
+            "SPACE EXPLORATION",
+            "SPACE"
         ],
         "Sub Categories": [
             {
@@ -1282,6 +1288,10 @@
             {
                 "Name": "SPACE EXPLORATION",
                 "ID": 1384
+            },
+            {
+                "Name": "SPACE",
+                "ID": 1607
             }
         ]
     },
