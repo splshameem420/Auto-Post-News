@@ -839,7 +839,8 @@
             "MENTAL HEALTH",
             "OPHTHALMOLOGY",
             "FOOD SAFETY",
-            "STROKE AWARENESS"
+            "STROKE AWARENESS",
+            "DIABETES"
         ],
         "ID": 8,
         "Sub Categories": [
@@ -874,6 +875,10 @@
             {
                 "Name": "STROKE AWARENESS",
                 "ID": 1534
+            },
+            {
+                "Name": "DIABETES",
+                "ID": 1589
             }
         ]
     },
