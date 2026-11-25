@@ -5422,5 +5422,53 @@
     {
         "Tag Name": "Rosstat Data",
         "ID": 1620
+    },
+    {
+        "Tag Name": "নাম পরিবর্তন",
+        "ID": 1622
+    },
+    {
+        "Tag Name": "West Bengal",
+        "ID": 1623
+    },
+    {
+        "Tag Name": "Champions League",
+        "ID": 1624
+    },
+    {
+        "Tag Name": "Roma",
+        "ID": 1625
+    },
+    {
+        "Tag Name": "PSG",
+        "ID": 1626
+    },
+    {
+        "Tag Name": "Malen",
+        "ID": 1627
+    },
+    {
+        "Tag Name": "Injuries",
+        "ID": 1628
+    },
+    {
+        "Tag Name": "Virginia",
+        "ID": 1630
+    },
+    {
+        "Tag Name": "US Education Department",
+        "ID": 1631
+    },
+    {
+        "Tag Name": "child sexual abuse",
+        "ID": 1632
+    },
+    {
+        "Tag Name": "school closures",
+        "ID": 1633
+    },
+    {
+        "Tag Name": "Trump administration",
+        "ID": 1634
     }
 ]

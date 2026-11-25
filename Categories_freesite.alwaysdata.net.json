@@ -100,7 +100,8 @@
             "MIDDLE EAST NEWS",
             "CURRENT AFFAIRS",
             "DEMOGRAPHICS",
-            "ARREST NEWS"
+            "ARREST NEWS",
+            "ARREST"
         ],
         "ID": 48,
         "Sub Categories": [
@@ -475,6 +476,10 @@
             {
                 "Name": "ARREST NEWS",
                 "ID": 1602
+            },
+            {
+                "Name": "ARREST",
+                "ID": 1630
             }
         ]
     },
@@ -683,7 +688,8 @@
             "POLITICAL HISTORY",
             "MYANMAR",
             "CORRUPTION",
-            "TEXTBOOK DISTRIBUTION"
+            "TEXTBOOK DISTRIBUTION",
+            "HIGHER EDUCATION"
         ],
         "ID": 21,
         "Sub Categories": [
@@ -850,6 +856,10 @@
             {
                 "Name": "CORRUPTION",
                 "ID": 1029
+            },
+            {
+                "Name": "HIGHER EDUCATION",
+                "ID": 1637
             }
         ]
     },

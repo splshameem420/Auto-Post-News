@@ -149,7 +149,9 @@
             "COALITION",
             "LEGAL",
             "HEALTH",
-            "REGIONAL HISTORY"
+            "REGIONAL HISTORY",
+            "STATE POLITICS",
+            "SCHOOL SAFETY"
         ],
         "ID": 6,
         "Sub Categories": [
@@ -712,6 +714,14 @@
             {
                 "Name": "REGIONAL HISTORY",
                 "ID": 1607
+            },
+            {
+                "Name": "STATE POLITICS",
+                "ID": 1621
+            },
+            {
+                "Name": "SCHOOL SAFETY",
+                "ID": 1629
             }
         ]
     },
