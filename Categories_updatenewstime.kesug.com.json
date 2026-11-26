@@ -151,7 +151,8 @@
             "HEALTH",
             "REGIONAL HISTORY",
             "STATE POLITICS",
-            "SCHOOL SAFETY"
+            "SCHOOL SAFETY",
+            "LOCAL POLITICS"
         ],
         "ID": 6,
         "Sub Categories": [
@@ -722,6 +723,10 @@
             {
                 "Name": "SCHOOL SAFETY",
                 "ID": 1629
+            },
+            {
+                "Name": "LOCAL POLITICS",
+                "ID": 1646
             }
         ]
     },
@@ -1030,7 +1035,8 @@
             "CRICKET NEWS",
             "EXTREME SPORTS",
             "CHESS",
-            "WOMEN'S SOCCER"
+            "WOMEN'S SOCCER",
+            "MOTOR RACING"
         ],
         "ID": 10,
         "Sub Categories": [
@@ -1065,6 +1071,10 @@
             {
                 "Name": "WOMEN'S SOCCER",
                 "ID": 1543
+            },
+            {
+                "Name": "MOTOR RACING",
+                "ID": 1642
             }
         ]
     },
@@ -1345,6 +1355,19 @@
             {
                 "Name": "ASTRONOMY",
                 "ID": 1569
+            }
+        ]
+    },
+    {
+        "Category Name": "JOBS",
+        "ID": 1635,
+        "Filter": [
+            "JOB CIRCULAR"
+        ],
+        "Sub Categories": [
+            {
+                "Name": "JOB CIRCULAR",
+                "ID": 1636
             }
         ]
     }
