@@ -152,7 +152,9 @@
             "REGIONAL HISTORY",
             "STATE POLITICS",
             "SCHOOL SAFETY",
-            "LOCAL POLITICS"
+            "LOCAL POLITICS",
+            "WATER TREATY",
+            "MONGOL EMPIRE"
         ],
         "ID": 6,
         "Sub Categories": [
@@ -727,6 +729,14 @@
             {
                 "Name": "LOCAL POLITICS",
                 "ID": 1646
+            },
+            {
+                "Name": "WATER TREATY",
+                "ID": 1653
+            },
+            {
+                "Name": "MONGOL EMPIRE",
+                "ID": 1665
             }
         ]
     },
@@ -765,7 +775,8 @@
             "GARMENT INDUSTRY",
             "MINING",
             "STOCK MARKET",
-            "LABOR CRISIS"
+            "LABOR CRISIS",
+            "INTERNATIONAL TRADE"
         ],
         "ID": 169,
         "Sub Categories": [
@@ -836,6 +847,10 @@
             {
                 "Name": "LABOR CRISIS",
                 "ID": 1509
+            },
+            {
+                "Name": "INTERNATIONAL TRADE",
+                "ID": 1660
             }
         ]
     },

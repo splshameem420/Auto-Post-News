@@ -101,7 +101,8 @@
             "CURRENT AFFAIRS",
             "DEMOGRAPHICS",
             "ARREST NEWS",
-            "ARREST"
+            "ARREST",
+            "SPANISH POLITICS"
         ],
         "ID": 48,
         "Sub Categories": [
@@ -480,6 +481,10 @@
             {
                 "Name": "ARREST",
                 "ID": 1630
+            },
+            {
+                "Name": "SPANISH POLITICS",
+                "ID": 1661
             }
         ]
     },
