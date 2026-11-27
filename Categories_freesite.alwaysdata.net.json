@@ -104,7 +104,8 @@
             "ARREST",
             "SPANISH POLITICS",
             "ISLAMIC LIFE",
-            "SECULARISM"
+            "SECULARISM",
+            "RUSSIA UKRAINE WAR"
         ],
         "ID": 48,
         "Sub Categories": [
@@ -495,6 +496,10 @@
             {
                 "Name": "SECULARISM",
                 "ID": 1675
+            },
+            {
+                "Name": "RUSSIA UKRAINE WAR",
+                "ID": 1691
             }
         ]
     },
@@ -525,7 +530,8 @@
             "BANKING LAW",
             "CORPORATE SCANDAL",
             "STOCK MARKET",
-            "ECONOMY NEWS"
+            "ECONOMY NEWS",
+            "MOBILE BANKING"
         ],
         "ID": 205,
         "Sub Categories": [
@@ -564,6 +570,10 @@
             {
                 "Name": "ECONOMY NEWS",
                 "ID": 1583
+            },
+            {
+                "Name": "MOBILE BANKING",
+                "ID": 1694
             }
         ]
     },
@@ -1144,7 +1154,8 @@
             "ARTS",
             "MUSHROOM FARMING",
             "LITERATURE",
-            "FILM"
+            "FILM",
+            "BOOK FAIR"
         ],
         "Sub Categories": [
             {
@@ -1162,6 +1173,10 @@
             {
                 "Name": "FILM",
                 "ID": 1231
+            },
+            {
+                "Name": "BOOK FAIR",
+                "ID": 1685
             }
         ]
     },
