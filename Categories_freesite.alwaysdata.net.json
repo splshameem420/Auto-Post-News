@@ -595,7 +595,8 @@
             "FETAL SURGERY",
             "YOUTH COMMUNITY",
             "TOURIST NEWS",
-            "REPRODUCTIVE HEALTH"
+            "REPRODUCTIVE HEALTH",
+            "WEDDING CULTURE"
         ],
         "ID": 106,
         "Sub Categories": [
@@ -646,6 +647,10 @@
             {
                 "Name": "REPRODUCTIVE HEALTH",
                 "ID": 1651
+            },
+            {
+                "Name": "WEDDING CULTURE",
+                "ID": 1680
             }
         ]
     },
