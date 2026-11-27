@@ -102,7 +102,9 @@
             "DEMOGRAPHICS",
             "ARREST NEWS",
             "ARREST",
-            "SPANISH POLITICS"
+            "SPANISH POLITICS",
+            "ISLAMIC LIFE",
+            "SECULARISM"
         ],
         "ID": 48,
         "Sub Categories": [
@@ -485,6 +487,14 @@
             {
                 "Name": "SPANISH POLITICS",
                 "ID": 1661
+            },
+            {
+                "Name": "ISLAMIC LIFE",
+                "ID": 1666
+            },
+            {
+                "Name": "SECULARISM",
+                "ID": 1675
             }
         ]
     },

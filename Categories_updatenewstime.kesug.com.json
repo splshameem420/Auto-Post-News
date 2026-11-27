@@ -154,7 +154,9 @@
             "SCHOOL SAFETY",
             "LOCAL POLITICS",
             "WATER TREATY",
-            "MONGOL EMPIRE"
+            "MONGOL EMPIRE",
+            "ISRAELI-PALESTINIAN CONFLICT",
+            "ACCIDENT"
         ],
         "ID": 6,
         "Sub Categories": [
@@ -737,6 +739,14 @@
             {
                 "Name": "MONGOL EMPIRE",
                 "ID": 1665
+            },
+            {
+                "Name": "ISRAELI-PALESTINIAN CONFLICT",
+                "ID": 1674
+            },
+            {
+                "Name": "ACCIDENT",
+                "ID": 1679
             }
         ]
     },
