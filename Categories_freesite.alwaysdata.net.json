@@ -606,7 +606,8 @@
             "YOUTH COMMUNITY",
             "TOURIST NEWS",
             "REPRODUCTIVE HEALTH",
-            "WEDDING CULTURE"
+            "WEDDING CULTURE",
+            "OCCUPATIONAL SAFETY"
         ],
         "ID": 106,
         "Sub Categories": [
@@ -661,6 +662,10 @@
             {
                 "Name": "WEDDING CULTURE",
                 "ID": 1680
+            },
+            {
+                "Name": "OCCUPATIONAL SAFETY",
+                "ID": 1702
             }
         ]
     },
