@@ -105,7 +105,8 @@
             "SPANISH POLITICS",
             "ISLAMIC LIFE",
             "SECULARISM",
-            "RUSSIA UKRAINE WAR"
+            "RUSSIA UKRAINE WAR",
+            "STATE POLITICS"
         ],
         "ID": 48,
         "Sub Categories": [
@@ -500,6 +501,10 @@
             {
                 "Name": "RUSSIA UKRAINE WAR",
                 "ID": 1691
+            },
+            {
+                "Name": "STATE POLITICS",
+                "ID": 1716
             }
         ]
     },

@@ -156,7 +156,9 @@
             "WATER TREATY",
             "MONGOL EMPIRE",
             "ISRAELI-PALESTINIAN CONFLICT",
-            "ACCIDENT"
+            "ACCIDENT",
+            "ARCHAEOLOGY",
+            "SUDAN CRISIS"
         ],
         "ID": 6,
         "Sub Categories": [
@@ -747,6 +749,14 @@
             {
                 "Name": "ACCIDENT",
                 "ID": 1679
+            },
+            {
+                "Name": "ARCHAEOLOGY",
+                "ID": 1714
+            },
+            {
+                "Name": "SUDAN CRISIS",
+                "ID": 1718
             }
         ]
     },
